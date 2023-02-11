@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - PRINCIPAL'S MESSAGE.md
       - ABOUT US.md
+      - PRINCIPAL'S MESSAGE.md
