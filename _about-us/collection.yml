@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - VISION, MISSION, CORE VALUES.md
       - ABOUT US.md
       - PRINCIPAL'S MESSAGE.md
       - SCHOOL HISTORY.md
+      - VISION, MISSION, CORE VALUES.md
