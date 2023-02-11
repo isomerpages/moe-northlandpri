@@ -38,4 +38,51 @@ Footnote:<br>
 
 #### School Core ‘C-LITE’ Values
 
+**COMPASSION**
 
+*   I am kind.
+*   I care and have empathy for others.
+*   I am generous in helping others.
+
+**LIFE-LONG LEARNING**
+
+*   I am curious and open to new ideas.
+*   I am an independent learner.
+*   I create my own knowledge.
+
+**INTEGRITY**
+
+*   I am honest and morally upright.
+*   I am responsible for my actions.
+*   I have moral courage.
+
+**TEAMWORK**
+
+*   I actively collaborate with others to achieve our common goals.
+*   I respect others’ views.
+*   I affirm my team-mates’ efforts.
+
+**EXCELLENCE**
+
+*   I strive to be the best I can be.
+*   I deliver quality work.
+*   I am resilient and overcome setbacks.
+
+#### Core Values for Staff
+
+**COMPASSION** \- We treat each other with care and concern.
+
+**LIFELONG LEARNING** - We engage in reflective practices, and develop ourselves professionally.
+
+**INTEGRITY** \- We are upright and honest in all that we do.
+
+**TEAMWORK** \- We respect our colleagues and work collaboratively with them.
+
+**EXCELLENCE** \- We strive for excellence in thoughts, words and actions
+
+#### MOE Corporate Values
+
+*   Integrity The Foundation
+*   People Our Focus
+*   Learning Our Passion
+*   Excellence Our Pursuit
