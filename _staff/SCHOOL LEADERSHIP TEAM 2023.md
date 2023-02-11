@@ -70,7 +70,7 @@ description: ""
 | **Mathematics**  | Mrs Chong Cheng Cheng<br>[chong\_cheng\_cheg@schools.gov.sg](mailto:chong_cheng_cheng@schools.gov.sg)  |
 | **Science**  | Mdm Chan See Yeu<br>[chan\_see\_yeu@schools.gov.sg](mailto:chan_see_yeu@schools.gov.sg)  |
 | **Science**  |  Mrs Emiline Mui<br>[emiline\_neo\_shuen\_huey@schools.gov.sg](mailto:emiline_neo_shuen_huey@schools.gov.sg) |
+| **Art**  | Miss Soh Wan Hong<br>[soh\_wan\_hong@schools.gov.sg](mailto:soh_wan_hong@schools.gov.sg)  |
+| **Learning Support**  | Mrs Tan Lee Joon<br>[lim\_lee\_joon@schools.gov.sg](mailto:lim_lee_joon@schools.gov.sg)  |
 |   |   |
-|   |   |
-|   |   |
-|   |   |
+
