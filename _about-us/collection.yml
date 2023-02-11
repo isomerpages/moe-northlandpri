@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - ABOUT US.md
-      - PRINCIPAL'S MESSAGE.md
+      - Principal's Message.md
       - SCHOOL HISTORY.md
       - VISION, MISSION, CORE VALUES.md
       - STRATEGIC THRUSTS.md
