@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - STRATEGIC THRUSTS.md
       - ABOUT US.md
       - PRINCIPAL'S MESSAGE.md
       - SCHOOL HISTORY.md
       - VISION, MISSION, CORE VALUES.md
+      - STRATEGIC THRUSTS.md
