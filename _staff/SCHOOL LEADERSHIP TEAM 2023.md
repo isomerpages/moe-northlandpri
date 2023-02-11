@@ -59,3 +59,18 @@ description: ""
 | **Student Well-being**  | Mr Rajiv Jude Illesinghe<br>[rajiv\_jude\_illesinghe@schools.gov.sg](mailto:rajiv_jude_illesinghe@schools.gov.sg)  |
 |   |   |
 
+#### Senior Teacher (ST)
+
+|   |   |
+|:-:|---|
+| **English**  | Mrs Chitra Thirumaran<br>[chitra\_devi\_v\_ramalingam@schools.gov.sg](mailto:chitra_devi_v_ramalingam@schools.gov.sg)  |
+| **Chinese**  | Miss Ong Teck Lian<br>[ong\_teck\_lian@schools.gov.sg](mailto:ong_teck_lian@schools.gov.sg)  |
+| **Chinese**  | Mr Zheng Junren<br>[zheng\_junren@schools.gov.sg](mailto:zheng_junren@schools.gov.sg)  |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
