@@ -39,3 +39,23 @@ description: ""
 
 #### Level Head (LH)
 
+|   |   |
+|:-:|---|
+| **English**  | Mrs Katherine Chong<br>[tan\_wenxin@schools.gov.sg](mailto:tan_wenxin@schools.gov.sg)  |
+| **Mathematics**  | Mrs Ellis Chua<br>[tan\_qiu\_qing\_ellis@schools.gov.sg](mailto:tan_qiu_qing_ellis@schools.gov.sg)  |
+| **Science**  | Ms Davina Chai<br>[chai\_xiujuan\_davina@schools.gov.sg](mailto:chai_xiujuan_davina@schools.gov.sg)  |
+|   | Mrs Joycelyn Goh  |
+| **Aesthetics**  | Mdm Nor Afiza Binte Abdul Hamid<br>[nor\_afiza\_abdul\_hamid@schools.gov.sg](mailto:nor_afiza_abdul_hamid@schools.gov.sg)  |
+|   |   |
+
+#### Subject Head (SH)
+
+|   |   |
+|:-:|---|
+| **Malay & Tamil Languages**  | Mdm Anandhi d/o Nagaraja<br>[anandhi\_nagaraja@schools.gov.sg](mailto:anandhi_nagaraja@schools.gov.sg)  |
+| **Citizenship Education**  | Mrs Joyce Low<br>[cheung\_pei\_yi@schools.gov.sg](mailto:cheung_pei_yi@schools.gov.sg)  |
+| **CCA**  | Mr Wilson Tan Kay Chye<br>[tan\_kay\_chye\_wilson@schools.gov.sg](mailto:tan_kay_chye_wilson@schools.gov.sg)  |
+| **Discipline & Student Leadership**  | Mr Mohamed Faroek Hamsani<br>[mohamed\_faroek\_hamsani@schools.gov.sg](mailto:mohamed_faroek_hamsani@schools.gov.sg)  |
+| **Student Well-being**  | Mr Rajiv Jude Illesinghe<br>[rajiv\_jude\_illesinghe@schools.gov.sg](mailto:rajiv_jude_illesinghe@schools.gov.sg)  |
+|   |   |
+
