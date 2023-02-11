@@ -74,3 +74,10 @@ description: ""
 | **Learning Support**  | Mrs Tan Lee Joon<br>[lim\_lee\_joon@schools.gov.sg](mailto:lim_lee_joon@schools.gov.sg)  |
 |   |   |
 
+#### Executive Staff
+
+|   |   |
+|:-:|---|
+| **Operation Manager**  | Mr Ramachandran Nair<br>[ramachandran\_nair@schools.gov.sg](mailto:ramachandran_nair@schools.gov.sg)  |
+|   |   |
+
