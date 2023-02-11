@@ -2,4 +2,5 @@ collections:
   staff:
     output: true
     order:
+      - Primary 1 2023.md
       - SCHOOL LEADERSHIP TEAM 2023.md
