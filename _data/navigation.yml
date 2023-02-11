@@ -2,3 +2,6 @@ logo: /images/isomer-logo.svg
 links:
   - title: ABOUT US
     collection: about-us
+  - title: STAFF
+    url: /permalink
+    sublinks: []
