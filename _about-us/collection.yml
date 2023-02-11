@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - SCHOOL HISTORY.md
       - ABOUT US.md
       - PRINCIPAL'S MESSAGE.md
+      - SCHOOL HISTORY.md
