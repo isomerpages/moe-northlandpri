@@ -25,3 +25,17 @@ description: ""
 | **Information Communication & Technology**  | Mdm Cindy Heng<br>[heng\_cindy@schools.gov.sg](mailto:heng_cindy@schools.gov.sg)  |
 |   |   |
 
+#### Year Head (YH)
+
+|   |   |
+|:-:|---|
+| **Primary 1**  | Mdm Pauline Cheong<br>[cheong\_siew\_lan\_pauline@schools.gov.sg](mailto:cheong_siew_lan_pauline@schools.gov.sg)  |
+| **Primary 2**  | Mr Ganesan s/o Arumugan<br>[ganesan\_arumugan@schools.gov.sg](mailto:ganesan_arumugan@schools.gov.sg)  |
+| **Primary 3**  | Mr Shahrul Fadly Bin Abd Rahman<br>[shahrul\_fadly\_abd\_rahman@schools.gov.sg](mailto:shahrul_fadly_abd_rahman@schools.gov.sg)  |
+| **Primary 4**  | Miss Teo Choy Yim<br>[teo\_choy\_yim@schools.gov.sg](mailto:teo_choy_yim@schools.gov.sg)  |
+| **Primary 5**  | Mrs Siti Ardah Hazry<br>[siti\_ardah\_iskandar@schools.gov.sg](mailto:asmawati_abdullah@schools.gov.sg)  |
+| **Primary 6**  | Mrs Asmawati Ganesan<br>[asmawati\_abdullah@schools.gov.sg](mailto:asmawati_abdullah@schools.gov.sg)  |
+|   |   |
+
+#### Level Head (LH)
+
