@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - SCHOOL HOURS & RECESSES.md
       - ABOUT US.md
       - PRINCIPAL'S MESSAGE.md
       - SCHOOL HISTORY.md
       - VISION, MISSION, CORE VALUES.md
       - STRATEGIC THRUSTS.md
       - CREST, MOTTO, FLAG AND SONG.md
+      - SCHOOL HOURS & RECESSES.md
