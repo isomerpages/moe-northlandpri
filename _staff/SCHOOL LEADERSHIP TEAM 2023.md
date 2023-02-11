@@ -66,10 +66,10 @@ description: ""
 | **English**  | Mrs Chitra Thirumaran<br>[chitra\_devi\_v\_ramalingam@schools.gov.sg](mailto:chitra_devi_v_ramalingam@schools.gov.sg)  |
 | **Chinese**  | Miss Ong Teck Lian<br>[ong\_teck\_lian@schools.gov.sg](mailto:ong_teck_lian@schools.gov.sg)  |
 | **Chinese**  | Mr Zheng Junren<br>[zheng\_junren@schools.gov.sg](mailto:zheng_junren@schools.gov.sg)  |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+| **Mathematics**  | Mr Chang Cheng Hwee<br>[chang\_cheng\_hwee@schools.gov.sg](mailto:chang_cheng_hwee@schools.gov.sg)  |
+| **Mathematics**  | Mrs Chong Cheng Cheng<br>[chong\_cheng\_cheg@schools.gov.sg](mailto:chong_cheng_cheng@schools.gov.sg)  |
+| **Science**  | Mdm Chan See Yeu<br>[chan\_see\_yeu@schools.gov.sg](mailto:chan_see_yeu@schools.gov.sg)  |
+| **Science**  |  Mrs Emiline Mui<br>[emiline\_neo\_shuen\_huey@schools.gov.sg](mailto:emiline_neo_shuen_huey@schools.gov.sg) |
 |   |   |
 |   |   |
 |   |   |
