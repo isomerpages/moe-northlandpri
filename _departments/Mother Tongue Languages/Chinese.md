@@ -29,8 +29,7 @@ Writing Clinic is carried out twice per term after school.
 The objective of the writing clinic is to design a more systematic way to teach writing where the Chinese Department will incorporate collaborative learning strategy and ICT in package.
 
 **Mother Tongue Fortnight**<br>
-Mother Tongue Fortnight is being carried out every year to cultivate different aspects of the Chinese culture to the pupils. Each year, two weeks were set aside for our students to take part in various activities organised by the Mother Tongue Department.  
-  
+Mother Tongue Fortnight is being carried out every year to cultivate different aspects of the Chinese culture to the pupils. Each year, two weeks were set aside for our students to take part in various activities organised by the Mother Tongue Department.   
 The theme for this year’s Mother Tongue Fortnight was Songs in our Mother Tongue Language.  
   
 The P1 and P2 Chinese students took to the stage when they took part in the Song Singing performance. Our P3 to P6 students are exposed to many renditions of Xin Yao (local Chinese music) songs. They then broke into different groups as they rewrote the lyrics of a song based on their levels and selected groups’ works from each class were showcased.
@@ -41,3 +40,15 @@ The Department strongly believes that harnessing ICT effectively will enhance pu
 Programmes
 *   P3 Touch Typing   
 *   IMTL Portal - [https://imtl.moe.edu.sg/](https://imtl.moe.edu.sg/) **broken link**
+
+Useful websites :<br>
+Xuele - [https://www.mtl.moe.edu.sg/xuele/MOE_web/main.html](https://www.mtl.moe.edu.sg/xuele/MOE_web/main.html)<br>
+IMTL - [https://imtl.moe.edu.sg/](https://imtl.moe.edu.sg/)
+
+#### **P5 & P6 E-Oral Workshop 2022**
+Please refer to the slides for the workshop below.<br>
+[Parents Workshop 2022.pdf](/files/workshop1.pdf)
+
+#### **Reading Workshop 2022**
+Please refer to the slides for the workshop below.<br>
+[阅读_悦读 家长工作坊.pdf](/files/workshop2.pdf)
