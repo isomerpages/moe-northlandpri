@@ -48,3 +48,17 @@ Deepavali bazaar and deepavali concerts are yearly affairs that bring out the ce
 Each year primary 5 pupils get the opportunity to visit tea chapter to appreciate Chinese tea. Gain knowledge in Chinese tea
 
 <img src="/images/tamil6.jpg" style="width:65%">
+
+**ICT Innovation**<br>
+The Department strongly believes that harnessing ICT effectively will enhance pupils learning experiences. Pupils have learnt to be self- directed learners and ICT infused Tamil language lessons have paved way for collaborative learning to take place in our classrooms.
+
+Programmes<br>
+1\.  10T Sigaram - [www.10tsigaram.sg](http://i3.sg/)<br>
+2\.  Touch Typing<br>
+3\.  Powerpoint<br>
+4\.  IMTL Portal - [www.imtl.com](https://www.imtl.sg/login/index.php)
+
+Useful websites :<br>
+1\.  [www.tamilvu.org/courses/primer/bp000001.htm](http://www.tamilvu.org/courses/primer/bp000001.htm)<br>
+2\.  [http://sangamam.moe.edu.sg](http://sangamam.moe.edu.sg/)<br>
+3\.  [noolagam.com](http://noolagam.com/)
