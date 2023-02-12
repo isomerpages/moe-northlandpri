@@ -47,4 +47,4 @@ Deepavali bazaar and deepavali concerts are yearly affairs that bring out the ce
 **Learning journey to Tea Chapter**<br>
 Each year primary 5 pupils get the opportunity to visit tea chapter to appreciate Chinese tea. Gain knowledge in Chinese tea
 
-<img src="/images/eng1.jpg" style="width:65%">
+<img src="/images/tamil6.jpg" style="width:65%">
