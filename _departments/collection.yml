@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science.md
       - Character & Citizenship Education.md
       - Aesthetics.md
       - PE & CCA.md
