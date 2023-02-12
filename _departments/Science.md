@@ -42,3 +42,13 @@ Integrated and holistic in its approach in areas of teaching and learning nurtur
 
 For more information about the Science Syllabus, please refer to<br>
 [https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/science-primary-2014.pdf](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/science-primary-2014.pdf) **broken link**
+
+**ENRICHMENT**<br>
+The learning of science goes beyond the textbooks and the classroom. An integrated approach to teaching and learning leads the path to a more holistic education. Students should ideally be engaged in first-hand experiential learning. This not only provides a platform for identifying school leaders, but also enables students to explore areas unfamiliar yet exciting and intriguing for them. In this way would curiosity be piqued and heightened thus nurturing a culture of inquiry and the habits of mind.
+
+In Northland, the science curriculum is supported and enriched by the following activities and facilities:
+
+*   The Northland Young Scientist Badge (NYSB)  
+*   Nature Trail/Learning Journeys  
+*   Our Green Spaces  
+*   E2K
