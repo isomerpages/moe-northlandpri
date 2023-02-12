@@ -2,4 +2,5 @@ collections:
   departments:
     output: true
     order:
+      - Project Work.md
       - Operations & Security.md
