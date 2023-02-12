@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - English.md
+      - Mother Tongue Languages/Mother Tongue Languages.md
       - Mother Tongue Languages/.keep
       - Mother Tongue Languages/Chinese.md
       - Mother Tongue Languages/Malay.md
