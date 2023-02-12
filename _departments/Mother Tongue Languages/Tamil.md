@@ -24,3 +24,27 @@ third_nav_title: Mother Tongue Languages
 **Pongal Celebrations at Northland**<br>
 Tamil pupils were given the opportunity to learn more about the Pongal Festival. Pupils were able to see exhibition of the ingredients used for the cooking of Pongal rice. Through this exhibition, pupils had a better understanding of why the festival is being celebrated and how it is being celebrated.
 
+<img src="/images/tamil1.jpg" style="width:46.5%" align=left>
+<img src="/images/tamil2.jpg" style="width:52%" align=right>
+
+<br clear="left">
+
+**Buddy Reading Programme**<br>
+The implementation of buddy reading with the help of parents helped pupils to select books suitable for their level. Pupils are given individual attention to improve on their reading.
+
+**Mother tongue fortnight**<br>
+Mother tongue fortnight is being carried out every year to cultivate different aspects of the Indian culture to the pupils. Yearly many different activities are carried out. Students experience and try hand on activites.
+
+**Deepavali Celebration**<br>
+Deepavali bazaar and deepavali concerts are yearly affairs that bring out the celebration mode among pupils. Deepavali also known as the “Festival of Lights” is regarded as one of the most important festival. It is celebrated across the nation with great pomp and excitement. The Tamil Department had arranged for a carnival in which various booths were set up to share the traditional and cultural practices of Indians. The henna booth which was the highlight of the carnival beautified the hands of our pupils with the henna art while the Rangoli (floor Art) pattern made of coloured rice adorned the foyer with its bright colours and intricate designs. Students were given a chance to colour rangoli patterns on papers and also had a fruitful experience in learning to tie the ‘Thoranam’, (Indian Deco) which is made of dried mango leaves. A concert was also staged for pupils to learn more about Deepavali. It was indeed an enriching and memorable experience for the non-Indian staff student.
+
+<img src="/images/tamil3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/tamil4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/tamil5.jpg" style="width:30%;margin-right:15px;" align = "left">
+
+<br clear="left">
+
+**Learning journey to Tea Chapter**<br>
+Each year primary 5 pupils get the opportunity to visit tea chapter to appreciate Chinese tea. Gain knowledge in Chinese tea
+
+<img src="/images/eng1.jpg" style="width:65%">
