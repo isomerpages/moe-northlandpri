@@ -20,3 +20,7 @@ third_nav_title: Mother Tongue Languages
 | Members | Mdm P Nirija | [p_nirija@moe.edu.sg](mailto:p_nirija@moe.edu.sg) |
 |   | Mdm Malligha d/o Krishnasamy | [malligha_krishnasamy@moe.edu.sg](mailto:malligha_krishnasamy@moe.edu.sg) |
 |
+
+**Pongal Celebrations at Northland**<br>
+Tamil pupils were given the opportunity to learn more about the Pongal Festival. Pupils were able to see exhibition of the ingredients used for the cooking of Pongal rice. Through this exhibition, pupils had a better understanding of why the festival is being celebrated and how it is being celebrated.
+
