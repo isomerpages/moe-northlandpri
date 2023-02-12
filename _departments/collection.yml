@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - Leadership & Discipline.md
       - Project Work.md
       - Operations & Security.md
