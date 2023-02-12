@@ -47,7 +47,7 @@ Deepavali bazaar and deepavali concerts are yearly affairs that bring out the ce
 **Learning journey to Tea Chapter**<br>
 Each year primary 5 pupils get the opportunity to visit tea chapter to appreciate Chinese tea. Gain knowledge in Chinese tea
 
-<img src="/images/tamil6.jpg" style="width:65%">
+<img src="/images/tamil6.jpg" style="width:45%">
 
 **ICT Innovation**<br>
 The Department strongly believes that harnessing ICT effectively will enhance pupils learning experiences. Pupils have learnt to be self- directed learners and ICT infused Tamil language lessons have paved way for collaborative learning to take place in our classrooms.
