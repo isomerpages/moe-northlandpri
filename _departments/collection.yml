@@ -2,15 +2,15 @@ collections:
   departments:
     output: true
     order:
-      - Character & Citizenship Edu/.keep
       - English.md
-      - Mother Tongue Languages/Mother Tongue Languages.md
       - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/Mother Tongue Languages.md
       - Mother Tongue Languages/Chinese.md
       - Mother Tongue Languages/Malay.md
       - Mother Tongue Languages/Tamil.md
       - Mathematics.md
       - Science.md
+      - Character & Citizenship Edu/.keep
       - Aesthetics.md
       - PE & CCA.md
       - ICT.md
