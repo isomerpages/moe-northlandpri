@@ -3,7 +3,7 @@ title: Mathematics
 permalink: /departments/mathematics/
 description: ""
 ---
-### **Mathematics**
+## Mathematics
 #### **Aims:**
 **MISSION**<br>
 Visible teaching, visible learning and visible thinking.
@@ -52,4 +52,3 @@ Links for Notes to download<br>
 [P1 Math@Home](/files/p1.pdf)<br>
 [P3 Math Workshop](/files/p2.pdf)<br>
 [P5 Math Worskhop](/files/p3.pdf)
-
