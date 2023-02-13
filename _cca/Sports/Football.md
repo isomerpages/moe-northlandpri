@@ -48,13 +48,16 @@ Field
 **Inter-Primary Schools North Zone Soccer Tournament**<br>
 6th in North Zone - Junior Div Third
 
-|   |   |   |
+| S/N  | Name  | Class  |
 |:-:|---|---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| 1  | MOHAMAD IRFAN B KAMAL  | P3-G  |
+| 2  | CALEB WOO ZHENG WEI  | P3-F  |
+| 3  | SEAN TAY ZI HAO  | P3-C  |
+| 4  | CHEW CHYOU KEAT LIONEL  | P4-B  |
+| 5  | MUHAMMAD HARIZ B MUHAMAD S  | P4-C  |
+| 6  | M SIDHARDHA  | P4-A  |
+| 7  | MUHAMMAD AKIDD MEDKHAL B K  | P4-I  |
+| 8  | WILBERT JOHAN  | P4-E  |
+| 9  | BJORN NG  | P4-E  |
+| 10  | MOHAMMAD ABRISYAM ADLI B D  | P4-I  |
 |   |   |   |
