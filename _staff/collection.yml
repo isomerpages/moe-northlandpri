@@ -2,6 +2,7 @@ collections:
   staff:
     output: true
     order:
+      - Mother Tongue/Chinese.md
       - Mother Tongue/.keep
       - SCHOOL LEADERSHIP TEAM 2023.md
       - Primary 1 2023.md
