@@ -34,3 +34,14 @@ description: ""
 
 *   This tier of leaders generally serves a larger proportion of the school’s population across different levels. They are usually a positive model for their peers in their immediate group or pupils in general. Mentoring as well as assisting their teachers in running of CCAs and House Practises.
 
+#### Tier 3
+
+*   This top tier of students is an extension of the school in terms of students’ discipline and orderliness. They are an important aspect of the linkage between the teachers and students in general.  
+    
+
+-> Head Prefects<br>
+-> Asst Head Prefects<br>
+-> Prefect Mentors<br>
+-> Team Leaders
+
+The head and assistant head prefects and the Team Leaders are right at the apex. They are involved in the planning and running of prefectorial events and school events. Training is provided to enable them to be good student leaders and facilitators. They form the main pool of ambassadors during school events. They are the ones who have established leadership qualities or have the potential to do so given the right opportunities and trainings as they are intrinsically motivated.
