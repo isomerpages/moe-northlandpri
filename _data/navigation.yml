@@ -56,3 +56,8 @@ links:
         url: /departments/operations-and-security/
   - title: CCA
     collection: cca
+  - title: PARTNERS
+    url: /permalink
+    sublinks:
+      - title: Alumni
+        url: /permalink
