@@ -19,3 +19,4 @@ Our school prefects are to be rooted in the spirit of excellence, commitment to 
   
 Our prefects are involved in many Student-Initiated projects, hosting school celebrations and commemoration events. Their involvements and services have not only been instrumental in meeting our school operational needs, they have also manifested true excellence, commitment and effectiveness in all their endeavours to serve the school.
 
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSCgMrNBEsCmC5NqLIS3DA4y6oA-_llXE0Rd5jb7aHQDDJMNQcH4eTA6wS_M0wilJ6zf9GvskCkPHxv/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
