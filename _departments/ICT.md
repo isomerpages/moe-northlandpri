@@ -133,5 +133,13 @@ For more information, please visit<br>
 	
 ##### ICT Tools Used in School
 
-
-
+| Subjects  | ICT Tools  |
+|:-:|---|
+| English  | ●       Seesaw  |
+| <br>Math  | ●       Digital Geoboard<br>●       Nearpod<br>●       Ed Puzzle  |
+| <br>Science  | ●       Seesaw<br>●       Popplet<br>●       Kahoot  |
+| <br>Mother Tongue  | ●       Xue Le<br>●       10C<br>●       iMTL  |
+| Art  | ●       Adobe Photoshop Elements<br>●       Heart of Singapore River  |
+| Music  | ●       GarageBand<br>●       Sonar  |
+| Social Studies  | ●       Keynote  |
+|   |   |
