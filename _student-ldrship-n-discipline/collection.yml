@@ -2,5 +2,6 @@ collections:
   student-ldrship-n-discipline:
     output: true
     order:
+      - Prefects Investiture 2016.md
       - Student Leadership & Discipline.md
       - Outstanding All Rounders Awards 2016.md
