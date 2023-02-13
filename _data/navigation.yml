@@ -29,5 +29,16 @@ links:
         url: /staff/eas/
       - title: Support Staff
         url: /staff/ss/
-  - title: departments
-    collection: departments
+  - title: DEPARTMENTS
+    url: /permalink
+    sublinks:
+      - title: English
+        url: /permalink
+      - title: Mother Tongue Languages
+        url: /permalink
+      - title: Mathematics
+        url: /permalink
+      - title: Science
+        url: /permalink
+      - title: Character & Citizenship Edu
+        url: /permalink
