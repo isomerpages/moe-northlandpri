@@ -4,7 +4,7 @@ permalink: /departments/mother-tongue-languages/malay/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
-### **Malay**
+## Malay
 ARIF BUDIMAN<br>
 Insan berilmu pengetahuan yang berbakti kepada masyarakat.
 
