@@ -17,5 +17,5 @@ Click on the respective CCAs to find out more.
 [Handbell Ensemble](/cca/Performing-Arts/hbe/)<br>
 [String Ensemble](/cca/Performing-Arts/se/)<br>
 [Modern Dance](/cca/Performing-Arts/md/)<br>
-[Malay Cultural Club]
+[Malay Cultural Club](/cca/Performing-Arts/mcd/)<br>
 [Drama Club](/cca/Performing-Arts/dc/)
