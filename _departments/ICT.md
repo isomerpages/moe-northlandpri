@@ -52,14 +52,14 @@ Pedagogy Branch - D'eLit
 
 |   |   |
 |:-:|---|
-| **Advisor**  |   |
-| **English Representative**  |   |
-| **Mathematics Representative**  |   |
-| **Science Representative**  |   |
-| **Chinese Language  <br>(P1, P3, P5)  Representative**  |   |
-| **Chinese Language  <br>(P2, P4, P6)  Representative**  |   |
-| **Malay Mother Tongue**  |   |
-| **PE and PAL**  |   |
-| **Art**  |   |
-| **Music**  |   |
+| **Advisor**  | Mdm Cindy Heng  |
+| **English Representative**  | Mrs Shiamala d/o Krishna Kumar  |
+| **Mathematics Representative**  | Mrs Ellis Chua  |
+| **Science Representative**  | Mrs Fiona Lin  |
+| **Chinese Language  <br>(P1, P3, P5)  Representative**  | Mrs Lim-Tan Su Xuan  |
+| **Chinese Language  <br>(P2, P4, P6)  Representative**  | Miss Joyce Tan Ee Luck  |
+| **Malay Mother Tongue**  | Miss Yuanna Bte Salamat  |
+| **PE and PAL**  | Mr Lim Jun Liang Nigel Wayne  |
+| **Art**  | Miss Hiswary D/O Manimaran  |
+| **Music**  | Mdm Cindy Heng  |
 |   |   |
