@@ -19,13 +19,9 @@ description: ""
 | Environment Education Coordinator  | Mrs Prema Suresh  | [prema\_chandran@moe.edu.sg](mailto:prema_chandran@moe.edu.sg)  |
 | Values in Action Coordinator  | Mdm Fauzani Azima Mawi  | [fauzani\_azima\_mawi@moe.edu.sg](mailto:fauzani_azima_mawi@moe.edu.sg)  |
 | Peer Leaders Coordinator  | Mdm Nur Suhaila Lydia<br>Mdm Nurhasimah Abdul Rahman  | [nur\_suhaila\_lydia\_ab@moe.edu.sg](mailto:nur_suhaila_lydia_ab@moe.edu.sg)<br><br>[nur\_hasimah\_abdul\_rahman@moe.edu.sg](mailto:nur_hasimah_abdul_rahman@moe.edu.sg)  |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| Positive Classroom Coordinator  | Mdm Nur Suhaila Lydia  | [nur\_suhaila\_lydia\_ab@moe.edu.sg](mailto:nur_suhaila_lydia_ab@moe.edu.sg)  |
+| Full Time School Counsellor  | Mrs Christina Raman  | [christina\_loh\_chui\_chuen@moe.edu.sg](mailto:christina_loh_chui_chuen@moe.edu.sg)  |
+| AED Learning and Behavioural Support  | Mdm Hafizah Hamir  | [nur\_hafizah\_hamir@moe.edu.sg](mailto:nur_hafizah_hamir@moe.edu.sg)  |
+| Head Case Management Team  | Mdm Menhanah bte Masudi  | [menhanah\_masudi@moe.edu.sg](mailto:menhanah_masudi@moe.edu.sg)  |
+| Liason Officer with Nascan  | Mdm Menhanah bte Masudi  | [menhanah\_masudi@moe.edu.sg](mailto:menhanah_masudi@moe.edu.sg)  |
 |   |   |   |
