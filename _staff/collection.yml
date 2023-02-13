@@ -2,7 +2,6 @@ collections:
   staff:
     output: true
     order:
-      - Support Staff.md
       - SCHOOL LEADERSHIP TEAM 2023.md
       - Primary 1 2023.md
       - Primary 2 2023.md
@@ -17,3 +16,4 @@ collections:
       - Other Teaching Staff.md
       - Allied Educators.md
       - Executive Admin Support.md
+      - Support Staff.md
