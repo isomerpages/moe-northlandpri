@@ -202,3 +202,11 @@ Championships and performed exceedingly well which enabled them to garner many m
 | LIM ZHEN KAI  | 5G  |
 | JONAS TAN  | 5G  |
 |   |   |
+
+<img src="/images/cc1.jpeg" style="width:85%">
+<img src="/images/cc2.jpeg" style="width:85%">
+<img src="/images/cc3.jpeg" style="width:85%">
+
+During the CASPL New Year Chess Challenge 2021, one of our Chess Club members, Ng See Jen, also Champion in the Girls Under 8 category. Congratulations See Jen!
+
+<img src="/images/cc4.jpeg" style="width:85%">
