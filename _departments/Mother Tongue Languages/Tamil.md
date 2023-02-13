@@ -4,7 +4,7 @@ permalink: /departments/mother-tongue-languages/tamil/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
-### **Tamil**
+## Tamil
 #### **Aims:**
 **MISSION**<br>
 மாணவர்கள் சுயமாகவும் தன்னிச்சையாகவும் தமிழ்மொழியைக் கற்கவும் எழுதவும் விழைவர்
