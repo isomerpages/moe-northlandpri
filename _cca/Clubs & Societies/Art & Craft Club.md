@@ -4,7 +4,7 @@ permalink: /cca/Clubs-and-Societies/acc/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-## ART &amp; CRAFT CLUB
+## ART & CRAFT CLUB
 
 **REQUIRE JACKSON INPUT VIDEO**
 
