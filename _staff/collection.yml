@@ -2,7 +2,6 @@ collections:
   staff:
     output: true
     order:
-      - Other Teaching Staff.md
       - SCHOOL LEADERSHIP TEAM 2023.md
       - Primary 1 2023.md
       - Primary 2 2023.md
@@ -14,3 +13,4 @@ collections:
       - Mother Tongue/Chinese.md
       - Mother Tongue/Malay.md
       - Mother Tongue/Tamil.md
+      - Other Teaching Staff.md
