@@ -143,3 +143,19 @@ For more information, please visit<br>
 | Music  | ●       GarageBand<br>●       Sonar  |
 | Social Studies  | ●       Keynote  |
 |   |   |
+
+##### Semestral Games Day (Learning IT beyond the classroom)
+
+**Objectives:**  
+
+*   To expose students to educational ICT games (Safe apps)  
+    
+*   To allow students to learn through play  
+    
+*   To provide opportunities to play ICT games in school
+
+When? Once per semester  
+  
+Where? Canteen
+
+**REQUIRE JACKSON INPUT VIDEO**
