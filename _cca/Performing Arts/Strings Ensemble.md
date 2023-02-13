@@ -32,8 +32,12 @@ Music Room 2
 
 ---
 
-#### ities
+#### Activities
 
 To practise and perfect the SYF pieces for Senior Group    
 To bridge the gap between the Junior Group and Senior Group by having two separate groups to practise on CCA sessions.  
 To practise new songs in the ensemble
+
+#### Achievement  
+
+Singapore Youth Festival 2018           Certificate of Commendation
