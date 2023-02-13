@@ -104,3 +104,11 @@ Championships and performed exceedingly well which enabled them to garner many m
 |   |   |
 
 **North Zone 2nd (Northland Primary Open Under 8 Team 2)**
+
+| Name  | Class  |
+|:-:|---|
+| JOEL ZHANG WEI’EN  | 1C  |
+| LOO JINN YANG  | 2B  |
+| TAY YU TENG JAYDEN  |2H   |
+| YEO JING KAI RAYDON  | 1D  |
+|   |   |
