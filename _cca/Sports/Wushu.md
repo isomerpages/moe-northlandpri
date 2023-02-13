@@ -45,4 +45,20 @@ Area behind library
 
 **_Calm but be alert. Relaxed but ready. Smooth but sharp. Humble, but confident.Wushu is a philosophy of life. It is designed for defense, not offense. It is a way to bring your mind and body into focus.&nbsp;&nbsp;Jet Li_**
 
---- 
+---
+
+#### Achievements
+
+National Primary School Wushu Championships 2016                 Participation
+
+1 \. Tyrus Yeo      2A
+
+2 \. Jayden Sng Jun Ming (Junior Boys Sword 2nd placing)         4E
+
+3 \. Chua Jia Qian         5F
+
+4 \. Shih Hao An           5F
+
+5 \. Neo Hwee Chuan Lynette (Senior Girls Nanquan 3rd placing)      6E
+
+National Primary School Wushu Championships 2015                 Participation
