@@ -25,3 +25,25 @@ Ms Vivian Pang\*<br>
 Mr Tan Chin Huat Joshua<br>
 Ms Chua Xin Lin <br>
 Ms Zhong Shihui
+
+#### Venue
+
+Basketball Courts  Level 1 / Behind BLK 637
+
+#### Vision
+
+*  _To empower students through recreational and competitive basketball in a positive environment to be committed team players and leaders_
+
+#### Mission
+
+*  _To promote Basketball as a sport that students can enjoy and excel_
+*  _To provide an environment for students to develop fitness, teamwork, sportsmanship and leadership opportunities_
+
+_**“If it turns out that my best wasn’t good enough, at least I won’t look back and say I was afraid to try.” Michael Jordan**_
+
+---
+
+#### Achievements
+
+
+
