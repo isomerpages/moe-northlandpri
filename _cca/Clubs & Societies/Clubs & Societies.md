@@ -12,4 +12,7 @@ To allow students to explore and extend their interests in wide ranging and spec
 
 Click on the respective CCAs to find out more.
 
-[Art & Craft Club]
+[Art & Craft Club](/cca/Clubs-and-Societies/acc/)<br>
+[Chess Club](/cca/Clubs-and-Societies/cc/)<br>
+[Infocomm Club@Northland](/cca/Clubs-and-Societies/infoclub/)<br>
+[Pac Mrl Club](/cca/Clubs-and-Societies/pmc/)
