@@ -179,3 +179,26 @@ Championships and performed exceedingly well which enabled them to garner many m
 | ONG ZIWEN AMELIA  | 6F  |
 |   |   |
 
+**Primary Boys Under 10**
+
+**North Zone 4th  (Northland Primary Boys Under 10 Team 1)**
+
+|   |   |
+|:-:|---|
+| JAYDEN CHUA  | 6G  |
+| WONG YIP FUNG  | 5F  |
+| FOO FANG TENG ETHAN  | 5G  |
+| TAN ANG KHUEN DAMIEN  | 6G  |
+|   |   |
+
+**Primary Boys Under 10**
+
+**Special Mention (Northland Primary Boys Under 10 Team 2)**
+
+|   |   |
+|:-:|---|
+| LIU KECAN  | 6F  |
+| CHANG JIA JUN ALVIN  | 6G  |
+| LIM ZHEN KAI  | 5G  |
+| JONAS TAN  | 5G  |
+|   |   |
