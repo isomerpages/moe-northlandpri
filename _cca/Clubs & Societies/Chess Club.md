@@ -54,3 +54,22 @@ New and non-school team members are trained in playing chess progressively by ou
 **_“When you see a good move, look for a better one.” –&nbsp;Emanuel Lasker &nbsp; “You may learn much more from a game you lose than from a game you win.” —&nbsp; Jose Capablanca &nbsp; “When you play chess the idea is to make good moves, not quick ones!” — Jeremy Silman_**
 
 ---
+
+#### Achievements
+
+<img src="/images/chessclub.png" style="width:70%">
+
+Our Chess Club members participated in the 61st National Inter-Schools (Online) Team Chess
+
+Championships and performed exceedingly well which enabled them to garner many medals!
+
+**Achievements:**
+
+**Primary School Division Challenge Cup:**
+
+###### <center>Northland Primary School</center>
+
+**Primary Girls Under 8**
+
+**National & North Zone 1st (Northland Primary Girls Under 8 Team 1)**
+
