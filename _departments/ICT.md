@@ -47,3 +47,19 @@ Technical Branch
 | **CES Point of Contact**  | Mdm Cindy Heng  |
 | **Website OIC**  | Ms Nur Dalela Abu Hasan  |
 |   |   |
+
+Pedagogy Branch - D'eLit
+
+|   |   |
+|:-:|---|
+| **Advisor**  |   |
+| **English Representative**  |   |
+| **Mathematics Representative**  |   |
+| **Science Representative**  |   |
+| **Chinese Language  <br>(P1, P3, P5)  Representative**  |   |
+| **Chinese Language  <br>(P2, P4, P6)  Representative**  |   |
+| **Malay Mother Tongue**  |   |
+| **PE and PAL**  |   |
+| **Art**  |   |
+| **Music**  |   |
+|   |   |
