@@ -2,9 +2,9 @@ collections:
   cca:
     output: true
     order:
-      - Clubs & Societies/Art & Craft Club.md
-      - Clubs & Societies/Clubs & Societies.md
       - Clubs & Societies/.keep
+      - Clubs & Societies/Clubs & Societies.md
+      - Clubs & Societies/Art & Craft Club.md
       - CCA.md
       - Sports/.keep
       - Sports/Sports.md
