@@ -60,3 +60,5 @@ CCA days, time slots and bus arrangement are reflected in the table below.
 | Tuesdays  | Athletics School Team  | 3 p.m. to 5 p.m.  |
 |   |   |   |
 
+**Bus Arrangement**<br>
+The school buses will depart at 4.30 p.m. on Thursdays.<br>(Students taking the school buses will be dismissed by 4.15 p.m.)
