@@ -24,6 +24,10 @@ links:
       - title: Other Teaching Staff
         url: /staff/ots/
       - title: Allied Educators
-        url: /permalink
+        url: /staff/alled-edu/
+      - title: Executive Admin Support
+        url: /staff/eas/
+      - title: Support Staff
+        url: /staff/ss/
   - title: departments
     collection: departments
