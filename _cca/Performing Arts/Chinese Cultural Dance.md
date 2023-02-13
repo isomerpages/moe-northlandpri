@@ -36,3 +36,11 @@ Dance Studio (ISH)
 **_Dance enables you to find yourself and lose yourself. When you dance, your purpose is not to get to a certain place on the floor, it’s to enjoy each step along the way._**
 
 ---
+
+#### Activities
+
+Teaching of basic dance steps/techniques.  
+Coaching of dance steps and dance formation in preparation for Chinese New Year Concert performance and SYF Arts Presentation
+
+#### Achievement   
+Singapore Youth Festival 2018         Certificate of Accomplishment
