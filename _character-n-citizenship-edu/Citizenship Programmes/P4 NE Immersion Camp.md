@@ -47,3 +47,12 @@ The Character and Citizenship (CCE) Camp is an annual camp organised for the Pri
 
 <img src="/images/p410.jpg" style="width:49%" align=left>
 <br clear="left"><br>
+
+#### :: MEAL TIME ::
+
+<img src="/images/p411.jpg" style="width:49%" align=left>
+<img src="/images/p412.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+#### :: Total Defence ::
+
