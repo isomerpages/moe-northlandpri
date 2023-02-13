@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - CCA.md
-      - Sports/Netball.md
       - Sports/.keep
       - Sports/Sports.md
       - Sports/Basketball.md
       - Sports/Football.md
+      - Sports/Netball.md
