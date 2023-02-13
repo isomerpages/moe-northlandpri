@@ -18,4 +18,3 @@ Strengthening our partnerships with key stakeholders and making them supportive 
 To align partnership goals and programmes with student-centricity and values-driven education to optimise learning opportunities for students</center>
 
 #### Department Members
-
