@@ -42,20 +42,11 @@ c.        Character and Citizenship Education (CCE)
 | UNIT  | LESSONS / DURATION  | Lesson Objectives<br>At the end of the lesson, pupils will be able to:  |   |
 |:-:|---|---|---|
 | Gosh! I Am Changing  | What Is Happening To Me?<br><br>(30 min)  | ·       know what puberty is<br><br>·       identify the physical changes during puberty  |   |
-|   | <br><br><br><br>What Can I Do? (Part 1)<br><br>(30 min)  | ·       identify the stresses caused by physical and emotional changes during puberty<br><br>·       describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br><br>·       describe the emotions caused by physical changes during puberty<br><br>·       recognise that one’s identity does not change even when one’s body is experiencing change due to puberty  |   |
-|   | <br><br><br><br>What Can I Do? (Part 2)<br><br> (30 min)  | ·       identify the stresses caused by physical and emotional changes during puberty<br><br>·       describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br><br>·       describe the emotions caused by physical changes during puberty<br><br>·       recognise that one’s identity does not change even when one’s body is experiencing change due to puberty  |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| <br><br><br><br><br><br>Gosh! I Am Changing  | <br><br><br><br>What Can I Do? (Part 1)<br><br>(30 min)  | ·       identify the stresses caused by physical and emotional changes during puberty<br><br>·       describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br><br>·       describe the emotions caused by physical changes during puberty<br><br>·       recognise that one’s identity does not change even when one’s body is experiencing change due to puberty  |   |
+| <br><br><br><br><br><br>Gosh! I Am Changing  | <br><br><br><br>What Can I Do? (Part 2)<br><br> (30 min)  | ·       identify the stresses caused by physical and emotional changes during puberty<br><br>·       describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br><br>·       describe the emotions caused by physical changes during puberty<br><br>·       recognise that one’s identity does not change even when one’s body is experiencing change due to puberty  |   |
+| <br><br><br>Gosh! I Am Changing  |<br><br> Main Task<br><br>(30 min)  | Description of the Main Task:<br><br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.  |   |
+| <br><br><br><br>Where I Belong  | <br><br>What Are Families?<br><br>(30 min)  | ·       know that there are different types of family structures<br><br>·       know that every family is unique<br><br>·       state that the three basic functions of families are to provide love, protection and guidance<br><br>·       identify the right sources of help to turn to when in need  |   |
+| Where I Belong  | What is My Role?<br><br> (30 min)  | ·       know that gender is about being male or female<br><br>·       choose not to stereotype by gender  |   |
+| <br>How Do I Keep Myself Safe?  | <br>What is Safety?<br><br>(30 min)  | ·       know what sexual abuse is<br><br>·       know that there are laws in Singapore that can protect them from sexual abuse<br><br>·       know their rights in keeping themselves safe from sexual abuse  |   |
+| <br>How Do I Keep Myself Safe?  | <br>Stop It! Run! Tell!<br><br>(30 min)  | ·       protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br><br>·       know their responsibilities in minimising the risk of sexual harm  |   |
 |   |   |   |   |
