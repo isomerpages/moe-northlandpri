@@ -58,3 +58,13 @@ Below are the answers in **bold** to the questions pertaining to CCAs that you
 5 \. Does my child need to excel in CCA alone to qualify for DSA? Or it has to be a combination of CCA, student leadership and results?
 
 **For Direct School admission, it is mainly dependent on the child’s talent and strengths to be enrolled to the school of choice. Result is not the main criteria for most schools in consideration for entry. It can be a combination of CCA or student leadership or based on 1 strength to determine whether the school will accept. Normally, the child has to go through trials (sports/dance etc) and or interviews in the selection process.**
+
+6 \. How is CCA allocated?
+
+**Every student is given 4 options from each of the 4 CCA groups according to preference ie 1st choice to the 4th choice.  We have a quota for each CCA with respect to our manpower, resources and logistics so that every student can be given adequate attention during the sessions. If the CCA is oversubscribed, we may relook at the child’s strengths by enquiring from the students’ PAM (Physical Education/Art/Music) teachers related to the CCAs. For sports CCAs, most of the game skills can be acquired through the physical education lessons thus it is not necessary to join a sports CCA unless there is a compelling reason.**
+
+**Everyone would be given one of his/her choices, not everyone would be given his/her first choice which we try to allocate as best as we can due to the said constraints stated.**
+
+7 \. Why are there no girls’ football and basketball teams
+
+**We already have a large number of boys in both sports CCAs in relation with the limited manpower and resources available. We cannot open up for girls as attention to focus on them will be further reduced. We have netball CCA which only allows girls to join and floorball which is offered for both genders.**
