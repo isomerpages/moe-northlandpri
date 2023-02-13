@@ -2,7 +2,6 @@ collections:
   character-n-citizenship-edu:
     output: true
     order:
-      - NOM.md
       - Character Programmes.md
       - Citizenship Programmes/.keep
       - Citizenship Programmes/Citizenship Programmems.md
@@ -16,3 +15,4 @@ collections:
       - Social Studies.md
       - Discipline with Care.md
       - Key People in the Department.md
+      - NOM.md
