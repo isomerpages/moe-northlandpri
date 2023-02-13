@@ -2,6 +2,7 @@ collections:
   character-n-citizenship-edu:
     output: true
     order:
+      - Citizenship Programmes/Total Defence Day.md
       - Citizenship Programmes/Citizenship Programmems.md
       - Citizenship Programmes/.keep
       - Character Programmes.md
