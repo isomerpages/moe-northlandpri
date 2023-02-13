@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - CCA.md
+      - Sports/Wushu.md
       - Sports/.keep
       - Sports/Sports.md
       - Sports/Basketball.md
