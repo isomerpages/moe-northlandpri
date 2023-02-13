@@ -40,3 +40,19 @@ Indoor Sports Hall (ISH)
 **_In diversity, we have one identity. No one is left behind as everyone moves ahead as one. As we play together, we bond. We train hard so that we can win easily._**
 
 ---
+
+#### Achievements
+
+*   Inter-Primary Schools Netball Championships
+*   External Netball Competitions and Carnivals
+
+|   |   |   |
+|:-:|---|---|
+| Inter-Primary School Netball Championship 2012 (North Zone)  | Junior Division  | 4th  |
+| Inter-Primary School Netball Championship 2013 (North Zone)  | Senior Division  | 2nd  |
+| Inter-Primary School Netball Championship 2014 (North Zone)  | Junior and Senior Division  | Participation  |
+| Inter-Primary School Netball Championship 2015 (North Zone)  | Junior and Senior Division  | Participation  |
+| Inter-Primary School Netball Championship 2016 (North Zone)  | Junior and Senior Division  | Participation  |
+| Inter-Primary School Netball Championship 2017 (North Zone)  | Junior and Senior Division  | Participation  |
+| Inter-Primary School Netball Championship 2018 (North Zone)  | Junior and Senior Division  | Participation  |
+|   |   |   |
