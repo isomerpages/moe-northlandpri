@@ -7,8 +7,7 @@ description: ""
 
 **Year Head:**<br>
 
-Mr Ganesan Arumugan
-
+Mr Ganesan Arumugan<br>
 [ganesan\_arumugan@schools.gov.sg](mailto:ganesan_arumugan@schools.gov.sg)
 
 | Class  | Form Teachers  | Email  |
