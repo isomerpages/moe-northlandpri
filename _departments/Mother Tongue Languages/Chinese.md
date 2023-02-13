@@ -4,7 +4,7 @@ permalink: /departments/mother-tongue-languages/chinese/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
-### **Chinese**
+## Chinese
 #### **Aims**
 **VISION**<br>
 A confident child enriched with rich culture and a proficient speaker in Mother Tongue Language.
