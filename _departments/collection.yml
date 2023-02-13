@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Character & Citizenship Edu/Character Programmes.md
       - Character & Citizenship Edu/.keep
       - English.md
       - Mother Tongue Languages/Mother Tongue Languages.md
