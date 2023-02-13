@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCA.md
-      - Sports/Floorball.md
       - Sports/.keep
       - Sports/Sports.md
       - Sports/Basketball.md
@@ -11,3 +10,4 @@ collections:
       - Sports/Netball.md
       - Sports/Silat.md
       - Sports/Wushu.md
+      - Sports/Floorball.md
