@@ -8,3 +8,7 @@ third_nav_title: Citizenship Programmes
 
 #### The 4 Commemorative Days
 
+[Total Defence Day](/character-n-citizenship-edu/Citizenship-Programmes/tdd/)<br>
+[International Friendship Day](/character-n-citizenship-edu/Citizenship-Programmes/ifd/)<br>
+[Racial Harmony Day](/character-n-citizenship-edu/Citizenship-Programmes/rhd/)<br>
+[National Day](/character-n-citizenship-edu/Citizenship-Programmes/nd/)
