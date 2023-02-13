@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Student Ldrship & Discipline/.keep
       - English.md
       - Mother Tongue Languages/.keep
       - Mother Tongue Languages/Mother Tongue Languages.md
@@ -15,5 +14,6 @@ collections:
       - Aesthetics.md
       - PE & CCA.md
       - ICT.md
+      - Student Ldrship & Discipline/.keep
       - Project Work.md
       - Operations & Security.md
