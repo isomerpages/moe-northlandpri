@@ -2,5 +2,6 @@ collections:
   character-n-citizenship-edu:
     output: true
     order:
+      - Citizenship Programmes/Citizenship Programmems.md
       - Citizenship Programmes/.keep
       - Character Programmes.md
