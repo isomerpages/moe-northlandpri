@@ -52,3 +52,11 @@ Northland Primary School provides a wide range of CCAs to broaden and deepen our
 #### More information
 
 CCA days, time slots and bus arrangement are reflected in the table below.
+
+| **Days**  | **CCAs**  | **Timing**  |
+|:-:|---|---|
+| Thursdays  | All CCAs  | 2.15 p.m. to 4.15 p.m.  |
+| Thursdays  | Chess Club  | 2.15 p.m. to 4.15 p.m. <br><br>(Selected members and school team <br>players will stay back **till 5.45 p.m.)**  |
+| Tuesdays  | Athletics School Team  | 3 p.m. to 5 p.m.  |
+|   |   |   |
+
