@@ -30,15 +30,15 @@ links:
       - title: Support Staff
         url: /staff/ss/
   - title: DEPARTMENTS
-    url: /permalink
+    url: /departments/english/
     sublinks:
       - title: English
-        url: /permalink
+        url: /departments/english/
       - title: Mother Tongue Languages
-        url: /permalink
+        url: /departments/mother-tongue-languages/
       - title: Mathematics
-        url: /permalink
+        url: /departments/mathematics/
       - title: Science
-        url: /permalink
+        url: /departments/science/
       - title: Character & Citizenship Edu
         url: /permalink
