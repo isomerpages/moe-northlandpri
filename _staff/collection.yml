@@ -2,7 +2,6 @@ collections:
   staff:
     output: true
     order:
-      - Executive Admin Support.md
       - SCHOOL LEADERSHIP TEAM 2023.md
       - Primary 1 2023.md
       - Primary 2 2023.md
@@ -16,3 +15,4 @@ collections:
       - Mother Tongue/Tamil.md
       - Other Teaching Staff.md
       - Allied Educators.md
+      - Executive Admin Support.md
