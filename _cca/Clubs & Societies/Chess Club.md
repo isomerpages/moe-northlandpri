@@ -73,3 +73,34 @@ Championships and performed exceedingly well which enabled them to garner many m
 
 **National & North Zone 1st (Northland Primary Girls Under 8 Team 1)**
 
+| Name  |  Class |
+|:-:|---|
+| ZHANG LINSHAN LINDA  | 2H  |
+| NG SEE JEN  | 2H  |
+| KO YI XUAN  | 2B  |
+| CHONG YONG QIAN  | 2F  |
+|   |   |
+
+**National & North Zone 2nd (Northland Primary Girls Under 8 Team 2)**
+
+| Name  | Class  |
+|:-:|---|
+| POH YU NING  | 2C  |
+| PAN YAN  | 1G  |
+| TAN YU QING  | 1G  |
+| CHLOE YAN YEE  | 1A  |
+|   |   |
+
+**Primary Open Under 8**
+
+**National & North Zone 1st (Northland Primary Open Under 8 Team 1)**
+
+| Name  | Class  |
+|:-:|---|
+| LIM EN QI  | 2E  |
+| JARRELL CHENG  | 2B  |
+| FONG YU ZE CHAYES  | 2H  |
+| KAYMER NG  | 1B  |
+|   |   |
+
+**North Zone 2nd (Northland Primary Open Under 8 Team 2)**
