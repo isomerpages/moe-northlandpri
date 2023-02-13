@@ -54,3 +54,7 @@ Below are the answers in **bold** to the questions pertaining to CCAs that you
 4 \. For non-official CCAs, how does the school support students to participate in competitions?
 
 **The school will support students who wish to participate in non-official CCAs’ National School Games competitions like martial arts, gymnastics, swimming and other games or performing arts genre. Parents and students can approach Mr Wilson Tan or their form teachers in this endeavour. We will update via the Public announcement system if there is an upcoming competition for non-official CCAs.**
+
+5 \. Does my child need to excel in CCA alone to qualify for DSA? Or it has to be a combination of CCA, student leadership and results?
+
+**For Direct School admission, it is mainly dependent on the child’s talent and strengths to be enrolled to the school of choice. Result is not the main criteria for most schools in consideration for entry. It can be a combination of CCA or student leadership or based on 1 strength to determine whether the school will accept. Normally, the child has to go through trials (sports/dance etc) and or interviews in the selection process.**
