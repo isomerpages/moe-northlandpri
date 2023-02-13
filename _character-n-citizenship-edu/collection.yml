@@ -2,7 +2,6 @@ collections:
   character-n-citizenship-edu:
     output: true
     order:
-      - Social Studies.md
       - Character Programmes.md
       - Citizenship Programmes/.keep
       - Citizenship Programmes/Citizenship Programmems.md
@@ -13,3 +12,4 @@ collections:
       - Citizenship Programmes/National Day.md
       - Citizenship Programmes/P5 NE Show.md
       - Citizenship Programmes/P4 CCE Camp.md
+      - Social Studies.md
