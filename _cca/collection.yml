@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Performing Arts/Malay Cultural Dance.md
       - Performing Arts/.keep
       - Performing Arts/Performing Arts.md
       - Performing Arts/Chinese Cultural Dance.md
@@ -10,6 +9,7 @@ collections:
       - Performing Arts/Handbell Ensemble.md
       - Performing Arts/Strings Ensemble.md
       - Performing Arts/Modern Dance.md
+      - Performing Arts/Malay Cultural Dance.md
       - CCA.md
       - Sports/.keep
       - Sports/Sports.md
