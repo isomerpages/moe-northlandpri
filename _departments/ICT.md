@@ -34,16 +34,16 @@ Technical Branch
 
 |   |   |
 |:-:|---|
-| **PSLE e-Oral & e-LC Supervisor**  |   |
-| **PSLE e-Oral& e-LC** **Asst Supervisor**  |   |
-| **PSLE e-Oral & e-LC Member**  |   |
-| **iExams Co-ordinator**  |   |
-| **iExams Access Arrangement** **Co-Ordinator**  |   |
-| **Cyberwellness Team**  |   |
-| **AVIT Co-ordinator**  |   |
-| **School Cockpit Team Leader**  |   |
-| **Members**  |   |
-| **iCON Point of Contact**  |   |
-| **CES Point of Contact**  |   |
-| **Website OIC**  |   |
+| **PSLE e-Oral & e-LC Supervisor**  | Mrs Lim-Tan Su Xuan  |
+| **PSLE e-Oral& e-LC** **Asst Supervisor**  | Mr Lim Jun Liang Nigel Wayne  |
+| **PSLE e-Oral & e-LC Member**  | Ms Nur Dalela Binte Abu Hasan  <br>NCS Desktop Engineers  |
+| **iExams Co-ordinator**  | Mrs Chong Cheng Cheng  |
+| **iExams Access Arrangement** **Co-Ordinator**  | Mr Zheng Junren  |
+| **Cyberwellness Team**  | Miss Hiswary D/O Manimaran  <br>Mdm Yap Siok Mei  |
+| <br>**AVIT Co-ordinator**  | Mr Chang Cheng Hwee  <br>Mdm Guo Guiqing   <br>Mdm Su Xiaojing  <br>Mdm Yap Siok Mei  |
+| **School Cockpit Team Leader**  | Mdm Angrini Bte Sawal  |
+| **Members**  | Mdm Anandhi d/o Nagaraja  <br>Miss Ong Teck Lian  |
+| **iCON Point of Contact**  | Ms Nur Dalela Abu Hasan  |
+| **CES Point of Contact**  | Mdm Cindy Heng  |
+| **Website OIC**  | Ms Nur Dalela Abu Hasan  |
 |   |   |
