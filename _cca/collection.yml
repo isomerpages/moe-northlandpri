@@ -2,9 +2,9 @@ collections:
   cca:
     output: true
     order:
-      - Uniformed Groups/Cub Scouts.md
-      - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/.keep
+      - Uniformed Groups/Uniformed Groups.md
+      - Uniformed Groups/Cub Scouts.md
       - CCA.md
       - Sports/.keep
       - Sports/Sports.md
