@@ -1,4 +1,5 @@
 collections:
   character-n-citizenship-edu:
     output: true
-    order: []
+    order:
+      - Character Programmes.md
