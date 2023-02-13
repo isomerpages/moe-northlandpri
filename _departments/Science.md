@@ -3,7 +3,7 @@ title: Science
 permalink: /departments/science/
 description: ""
 ---
-### **Science**
+## Science
 #### **Aims:**
 **MISSION**<br>
 To create a conducive environment where the love of Science can be seeded and nurtured
@@ -62,4 +62,3 @@ In Northland, the science curriculum is supported and enriched by the following 
 *   More opportunities for hands-on and experiential learning 
 *   Providing a common trigger point for all students regardless of their socio-economic status (SES) 
 *   A springboard to launch students into a world of self-discovery and wonder
-
