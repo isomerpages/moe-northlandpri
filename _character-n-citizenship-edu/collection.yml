@@ -2,7 +2,6 @@ collections:
   character-n-citizenship-edu:
     output: true
     order:
-      - Sexuality Education.md
       - Character Programmes.md
       - Citizenship Programmes/.keep
       - Citizenship Programmes/Citizenship Programmems.md
@@ -18,3 +17,4 @@ collections:
       - Key People in the Department.md
       - NOM.md
       - Cyber Wellness.md
+      - Sexuality Education.md
