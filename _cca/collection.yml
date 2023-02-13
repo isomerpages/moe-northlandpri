@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - FAQs.md
       - CCA.md
       - Sports/.keep
       - Sports/Sports.md
