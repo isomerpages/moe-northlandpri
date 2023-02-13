@@ -37,3 +37,13 @@ The Character and Citizenship (CCE) Camp is an annual camp organised for the Pri
 
 #### :: Places of Worship ::
 
+<img src="/images/p46.jpg" style="width:49%" align=left>
+<img src="/images/p47.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/p48.jpg" style="width:49%" align=left>
+<img src="/images/p49.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/p410.jpg" style="width:49%" align=left>
+<br clear="left"><br>
