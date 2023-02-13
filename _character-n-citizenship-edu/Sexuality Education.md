@@ -34,3 +34,28 @@ c.        Character and Citizenship Education (CCE)
 6 \. The upper primary years mark the onset of puberty.  With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.
 
 7 \. The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate _changes_, build healthy _relationships_, especially online relationships, and exercise _safety_.
+
+**At Northland Primary School, the following lessons from the Growing Years Programme will be taught :**
+
+###### <center>Primary 5</center>
+
+| UNIT  | LESSONS / DURATION  | Lesson Objectives<br>At the end of the lesson, pupils will be able to:  |   |
+|:-:|---|---|---|
+| Gosh! I Am Changing  | What Is Happening To Me?<br><br>(30 min)  | ·       know what puberty is<br><br>·       identify the physical changes during puberty  |   |
+|   | <br><br><br><br>What Can I Do? (Part 1)<br><br>(30 min)  | ·       identify the stresses caused by physical and emotional changes during puberty<br><br>·       describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br><br>·       describe the emotions caused by physical changes during puberty<br><br>·       recognise that one’s identity does not change even when one’s body is experiencing change due to puberty  |   |
+|   | <br><br><br><br>What Can I Do? (Part 2)<br><br> (30 min)  | ·       identify the stresses caused by physical and emotional changes during puberty<br><br>·       describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br><br>·       describe the emotions caused by physical changes during puberty<br><br>·       recognise that one’s identity does not change even when one’s body is experiencing change due to puberty  |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
