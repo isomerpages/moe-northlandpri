@@ -15,15 +15,22 @@ description: ""
     
 *   This tier targets the group of students who are more inclined to put to use their leadership skills on a more frequent basis. The target group is as follows:-
 
-*  *  AVIT Monitor
-*  *  Science Monitor
-*  *  PE Monitor
-*  *  Class Monitor
-*  * EE-VIA Monitor
-*  * Group Leaders
-*  * Peer Leaders
+-> AVIT Monitor<br>
+-> Science Monitor<br>
+-> PE Monitor<br>
+-> Class Monitor<br>
+-> EE-VIA Monitor<br>
+-> Group Leaders<br>
+-> Peer Leaders
 
 *   This group of students who are leaders in their class except for peer leaders and have specified duties and responsibilities. The common ground of these students is to assist the teacher in the administration as well as the teaching for the class. The training is conducted by teachers themselves and the relevant departments.
 
 #### Tier 2
+
+*   Students need not necessarily be academically inclined to be a good leader thus this group of students is targeted at students who shine in other areas.  
+
+-> CCA Leaders<br>
+-> Prefects - School, Junior levels
+
+*   This tier of leaders generally serves a larger proportion of the school’s population across different levels. They are usually a positive model for their peers in their immediate group or pupils in general. Mentoring as well as assisting their teachers in running of CCAs and House Practises.
 
