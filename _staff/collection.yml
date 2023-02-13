@@ -2,7 +2,6 @@ collections:
   staff:
     output: true
     order:
-      - Allied Educators.md
       - SCHOOL LEADERSHIP TEAM 2023.md
       - Primary 1 2023.md
       - Primary 2 2023.md
@@ -15,3 +14,4 @@ collections:
       - Mother Tongue/Malay.md
       - Mother Tongue/Tamil.md
       - Other Teaching Staff.md
+      - Allied Educators.md
