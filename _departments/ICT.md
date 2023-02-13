@@ -63,3 +63,19 @@ Pedagogy Branch - D'eLit
 | **Art**  | Miss Hiswary D/O Manimaran  |
 | **Music**  | Mdm Cindy Heng  |
 |   |   |
+
+#### 3) Programmes:
+
+**MOE MP4**
+
+MOE’s masterplan 4 focuses on quality learning and is aligned to MOE’s direction of Student-Centric and Values-Driven education. The vision of mp4 is to nurture “Future-ready and Responsible Digital Learners”. ICT is used productively for quality learning in support of the total curriculum - that is, to deepen subject mastery and develop 21st Century Competencies. As it was in mp3, there will be a strong focus on Cyber Wellness.
+
+The goal of mp4 is to put “Quality Learning in the Hands of Every Learner - Empowered with Technology”. The two enablers are: 
+
+1 \.  Teachers as Designers of Learning Experiences and Environments; and <br>
+2 \.  School Leaders as Culture Builders
+
+<img src="/images/1) mp4.jpeg" style="width:85%">
+
+For more information, please visi<br>
+[https://ictconnection.moe.edu.sg/masterplan-4](https://ictconnection.moe.edu.sg/masterplan-4) **SITE CANT BE REACHED**
