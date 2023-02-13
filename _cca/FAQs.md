@@ -10,7 +10,7 @@ description: ""
 **How do I make an informed choice if there is no physical CCA Open House?**
 
 For information pertaining to CCAs offered by the school, you may log on to the link
-[https://northlandpri.moe.edu.sg/](https://northlandpri.moe.edu.sg/) to click on the heading ‘CCA’ in the Northland Primary School webpage. Then you can browse all the CCA webpages according to groups or individual CCAs. You can watch the eCCA Open House videos and information of each CCA to make an informed choice with your child before submitting the e-option google form.
+[https://northlandpri.moe.edu.sg/](https://staging.d1i65nr1n0p60d.amplifyapp.com/) to click on the heading ‘CCA’ in the Northland Primary School webpage. Then you can browse all the CCA webpages according to groups or individual CCAs. You can watch the eCCA Open House videos and information of each CCA to make an informed choice with your child before submitting the e-option google form.
 
 **What if I am not given my first choice or any CCA of my choice at all?**
 
