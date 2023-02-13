@@ -79,3 +79,59 @@ The goal of mp4 is to put “Quality Learning in the Hands of Every Learner - Em
 
 For more information, please visi<br>
 [https://ictconnection.moe.edu.sg/masterplan-4](https://ictconnection.moe.edu.sg/masterplan-4) **SITE CANT BE REACHED**
+
+**Cyberwellness**
+
+The Cyber Wellness (CW) curriculum aims to equip students with life-long social-emotional competencies and sound values so that they can become safe, respectful and responsible users of Information and Communication Technology (ICT).
+
+<img src="/images/2) CW Curriculum.jpg" style="width:85%">
+
+For more information, please visit<br>
+[https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101](https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101) **SITE CANT BE REACHED**
+
+#### Curriculum:
+
+##### ICT Baseline Lessons
+
+<table>
+	<tr>
+		<td><b>Level</b></td>
+		<td><b>Semester 1</b></td>
+		<td><b>Semester 2</b></td>
+	</tr>
+	<tr>
+		<td>P1</td>
+		<td>Touchtyping</td>
+		<td>Touchtyping</td>
+	</tr>
+	<tr>
+		<td>P2</td>
+		<td>Touchtyping</td>
+		<td>Touchtyping</td>
+	</tr>
+	<tr>
+		<td>P3</td>
+		<td>Google Docs (EL)</td>
+		<td>Windows Movie Maker (PW)</td>
+	</tr>
+	<tr>
+		<td>P4</td>
+		<td>Google Sheets (MA)</td>
+		<td>Google Slides (PW)</td>
+	</tr>
+	<tr>
+		<td>P5</td>
+		<td>Google Slides (PW)</td>
+		<td>Google Slides (SS)</td>
+	</tr>
+	<tr>
+		<td>P6</td>
+		<td>Post PSLE</td>
+		<td>Post PSLE</td>
+	</tr>
+	</table>
+	
+##### ICT Tools Used in School
+
+
+
