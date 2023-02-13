@@ -112,3 +112,40 @@ Championships and performed exceedingly well which enabled them to garner many m
 | TAY YU TENG JAYDEN  |2H   |
 | YEO JING KAI RAYDON  | 1D  |
 |   |   |
+
+**Primary Girls Under 10**
+
+**National & North Zone 1st (Northland Primary Girls Under 10 Team 1)**
+
+| Name  | Class  |
+|:-:|---|
+| KHOR WEN XIN ESTHER  | 4F  |
+| KYLIE ANG JING XUAN  | 4E  |
+| TAN XUAN YING  | 3B  |
+| LEE PEICI CRISTAL  | 4E  |
+|   |   |
+
+**North Zone 2nd (Northland Primary Girls Under 10 Team 2)**
+
+| Name  | Class  |
+|:-:|---|
+| YAP EN XI  | 3B  |
+| TAN ANG HEE DENISE  | 3B  |
+| ANG SHIRUI SHERRY  | 3D  |
+| FOO CHUAN HEE  | 3B  |
+|   |   |
+
+**Primary Open Under 10**
+
+**National & North Zone 1st (Northland Primary Open Under 10 Team 1)**
+
+| Name  | Class  |
+|:-:|---|
+| POH OO HENG ETHAN  | 4F  |
+| THAM DING RONG  |4G   |
+| NG HONG YI  | 3E  |
+| PHUA YAN THERN  | 4E  |
+|   |   |
+
+**North Zone 2nd (Northland Primary Open Under 10 Team 2)**
+
