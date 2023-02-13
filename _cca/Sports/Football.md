@@ -34,4 +34,27 @@ Field
 
 **_One man can be talented but one man cannot be a team. If we don’t sacrifice for the team, the team will be sacrificed. When there is effort, attitude and desire….. nothing is impossible.&nbsp;&nbsp;Lionel Messi_**
 
---- 
+---
+
+#### Achievements
+
+|   |   |   |
+|:-:|---|---|
+| North Zone Inter-School Soccer Championships 2015  | Senior and Junior Teams  | Participation  |
+| North Zone Inter-School Soccer Championships 2016  | Senior and Junior Teams  | Participation  |
+|   |   |   |
+
+**Singapore Primary Schools Sports Council**<br>
+**Inter-Primary Schools North Zone Soccer Tournament**<br>
+6th in North Zone - Junior Div Third
+
+|   |   |   |
+|:-:|---|---|
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
