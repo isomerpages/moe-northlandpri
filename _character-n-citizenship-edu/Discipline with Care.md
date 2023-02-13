@@ -27,3 +27,15 @@ The Restorative Practice approach adopted during detention class allows students
 
 **Re-direct** <br>
 Students also learn to rechannel their energy to constructive actions when they conference with the discipline department teacher and plan on their pledge to improve the situation that they are in.
+
+**Guiding Principles**
+
+The four approaches to discipline are guided by 4 guiding principles ie. Character, **A**ffirmative but firm, **R**ole-modelling and **E**mpathetic and Developmental (CARE). These principles will be used as a guide or benchmark in the various approaches towards discipline.  
+  
+The first principles “**Character**” emphasizes on doing the right thing as well as upholding the school values, CLITE and putting into action the I-Care Tagline.  
+  
+The principle of “**Affirmative** **but firm**” highlights the strengths of the students and also addresses areas of concerns. Positives language is being used to channel the strength of the student from a destructive to a constructive behaviour. Desired outcomes and behaviour are communicated to students so that they set high standards of themselves.  
+  
+The next principle of “**Role-modelling**” means that teachers counsel or guide students to desired behaviour through good role-modelling and leading by examples.  
+  
+Finally the principle of “**Emphatic and developmental**” encourages teachers to make connections with students through empathetic listening. Positive teacher student relationship (TSR) is critical especially so when disciplinary measures are taken. Customisation of intervention strategies are also adopted especially when picked up by the Case Management Team (CMT).
