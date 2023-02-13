@@ -149,3 +149,33 @@ Championships and performed exceedingly well which enabled them to garner many m
 
 **North Zone 2nd (Northland Primary Open Under 10 Team 2)**
 
+| Name  | Class  |
+|:-:|---|
+| LIU YIJIE | 3F  |
+|  LOW ZHI XIAN JOSHUA | 4F  |
+| LEE CHEONG FONG  |4F   |
+| VOON HERNG KHAI  | 3D  |
+|   |   |
+
+**Primary Girls Open**
+
+**National & North Zone 1st (Northland Primary Girls Open Team 1)**
+
+| Name  | Class  |
+|:-:|---|
+| ZHAO MINNAN JESLYN  | 6G  |
+| CHONG YU LIN  | 5G  |
+| CHAN FAN YING BETH  | 5G  |
+| TAN JIA EN JOY  | 4E  |
+|   |   |
+
+**North Zone 2nd (Northland Primary Girls Open Team 2)**
+
+| Name  | Class  |
+|:-:|---|
+| FONG JIA EN CHLOE  | 3B  |
+| ROSHNI KATHIRASAN  | 5B  |
+| JESSICA TAY ENG YIN  | 6F  |
+| ONG ZIWEN AMELIA  | 6F  |
+|   |   |
+
