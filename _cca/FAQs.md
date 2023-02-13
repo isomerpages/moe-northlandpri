@@ -36,3 +36,21 @@ As Robotics and Photography wings are under Infocomm Club@Northland CCA, you jus
 
 **Questions on CCA posted in Slido during The Primary 2 Parents’ Zoom Meeting on <br>
 16th October 2020**
+
+Below are the answers in **bold** to the questions pertaining to CCAs that you have posted. I have combined some questions as the answers are provided to clarify similar questions. I have paraphrased some questions to address broader areas of concerns.
+
+1 \. If my child is currently already in a competitive sport training in private, do you still encourage him to take up a CCA in school? Can the school allow him to skip CCA?
+
+**CCA provides every child a well-rounded education on top of academic pursuits. Your child is highly encouraged to join a CCA to compliment his/her skills acquisition process even if he/she is already in a competitive sport training. Most CCAs value teamwork with its benefits that goes along with individual talents as we can grow best in a community – iron sharpen iron. The infrastructure in CCAs facilitates authentic experiences that cannot be duplicated especially within the school context. Most of the sports CCAs require the teams to practice together, not by pure individual talent alone. We register the entire team for competitions based on how they play/perform together.**
+
+2 \. Can we still change the choices since next Monday is the last day?
+
+**Once the teachers have informed the class on the CCA allocation, the students can still raise their preferences if they have for some reason selected wrongly. But due to the quota we have taken into consideration beyond what we can manage with the available manpower and resources, we need to cap the number of some CCAs which are oversubscribed.**
+
+3 \. Why can’t students go with their interests and strengths, if a child is aesthetically inclined, why can’t the child choose more than 1 CCA? If a child is aesthetically inclined, why can’t the child choose more than I CCA from the same domain/group?
+
+**As CCA time slots are the same for all, unless the child is required to participate in other CCAs due to performance or competitions, the time clashes does not allow for having more than 1 CCA. For Chess club CCA session which ends by 5.45 p.m., the child can complete personal CCA session and attend. The 2 CCA arrangement has to take into account the child’s ability to cope with the additional burden of another CCA with respect to academic pursuits, energy and time management.**
+
+4 \. For non-official CCAs, how does the school support students to participate in competitions?
+
+**The school will support students who wish to participate in non-official CCAs’ National School Games competitions like martial arts, gymnastics, swimming and other games or performing arts genre. Parents and students can approach Mr Wilson Tan or their form teachers in this endeavour. We will update via the Public announcement system if there is an upcoming competition for non-official CCAs.**
