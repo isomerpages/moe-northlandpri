@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Partners.md
+      - Alumni/Phase 2A(1) & 2A(2) Primary One Registration.md
       - Alumni/.keep
       - Alumni/Alumni.md
       - Alumni/Membership Application.md
