@@ -18,3 +18,20 @@ Strengthening our partnerships with key stakeholders and making them supportive 
 To align partnership goals and programmes with student-centricity and values-driven education to optimise learning opportunities for students</center>
 
 #### Department Members
+
+|   |   |   |
+|:-:|---|---|
+| **SH Partnership**  | Mdm Pauline Cheong  | [cheong\_siew\_lan\_pauline@schools.gov.sg](mailto:cheong_siew_lan_pauline@schools.gov.sg)  |
+| **Members**  | Mdm Chen Jun  | [chen\_jun@schools.gov.sg](mailto:chen_jun@schools.gov.sg)  |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
