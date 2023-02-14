@@ -39,3 +39,16 @@ Establish a strong Home-school link
 Alignment to student outcomes which are in alignment with the C2015 outcome
 
 **Student outcomes are classified into 6 domains**
+
+1 \.  Cognitive<br>
+2 \.  Social and moral<br>
+3 \.  Leadership <br>
+4 \.  Moral<br>
+5 \.  Aesthetics<br>
+6 \.  Physical
+
+**C2015 Outcomes**
+
+*   Confident, self-directed learner
+*   Concerned citizens 
+*   Active contributors
