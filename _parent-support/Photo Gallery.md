@@ -82,3 +82,19 @@ description: ""
 #### STEM Carnival@NPS by Themo Fisher Scientific 2019
 
 <iframe width="784" height="441" src="https://www.youtube.com/embed/22ricaOwuEI" title="STEM Carnival@NPS by Themo Fisher Scientific 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### BBQ Nite 2019
+
+<iframe width="809" height="455" src="https://www.youtube.com/embed/l2FQ-N4K9qI" title="BBQ Nite 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### Mid-Autumn Festival 2019
+
+<iframe width="791" height="444" src="https://www.youtube.com/embed/Y5QtN_lbpT8" title="Mid Autumn Festival 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### Christmas Carolling 2019
+
+<iframe width="812" height="456" src="https://www.youtube.com/embed/2RMdY5sxW2k" title="Northland Primary Christmas Carolling 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### Chinese New Year 2020
+
+<iframe width="786" height="442" src="https://www.youtube.com/embed/xqKEFBOY-Xo" title="Chinese New Year Celebration 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
