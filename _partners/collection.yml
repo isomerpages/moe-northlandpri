@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Community/Community.md
       - Community/.keep
       - Partners.md
       - Alumni/.keep
