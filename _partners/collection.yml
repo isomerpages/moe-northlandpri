@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Partners.md
-      - Alumni/Social Media Sites.md
       - Alumni/.keep
       - Alumni/Alumni.md
       - Alumni/Membership Application.md
       - Alumni/Awards.md
       - Alumni/History.md
+      - Alumni/Social Media Sites.md
