@@ -36,3 +36,11 @@ Business Hour: 11.30am – 8.00pm (Daily)<br>
 [Website (online order available)](https://www.euniforms.com.sg/shop/product-category/primary-schools/nlps/)<br>
 [Name Tags (set of 5)](https://www.euniforms.com.sg/nametag/product/name-tags-northland-primary-school-set-of-5/)<br>
 [Uniform](https://www.euniforms.com.sg/shop/product-category/primary-schools/nlps/)
+
+#### School Bus Service
+
+**ComfortDelGro Bus Pte Ltd**<br>
+Tel: 6553 3838 / 64169673<br>
+Fax: 64560922<br>
+Email: [school@comfortdelgrobus.com.sg](mailto:school@comfortdelgrobus.com.sg)<br>
+[Form](https://forms.office.com/r/HL24vvt4QT)
