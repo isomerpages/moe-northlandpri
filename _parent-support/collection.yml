@@ -1,0 +1,4 @@
+collections:
+  parent-support:
+    output: true
+    order: []
