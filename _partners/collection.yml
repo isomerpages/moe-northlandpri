@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Parent Support/.keep
       - Partners.md
       - Alumni/.keep
       - Alumni/Alumni.md
@@ -13,3 +12,4 @@ collections:
       - Alumni/Phase 2A(1) & 2A(2) Primary One Registration.md
       - Alumni/Alumni Contact.md
       - SAC.md
+      - Parent Support/.keep
