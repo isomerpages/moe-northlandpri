@@ -10,3 +10,5 @@ third_nav_title: School Related Services
 [P2 Booklist](/files/booklist2.pdf)<br>
 [P3 Booklist](/files/booklist3.pdf)<br>
 [P4 Booklist](/files/booklist4.pdf)<br>
+[P5 Booklist](/files/booklist5.pdf)<br>
+[P5 Foundation Booklist](/files/booklist5f.pdf)<br>
