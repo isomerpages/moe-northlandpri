@@ -1,4 +1,5 @@
 collections:
   parent-support:
     output: true
-    order: []
+    order:
+      - chamPS.md
