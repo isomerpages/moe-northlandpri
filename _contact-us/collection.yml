@@ -2,6 +2,6 @@ collections:
   contact-us:
     output: true
     order:
-      - School Related Services/School Related Services.md
-      - School Related Services/.keep
       - Contact Us.md
+      - School Related Services/.keep
+      - School Related Services/School Related Services.md
