@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - SAC.md
       - Partners.md
       - Alumni/.keep
       - Alumni/Alumni.md
@@ -12,3 +11,4 @@ collections:
       - Alumni/Social Media Sites.md
       - Alumni/Phase 2A(1) & 2A(2) Primary One Registration.md
       - Alumni/Alumni Contact.md
+      - SAC.md
