@@ -26,3 +26,13 @@ Bookshop No. 6257-1984<br>
 Fax No.  6257-1295<br>
 Email add : [nlp@popularworld.com](mailto:nlp@popularworld.com)<br>
 [Website](https://textbook.popular.com.sg/)
+
+#### School Uniforms
+
+**Chop Kong Chong**<br>
+Tel : 6753 1489<br>
+Address: 604 Sembawang Road, Sembawang Shopping Centre, #02-13<br>
+Business Hour: 11.30am – 8.00pm (Daily)<br>
+[Website (online order available)](https://www.euniforms.com.sg/shop/product-category/primary-schools/nlps/)<br>
+[Name Tags (set of 5)](https://www.euniforms.com.sg/nametag/product/name-tags-northland-primary-school-set-of-5/)<br>
+[Uniform](https://www.euniforms.com.sg/shop/product-category/primary-schools/nlps/)
