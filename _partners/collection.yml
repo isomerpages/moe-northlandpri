@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Partners.md
-      - Alumni/Membership Application.md
       - Alumni/.keep
       - Alumni/Alumni.md
+      - Alumni/Membership Application.md
