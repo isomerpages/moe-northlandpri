@@ -24,5 +24,20 @@ To understand more, click on [video link here](https://drive.google.com/file/d/
 
 #### MOE Links
 
-
-
+*   [Primary school curriculum](https://www.moe.gov.sg/education/primary/primary-school-curriculum)**PAGE NOT FOUND**
+*   [Primary school education booklet](https://www.moe.gov.sg/education/primary/primary-school-education-booklet) **PAGE NOT FOUND**
+*   [Changes to the PSLE Scoring and Secondary 1 Posting from 2021](https://www.moe.gov.sg/microsites/psle/) **PAGE NOT FOUND**
+*   [Subject Syllabus](https://www.moe.gov.sg/education/syllabuses/) **PAGE NOT FOUND**
+*   [21st century competencies](https://www.moe.gov.sg/education/education-system/21st-century-competencies) **PAGE NOT FOUND**
+*   [Ace Your Project Work! (Helping your child excel at School Projects) Parent’s Guidebook](https://www.nlb.gov.sg/sure/wp-content/uploads/2013/07/Parents-guidebook_FA.pdf)
+*   [Social and emotional learning (SEL)](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning) **PAGE NOT FOUND**
+*   [Edusave Scheme](https://www.moe.gov.sg/education/edusave)
+*   [Financial Assistance Scheme (FAS)](https://www.moe.gov.sg/education/financial-assistance) **PAGE NOT FOUND**
+*   [Information on Primary One Registration](https://www.moe.gov.sg/primary/p1-registration)
+*   [P6 Direct School Admission (DSA) Exercises](https://www.moe.gov.sg/secondary/dsa)
+*   [A Quality Education for Every Child (Video)](https://www.youtube.com/watch?v=9RpSX50jOEU&feature=youtu.be)
+*   [Transition to Primary One (Video)](https://www.youtube.com/watch?v=l0EnKuLTHpQ)
+*   [First Week of P1 (Video)](https://www.youtube.com/watch?v=ag0QWf_qf3c&list=TLH27ItYVfZS8TVUZCDJYDQNnYzMl6YS0c)
+*   [School-based Dyslexia Remediation Programmer (Video)](https://youtu.be/F5vESdYrFbo#aid=P-mSbRZiwMg)
+*   [iMTL Portal](https://imtl.moe.edu.sg/) **SITE UNREACHABLE**
+*   [Leave of Absence](https://form.gov.sg/#!/60d29bb5ef7afb00120cbee1)
