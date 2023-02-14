@@ -12,3 +12,11 @@ Thank you for your interest in applying to be an alumni member. As a former stud
 We extend an open invitation to our events! We are always looking for volunteer involvement, financial support, and willingness to network and assist fellow alumni.
 
 To register as an alumni member, please fill in the Membership Application Form by clicking [here](https://form.jotform.me/60012458965457).
+
+|   | Ordinary  | Youth  |
+|:-:|---|---|
+| **Eligibility**  | Former students aged 21 and above, provided that you are not studying in any secondary school, junior college, or centralised institute.  | Former students aged 20 and below.  |
+| **Membership Term**  | Lifetime  | Expires when you turn 21. <br>You will be given an option to convert your status to Ordinary Membership.  |
+| **Subscription Fee**  | $100  | Free  |
+| **Examples of Activities**  | Networking activities  <br>Fundraisers  <br>School and community-wide events  | Mentoring programmes  <br>Graduation Night  <br>Youth Alumni Camp  |
+|   |   |   |
