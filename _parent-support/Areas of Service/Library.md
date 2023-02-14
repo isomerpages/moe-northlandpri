@@ -20,8 +20,8 @@ Duties :
 *   Story Telling
 *   Guide pupils accessing internet and educational VCDs in Info Parc.
 
-<img src="/images/eng10.jpeg" style="width:22%;margin-right:15px;" align = "left">
-<img src="/images/eng11.jpeg" style="width:22%;margin-right:15px;" align = "left">
-<img src="/images/eng12.jpeg" style="width:22%;margin-right:15px;" align = "left">
-<img src="/images/eng12.jpeg" style="width:22%;margin-right:15px;" align = "left">
+<img src="/images/lib1.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img src="/images/lib2.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img src="/images/lib3.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img src="/images/lib4.jpg" style="width:22%;margin-right:15px;" align = "left">
 <br clear="left">
