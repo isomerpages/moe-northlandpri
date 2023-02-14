@@ -80,3 +80,11 @@ A new social-emotional learning (SEL) intervention from the Harvard Graduate Sch
 **What Is Intergenerational Stress?**
 
 For many adults, lasting poverty and adversity [can tax executive function (EF) skills](http://www.gse.harvard.edu/news/uk/16/03/tools-success), such as self-control, planning and prioritizing, and focus, leading to heightened stress, impulsivity, and negativity. For adults with children, this challenge can be especially precarious. Over time, as Jones and researchers Rebecca Bailey and Ann Partee explain in an upcoming article in the [_Aspen Journal of Ideas_](http://aspen.us/journal) **SITE NOT FOUND**, stressful encounters such as yelling and persistent negativity can undermine the relationships that buffer children from chronic stress. Parents may lose confidence in their ability to respond to tough parenting situations and manage children’s behaviors. Children, in turn, may learn to act with impulsivity, aggression, or withdrawal. In such a cycle, neither parent nor child is drawing on or building the essential skills of emotion regulation, reflection, and problem-solving.
+
+**A Dual-Generation Answer**
+
+While many schools are now emphasizing SEL, much of the work to build self-regulation skills starts at home — and few programs have existed to support home- and school-based learning in alignment. Jones and her research team, using the SEL curriculum they’d already developed for schools, have now created just that kind of aligned intervention, called SECURe Families — a set of workshops for parents that mirror the strategies children are learning in schools. The workshops, piloted in 2014–2015, give parents a concrete set of tools and activities designed to help manage stress and frustration and improve relationships.
+
+**Seven Steps to Building Self-Regulation Skills**
+
+One such tool, co-developed by Rebecca Bailey, [Gretchen Brion-Meisels](http://www.gse.harvard.edu/faculty/gretchen-brion-meisels), and Jones: A set of simple strategies parents of young children can use to **build self-regulation skills at home — for themselves and for their children.**
