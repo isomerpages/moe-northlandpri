@@ -2,7 +2,6 @@ collections:
   parent-support:
     output: true
     order:
-      - Dads@NPS.md
       - chamPS.md
       - chamPS History.md
       - chamPS Identity.md
@@ -12,3 +11,4 @@ collections:
       - Areas of Service/Reading.md
       - Areas of Service/Traffic Road Safety.md
       - Areas of Service/WeCare.md
+      - Dads@NPS.md
