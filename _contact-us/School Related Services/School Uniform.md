@@ -40,3 +40,6 @@ The position for it is as follows:
 
 <img src="/images/Explorer set for P1 & P2_Girl.jpg" style="width:85%">
 
+#### PE Cum House T-Shirt (Sample-Sapphire) 
+
+<img src="/images/sample of House T-shirt.jpg" style="width:85%">
