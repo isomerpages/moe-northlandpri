@@ -2,7 +2,6 @@ collections:
   parent-support:
     output: true
     order:
-      - Phase 2B Parent Volunteer Scheme.md
       - chamPS.md
       - chamPS History.md
       - chamPS Identity.md
@@ -13,3 +12,4 @@ collections:
       - Areas of Service/Traffic Road Safety.md
       - Areas of Service/WeCare.md
       - Dads@NPS.md
+      - Phase 2B Parent Volunteer Scheme.md
