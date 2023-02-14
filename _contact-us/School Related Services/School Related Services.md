@@ -44,3 +44,9 @@ Tel: 6553 3838 / 64169673<br>
 Fax: 64560922<br>
 Email: [school@comfortdelgrobus.com.sg](mailto:school@comfortdelgrobus.com.sg)<br>
 [Form](https://forms.office.com/r/HL24vvt4QT)
+
+#### Others
+
+**Uncle Lim Private Bus Transport**<br>
+Transport (to contact directly for alternative transport arrangement)<br>
+Tel: 90614278
