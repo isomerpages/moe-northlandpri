@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - SAC.md
       - Partners.md
       - Alumni/.keep
       - Alumni/Alumni.md
