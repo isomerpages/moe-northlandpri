@@ -13,5 +13,29 @@ When the acronyms of **cham** and **PS** are joined together - the message w
 
 Our logo symbolizes parents serving the school with their heart and a pair of loving hands and eyes
 
-<img src="/images/champs_logo.jpeg" style="width:49%" align=left>
+<img src="/images/champs_logo.jpg" style="width:49%" align=left>
 <br clear="left"><br>
+
+And finally in conclusion, our PSG's philosophy, values and action words as chamPS will be working towards the School's vision by Caring, Helping, Affirming & Mentoring (within the 5 core groups) through Parent Support.
+
+#### chamPS Directions, Goals and Responsibilities
+
+1 \.  To co-work with the school closely <br>
+2 \.  To provide support for various School activities and areas where teachers needed assistance <br>
+3 \.  To enhance Parent-teacher relationship through positive and fruitful working relationship <br>
+4 \.  To become effective parents as a result of PSG involvement
+
+**Long Term Goal**<br>
+Establish a strong Home-school link
+
+#### Principles of Partnership
+
+*   Win-win : meaningful, holistic and authentic learning experience for the students
+*   Sustainability
+*   Students first
+
+#### Impact of Partnership
+
+Alignment to student outcomes which are in alignment with the C2015 outcome
+
+**Student outcomes are classified into 6 domains**
