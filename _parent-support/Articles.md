@@ -29,3 +29,15 @@ You may have heard about SkillFuture in the Budget 2015 speech by DPM Tharman. W
 
 #### Three Things About SkillsFuture
 
+**1 \.    What is SkillsFuture?**
+
+<iframe width="693" height="389" src="https://www.youtube.com/embed/rdBobyZLl7M" title="What is SkillsFuture?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+One key feature of Budget 2015 is **SkillsFuture** – a national movement that aims to provide opportunities for every citizen to develop their fullest potential throughout life, regardless of their starting points. It will promote skills mastery in every job, and foster a culture of lifelong learning for all Singaporeans.
+
+**2 \.    Who is going to benefit from SkillsFuture?**
+
+<iframe width="701" height="394" src="https://www.youtube.com/embed/CkIBjH8z3GU" title="Your SkillsFuture Journey" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Everyone in different stages of life can benefit from it – students, working adults in early careers to mid and late careers, employers, and training providers. There is something for everyone:
+
