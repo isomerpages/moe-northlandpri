@@ -2,5 +2,5 @@ collections:
   happenings:
     output: true
     order:
-      - Newsletter.md
       - Special Events.md
+      - Newsletter.md
