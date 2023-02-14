@@ -20,3 +20,8 @@ Timings:<br>
 5 \. 5.50 pm to 6.20 pm (between blocks 660 & 661) (Mondays to Fridays)
 
 Duty : Ensure pupils cross the zebra crossing outside front Gate B safely.
+
+<img src="/images/trs1.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/trs2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/trs3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left">
