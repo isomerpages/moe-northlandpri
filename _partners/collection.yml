@@ -2,8 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Education/Education.md
-      - Education/.keep
       - Partners.md
       - Alumni/.keep
       - Alumni/Alumni.md
@@ -22,3 +20,5 @@ collections:
       - Community/Nee Soon Central CC.md
       - Community/NWCDC.md
       - Community/Heartwarmers.md
+      - Education/.keep
+      - Education/Education.md
