@@ -2,6 +2,7 @@ collections:
   parent-support:
     output: true
     order:
+      - Areas of Service/.keep
       - chamPS.md
       - chamPS History.md
       - chamPS Identity.md
