@@ -65,3 +65,5 @@ Here is a handy infographic to sum it all up:
 Stay updated at: [https://www.skillsfuture.sg](https://www.google.com/url?q=http%3A%2F%2Fwww.skillsfuture.sg&sa=D&sntz=1&usg=AFQjCNF1neHDSWiwfyvIOK4_ZaUMhDyyEQ) **SITE CANT BE REACHED**<br>
 Like us on Facebook: [https://www.facebook.com/skillsfuturesg](https://www.facebook.com/skillsfuturesg)<br>
 Follow us at Twitter: [https://www.twitter.com/skillsfuturesg](https://twitter.com/skillsfuturesg)
+
+ You can also visit [Schoolbag.sg](http://schoolbag.sg/) website for more education news, and stories on school programmes and activities.
