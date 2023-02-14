@@ -13,3 +13,24 @@ This page lists the alumni recipients of the award.
 
 #### 5 Year Service Award
 
+|   |   |
+|:-:|---|
+| Phang Si Ling Vivian  | 2015  |
+| Lee Yun Ting  | 2015  |
+|   |   |
+
+#### Friends of Northland Award
+
+|   |   |
+|:-:|---|
+| Chirag Gupta  | 2015  |
+| Chia Yu Xuan Tomas  | 2014  |
+| Teo Kai En  | 2013  |
+| Lee Yun Ting  | 2011  |
+| Phang Si Ling Vivian  | 2011  |
+| Lee Pee Hua  | 2009  |
+| Ng Aik Wei Marcus  | 2009  |
+| Mohammad Aizat Hashim  | 2009  |
+| Nur Nadhirah Hamzah  | 2009  |
+| Juliana Ong  | 2009  |
+|   |   |
