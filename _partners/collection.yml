@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Family LIFE EDUCATION@School.md
       - Partners.md
       - Alumni/.keep
       - Alumni/Alumni.md
@@ -26,3 +25,4 @@ collections:
       - Education/Kingfar School (China, Xi'an).md
       - Education/Rainbow Centre Yishun Park School.md
       - Education/Naval Base Secondary School.md
+      - Family LIFE EDUCATION@School.md
