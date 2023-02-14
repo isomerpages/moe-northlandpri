@@ -35,3 +35,4 @@ Northland Primary School - chamPS as a formal organization is now functioning in
 
 In addition, effective communication and close co-working relationship among parent volunteers is also being encouraged and practised so as to enable parents to widen their circle of friends in the course of their service to NPS.
 
+<iframe width="729" height="314" src="https://www.youtube.com/embed/WYMrNeMBlcU" title="Northland Primary School PSG chamPS Introduction  2016" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
