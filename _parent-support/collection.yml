@@ -2,10 +2,10 @@ collections:
   parent-support:
     output: true
     order:
-      - Areas of Service/Reading.md
       - Areas of Service/.keep
       - Areas of Service/Areas of Service.md
       - Areas of Service/Library.md
+      - Areas of Service/Reading.md
       - chamPS.md
       - chamPS History.md
       - chamPS Identity.md
