@@ -88,3 +88,27 @@ While many schools are now emphasizing SEL, much of the work to build self-regul
 **Seven Steps to Building Self-Regulation Skills**
 
 One such tool, co-developed by Rebecca Bailey, [Gretchen Brion-Meisels](http://www.gse.harvard.edu/faculty/gretchen-brion-meisels), and Jones: A set of simple strategies parents of young children can use to **build self-regulation skills at home — for themselves and for their children.**
+
+1 \.  **Stop and think.** Instead of yelling “no!” when your child is growing upset, overexcited, or disruptive, ask him to “stop and think”: pause, take a break, and reflect for a moment before acting.  
+    ○ _Game tip_: “Simon Says” can help children remember to think before acting.
+
+2 \.  **Focus, pay attention, and listen.** When your child is talking to another person, remind her to stop what she’s doing, look at who is talking, and “hold on to” her ideas rather than interrupting.  
+    ○ _Game tip:_ “I Spy” and “Name that Sound” can help children practice looking and listening carefully.
+
+3 \.  **Remember directions and follow through with daily tasks.** For multistep chores such as setting the table or getting ready for school in the morning, post a list of steps in that area or make up a song to help your child remember what he has to do.  
+    ○ _Game tip:_ “Going on a Bear Hunt” and “Going to Grandma’s House” can help children practice keeping track of and updating lists of items.
+
+4 \.  **Plan and set goals.** When making plans, talk through them with your child. For example, if she wants to have a birthday party, write out list of steps (sending out invitations, buying decorations, making a cake, etc.) you both have to accomplish before the big day. Set a timeline and cross off tasks together as you both complete them.
+
+5 \.  **Practice being patient.** Explain to your child what you do when you have to wait for something. Try out different strategies for the two of you when waiting at the doctor’s office or in line at the grocery store, such as counting all the red things you see or singing a song.
+
+6 \.  **Manage difficult feelings.** Depending on your child’s age, when he grows upset encourage him to take a deep breath, count backwards from 10 or 20, go for a walk, or write down his feelings. When you grow frustrated along with your child, practice these strategies together to help manage your own feelings.
+
+7 \.  **Deal effectively with conflicts.** To help your child listen and understand other people’s perspectives, teach her to use “I messages” (such as “I feel angry when…") and “say it backs” (such as “You’re saying to me that…”). When she’s upset with someone, brainstorm compromises together. When you have your own conflict to resolve, explain your thought process. Remind your children that conflicts are normal, but that it’s important to solve them in peaceful and kind ways.
+
+**Additional Resources**
+
+*   Learn more about [how poverty compromises EF skills, and how social services can help rebuild them](http://www.gse.harvard.edu/news/uk/16/03/tools-success).
+*   Read about the [biological and social effects of neglect](http://www.gse.harvard.edu/news/uk/16/03/understanding-neglect).
+*   Review [a list of activities to enhance executive function in young children](http://www.gse.harvard.edu/news/uk/14/10/art-control).
+*   Learn about [how to help teenagers develop self-regulation skills](http://www.gse.harvard.edu/news/uk/14/11/regulating-teenage-mind).
