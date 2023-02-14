@@ -2,7 +2,6 @@ collections:
   contact-us:
     output: true
     order:
-      - Transition to P1.md
       - Contact Us.md
       - School Related Services/.keep
       - School Related Services/School Related Services.md
@@ -11,3 +10,4 @@ collections:
       - School Related Services/Financial Assistance.md
       - School Related Services/School BookLists.md
       - Enquiry Feedback Form.md
+      - Transition to P1.md
