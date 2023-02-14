@@ -27,3 +27,16 @@ The position for it is as follows:
 
 \* Shirt/blouse :         1 cm above the pocket<br>
 \* PE cum House T-shirt :     1 cm above school crest
+
+#### Explorer School Shirt for P1 
+
+<img src="/images/Explorer shirt with plastic nametag for P1.jpg" style="width:85%">
+
+#### Explorer Boy Set for P1 & P2
+
+<img src="/images/Explorer set for P1.jpg" style="width:85%">
+
+#### Explorer Girl Set for P1 & P2
+
+<img src="/images/Explorer set for P1 & P2_Girl.jpg" style="width:85%">
+
