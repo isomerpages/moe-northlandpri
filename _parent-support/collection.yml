@@ -2,5 +2,6 @@ collections:
   parent-support:
     output: true
     order:
+      - chamPS Identity.md
       - chamPS.md
       - chamPS History.md
