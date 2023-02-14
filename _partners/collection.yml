@@ -2,8 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Community/Community.md
-      - Community/.keep
       - Partners.md
       - Alumni/.keep
       - Alumni/Alumni.md
@@ -15,3 +13,5 @@ collections:
       - Alumni/Alumni Contact.md
       - SAC.md
       - Parent Support/.keep
+      - Community/.keep
+      - Community/Community.md
