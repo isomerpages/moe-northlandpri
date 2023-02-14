@@ -41,3 +41,17 @@ One key feature of Budget 2015 is **SkillsFuture** – a national movement tha
 
 Everyone in different stages of life can benefit from it – students, working adults in early careers to mid and late careers, employers, and training providers. There is something for everyone:
 
+| **Life Stages**  | **Initiatives**  |
+|:-:|---|
+| Starting in the Schooling Years  | Develop a professional core of Education and Career Counsellors for our schools and Institutes of Higher Learning (IHLs)  |
+|   | Enhance internships in IHLs  |
+| Taking Learning into our Careers  | SkillsFuture Credit  |
+|   | Individual Learning Portfolio  |
+|   | SkillsFuture Earn and Learn Programme  |
+|   | Enhanced subsidies for mid-career Singaporeans  |
+|   | SkillsFuture Study Awards  |
+|   | SkillsFuture Fellowships  |
+|   | SkillsFuture Leadership Development Initiative  |
+| A New Industry Collaboration  | Sectoral Manpower Plans (“SMPs”)  |
+|   | SkillsFuture Mentors  |
+|   |   |
