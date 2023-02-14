@@ -2,7 +2,6 @@ collections:
   parent-support:
     output: true
     order:
-      - Workshops and Seminars.md
       - chamPS.md
       - chamPS History.md
       - chamPS Identity.md
@@ -16,3 +15,4 @@ collections:
       - Phase 2B Parent Volunteer Scheme.md
       - Photo Gallery.md
       - Articles.md
+      - Workshops and Seminars.md
