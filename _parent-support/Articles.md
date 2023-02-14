@@ -67,3 +67,16 @@ Like us on Facebook: [https://www.facebook.com/skillsfuturesg](https://www.face
 Follow us at Twitter: [https://www.twitter.com/skillsfuturesg](https://twitter.com/skillsfuturesg)
 
  You can also visit [Schoolbag.sg](http://schoolbag.sg/) website for more education news, and stories on school programmes and activities.
+ 
+ #### Building Success at Home
+
+**How parents can build and model self-regulation skills to bolster children’s success**<br>
+By [Leah Shafer](http://www.gse.harvard.edu/taxonomy/term/44951), on May 2, 2016 12:14 PM
+
+All parents love their children — and all parents, at times, grow frustrated with them, especially when those children are young and still developing their self-control skills. But for low-income families, the strain of limited resources and a lack of security can push emotions so much higher when a child refuses to eat his dinner or makes it difficult to leave the house on time.
+
+A new social-emotional learning (SEL) intervention from the Harvard Graduate School of Education's [Stephanie Jones](http://www.gse.harvard.edu/faculty/stephanie-jones) and her research team offers a promising source of support for low-income families. With the tools Jones and her team have developed, parents can learn to manage frustration and use simple moments with their children to bolster their relationships and build important executive function skills — for themselves and their children. Even under the weight of poverty, those interactions can begin to replace intergenerational stress with happiness and stability.
+
+**What Is Intergenerational Stress?**
+
+For many adults, lasting poverty and adversity [can tax executive function (EF) skills](http://www.gse.harvard.edu/news/uk/16/03/tools-success), such as self-control, planning and prioritizing, and focus, leading to heightened stress, impulsivity, and negativity. For adults with children, this challenge can be especially precarious. Over time, as Jones and researchers Rebecca Bailey and Ann Partee explain in an upcoming article in the [_Aspen Journal of Ideas_](http://aspen.us/journal) **SITE NOT FOUND**, stressful encounters such as yelling and persistent negativity can undermine the relationships that buffer children from chronic stress. Parents may lose confidence in their ability to respond to tough parenting situations and manage children’s behaviors. Children, in turn, may learn to act with impulsivity, aggression, or withdrawal. In such a cycle, neither parent nor child is drawing on or building the essential skills of emotion regulation, reflection, and problem-solving.
