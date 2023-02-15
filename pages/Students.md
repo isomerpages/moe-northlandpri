@@ -29,8 +29,6 @@ description: ""
 <br clear=left>
 
 
-**For ALL levels:
+**For ALL levels:<br>
 26 May: <br>
 Blend IT! HBL - Check your assignment in SLS tasked by your subject teachers then complete the task(s).**
-
-
