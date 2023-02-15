@@ -111,6 +111,17 @@ c.        Character and Citizenship Education (CCE)
 |   | What is Love?<br><br>(30 min)  | ·       identify the characteristics of love and infatuation<br><br>·       distinguish between the characteristics of love versus infatuation<br><br>·       identify strong feelings arising from infatuation  | Term 2 Week 10  |
 |   | Am I Falling In Love?<br><br>(30 min)  | ·       manage strong feelings arising from infatuation<br><br>·       identify ways to manage and cope with teasing from peers  | Term 2 Week 10  |
 |   | Main Task<br><br>(30 min)  | Description of the Main Task:<br><br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.  | Term 2 Week 10  |
+| Friends or Foes?  | Are You Really My Friend?
+
+(30 min)  |   |   |
+|   | Is It All Safe?
+
+(30 min)  |   |   |
+|   | Main Task
+
+ (30 min)  |   |   |
+|   |   |   |   |
+|   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
