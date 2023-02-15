@@ -18,3 +18,11 @@ We wish you and your family an enriching 2022 ahead.
 
 #### Raising Confident Children
 
+[Raising Confident Children.pdf](https://northlandpri.moe.edu.sg/qql/slot/u454/Our%20Programme/Levels/Raising%20Confident%20Children.pdf) **PDF EXCEEDS 5MB**
+
+#### Where is the line between helping your children and helicopter parenting?
+
+Dear Parents  
+  
+Here is an interesting article for your reading pleasure.   
+[cnalifestyle.channelnewsasia.com/wellness/parents-ask-where-is-the-line-between-helping-and-helicoptering-11390592](http://cnalifestyle.channelnewsasia.com/wellness/parents-ask-where-is-the-line-between-helping-and-helicoptering-11390592)
