@@ -92,8 +92,8 @@ c.        Character and Citizenship Education (CCE)
 
 | **UNIT**  | **LESSONS / DURATION**  | **Lesson Objectives**<br><br>**At the end of the lesson, pupils will be able to:**  | **TIME PERIOD**<br><br>**(e.g. Term 1 Week 2)**  |
 |:-:|---|---|---|
-| Gosh! I Am Changing  | What Is Happening To Me?<br><br>(30 min)  |   |   |
-|   | What Can I Do? (Part 1)<br><br> (30 min)  |   |   |
+| Gosh! I Am Changing  | What Is Happening To Me?<br><br>(30 min)  | ·       know what puberty is<br><br>·       identify the physical changes during puberty  |   |
+|   | What Can I Do? (Part 1)<br><br> (30 min)  | ·       identify the stresses caused by physical and emotional changes during puberty<br><br>·       describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br><br>·       describe the emotions caused by physical changes during puberty<br><br>·       recognise that one’s identity does not change even when one’s body is experiencing change due to puberty  |   |
 |   | What Can I Do? (Part 2)<br><br>(30 min)  |   |   |
 |   | Main Task<br><br>(30 min)  |   |   |
 |   |   |   |   |
