@@ -85,3 +85,10 @@ Click on this site **[ICT tools](https://sites.google.com/moe.edu.sg/ict-resourc
 
 #### NPS Cares
 
+<img src="/images/NPS Cares.jpeg" align=left style="width:30%">
+
+Dear Fellow Northlanders,Always remember that NPS is here to support you. If you feel like you need a listening ear, just click the link below and complete the form. A caring teacher or school counsellor will speak to you. You matter, we are here for you! Just reach out if you need help. You are not alone!
+[NPS Cares Form](https://form.gov.sg/#!/60d84995a9bcd8001181b630)
+
+#### Aesthetics Month 2021
+
