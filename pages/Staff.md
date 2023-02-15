@@ -24,3 +24,19 @@ description: ""
 
 **icon link not found**
 
+<p><a href="http://icon.moe.edu.sg/"> 
+<img style="width:20%; margin-right:15px" align=left src="/images/PG.png">
+</a></p>
+
+<p><a href="https://idm.opal2.moe.edu.sg/account/login#">
+<img style="width:20%; margin-right:15px" align=left src="/images/SC logo.png">
+</a></p>
+
+<p><a href="https://vle.learning.moe.edu.sg/login">
+<img style="width:20%; margin-right:15px" align=left src="/images/IAMS.jpg">
+</a></p>
+
+<p><a href="https://classroom.google.com/u/0/h">
+<img style="width:20%" align=left src="/images/mesrc.png">
+</a></p>
+<br clear=left>
