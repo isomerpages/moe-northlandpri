@@ -106,11 +106,11 @@ c.        Character and Citizenship Education (CCE)
 
 | **UNIT**  | **LESSONS / DURATION**  | **Lesson Objectives**<br><br>**At the end of the lesson, pupils will be able to:**  | **TIME PERIOD**<br><br>**(e.g. Term 1 Week 2)**  |
 |:-:|---|---|---|
-| Are We More Than Friends?  | Who Are My Friends?<br><br>(30 min)  |   |   |
-|   | Am I A Good Friend?<br><br>(30 min)  |   |   |
-|   | What is Love?<br><br>(30 min)  |   |   |
-|   | Am I Falling In Love?<br><br>(30 min)  |   |   |
-|   | Main Task<br><br>(30 min)  |   |   |
+| Are We More Than Friends?  | Who Are My Friends?<br><br>(30 min)  | ·       identify the qualities of a healthy friendship<br><br>·       recognise the importance of making wise choices in friendship  | Term 2 Week 10  |
+|   | Am I A Good Friend?<br><br>(30 min)  | ·       identify the qualities that they have as a friend<br><br>·       recognise the importance of developing in oneself the qualities of a good friend  |  Term 2 Week 10 |
+|   | What is Love?<br><br>(30 min)  | ·       identify the characteristics of love and infatuation<br><br>·       distinguish between the characteristics of love versus infatuation<br><br>·       identify strong feelings arising from infatuation  | Term 2 Week 10  |
+|   | Am I Falling In Love?<br><br>(30 min)  | ·       manage strong feelings arising from infatuation<br><br>·       identify ways to manage and cope with teasing from peers  | Term 2 Week 10  |
+|   | Main Task<br><br>(30 min)  | Description of the Main Task:<br><br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.  | Term 2 Week 10  |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
