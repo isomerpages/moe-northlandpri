@@ -89,3 +89,17 @@ c.        Character and Citizenship Education (CCE)
 **At Northland Primary School, the following lessons from the Growing Years Programme will be taught in 2020:**
 
 ##### <center>Primary 5</center>
+
+| **UNIT**  | **LESSONS / DURATION**  | **Lesson Objectives**<br><br>**At the end of the lesson, pupils will be able to:**  | **TIME PERIOD**<br><br>**(e.g. Term 1 Week 2)**  |
+|:-:|---|---|---|
+| Gosh! I Am Changing  |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
