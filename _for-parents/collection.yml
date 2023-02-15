@@ -2,4 +2,5 @@ collections:
   for-parents:
     output: true
     order:
+      - Do You Know?.md
       - For Parents.md
