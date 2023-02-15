@@ -38,3 +38,13 @@ Blend IT! Tasks - Check your level assignment in SLS. Complete the task and brin
   
 **27 May and into the June holiday**  
 Click on the [**logo below**](https://sites.google.com/moe.edu.sg/npsblendedlearning2021/home) to find out about [**Let's Make IT!**](https://sites.google.com/moe.edu.sg/npsblendedlearning2021/home) tasks. Read instructions stated in the site and submit your video or photo and reflection online.
+
+<img src="/images/makeing.png" style="width:85%">
+
+#### Students' Autonomous Yarn Google Site
+
+**[Click on the image below](https://sites.google.com/moe.edu.sg/npssay/home?authuser=1)** to check out our SAY Google Site! You can learn more about our past projects, and even initiate a project you're passionate about! We hope to hear from you soon!
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:30%" align=left src="/images/stud6.jpg">
+</a></p>
