@@ -28,7 +28,6 @@ description: ""
 </a></p>
 <br clear=left>
 
-
 **For ALL levels:<br>
 26 May:** <br>
 Blend IT! HBL - Check your assignment in SLS tasked by your subject teachers then complete the task(s).
@@ -59,4 +58,24 @@ Northlanders can act it out with their schoolmates to bring across the integrity
 Submit your videos to [cce@nps.edu.sg](mailto:cce@nps.edu.sg) by Sunday, 20 March 2022. Only shortlisted ones will be featured in the CLITE assembly.
 
 The CCE department really looks forward to your submission!
+
+<img src="/images/stud7.jpg" align=left style="width:30%">
+<br clear=left>
+
+#### Be Our Champions!
+
+Join us to be part of a VIA project.
+
+1 \.            Make Our Own Unique
+
+2 \.            Project Joyful Relief
+
+3 \.            Befriending Our Friends
+
+**Date to Register: 1st Feb – 13th Feb**
+
+Scan this QR code to participate!
+
+<img src="/images/eng1.jpeg" align=left style="width:85%">
+<br clear=left>
 
