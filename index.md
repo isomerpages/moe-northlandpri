@@ -22,4 +22,10 @@ sections:
       url: https://northlandpri-moe-edu-sg-admin.cwp.sg/qql/slot/u454/Announcements/2023/WhatsApp%20Image%202022-12-28%20at%201.11.09%20PM.jpeg
       image: /images/announcements1.jpeg
       alt: Image alt text
+  - infopic:
+      title: Letter to Parent/Guardians of P1 cohort 2023
+      description: To prepare your child better for school, we have the attached file below.
+      button: click here for attached file
+      url: d
+      alt: Image alt text
 ---
