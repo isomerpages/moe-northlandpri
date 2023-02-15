@@ -45,6 +45,18 @@ Click on the [**logo below**](https://sites.google.com/moe.edu.sg/npsblendedlea
 
 **[Click on the image below](https://sites.google.com/moe.edu.sg/npssay/home?authuser=1)** to check out our SAY Google Site! You can learn more about our past projects, and even initiate a project you're passionate about! We hope to hear from you soon!
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="https://sites.google.com/moe.edu.sg/npssay/home?authuser=1">
 <img style="width:30%" align=left src="/images/stud6.jpg">
 </a></p>
+<br clear=left>
+
+#### Keen to be part of CLITE Values Assembly Programme for Integrity?
+
+Interested Northlanders can send a short video of not more than 3 minutes showing what integrity is.  
+
+Northlanders can act it out with their schoolmates to bring across the integrity message. Your parents are welcomed to join in the act.
+
+Submit your videos to [cce@nps.edu.sg](mailto:cce@nps.edu.sg) by Sunday, 20 March 2022. Only shortlisted ones will be featured in the CLITE assembly.
+
+The CCE department really looks forward to your submission!
+
