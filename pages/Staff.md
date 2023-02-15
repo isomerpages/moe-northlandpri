@@ -62,19 +62,19 @@ description: ""
 
 **RAS Link not found**
 
-<p><a href="https://form.gov.sg/5e05a7c38967b800114c14d6"> 
+<p><a href="https://sites.google.com/moe.edu.sg/ict-resources-nps/home"> 
 <img style="width:20%; margin-right:15px" align=left src="/images/ICT.png">
 </a></p>
 
-<p><a href="http://n1729padmw00861.schools.moe.edu.sg/ras/">
+<p><a href="https://scmobile.moe.edu.sg/home">
 <img style="width:20%; margin-right:15px" align=left src="/images/scmobile.jpg">
 </a></p>
 
-<p><a href="https://schoolibrary.moe.edu.sg/northlandpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">
+<p><a href="https://northlandpri.moe.edu.sg/">
 <img style="width:20%; margin-right:15px" align=left src="/images/Swiiit Admin Button copy.png">
 </a></p>
 
-<p><a href="https://www.hrp.gov.sg/hrp/#/">
+<p><a href="https://iexams.seab.gov.sg/sso/login?service=https%3A%2F%2Fiexams.seab.gov.sg%2Fsso%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3Diexams2-prod%26redirect_uri%3Dhttps%253A%252F%252Fiexams.seab.gov.sg%252Fiexams2%252Flogin%252Foauth2%252Fcode%252Fiexams2-prod%26response_type%3Dcode%26client_name%3DCasOAuthClient">
 <img style="width:20%" align=left src="/images/iexams.jpg">
 </a></p>
 <br clear=left>
