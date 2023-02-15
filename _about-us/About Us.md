@@ -3,7 +3,6 @@ title: About Us
 permalink: /about-us/about-us/
 description: ""
 ---
-
 ## ABOUT US
 
 #### Profile of Northland Primary School
@@ -17,3 +16,5 @@ Northland Primary School’s excellent track record is really a natural outcome 
 Ever mindful of the need to keep itself current, Northland Primary School continuously pushes for improvement in both its structures and processes so as to enhance its delivery of quality education.  The school also persists in making diligent efforts to steer the school towards shaping a sound programme in Character Development, Physical Education and the Aesthetics.  For example, our distinctive Aesthetics programme, _My Story, My Stage_ is specially designed to help our students find their identity and voice so that they may appreciate themselves better and be more confident to embrace their future undertakings. 
 
 Northland Primary School has won many accolades since it was founded, and has distinguished itself in the nation for its Mathematics programme, internationally for its Chess programme, and in the community for its dedicated teachers.  The school shall remain committed to scaling greater heights in its charge ahead while anchored in sound values and beliefs so as to groom the next generation of concerned citizens and useful contributors to society.
+
+[P1 file](/files/NPS%20P1%20Admin%20Day%20letter_V2.pdf)
