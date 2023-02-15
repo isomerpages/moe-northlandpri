@@ -2,13 +2,13 @@ title: NorthLand Primary
 url: https://northlandpri.moe.edu.sg
 favicon: /images/logo.jpg
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#9f5604"
+  secondary-color: "#9f5604"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#9f5604"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#9f5604"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
