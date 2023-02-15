@@ -115,3 +115,13 @@ c.        Character and Citizenship Education (CCE)
 |   | Is It All Safe?<br><br>(30 min)  | ·       know that some information (like pornography) received through the Internet may be harmful<br><br>·       know ways to keep themselves safe when using social networking websites or the Internet  | Term 4 Week 9  |
 |   | Main Task<br><br>(30 min)  | Description of the Main Task:<br><br>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.  | Term 4 Week 9  |
 |   |   |   |   |
+
+**Information for Parents**
+
+8 \.        Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+9 \.        Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents by your child’s Form Teacher before the commencement of the programme and is also downloadable [here](/files/OPT-OUT%20LETTER%202020.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the Form Teacher.
+
+10 \.      Parents can contact the school at 67553078 for discussion or to seek clarification about the school’s sexuality education programme.
+
+11 \.      Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
