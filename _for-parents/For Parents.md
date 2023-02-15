@@ -103,3 +103,17 @@ c.        Character and Citizenship Education (CCE)
 |   |   |   |   |
 
 ##### <center>Primary 6</center>
+
+| **UNIT**  | **LESSONS / DURATION**  | **Lesson Objectives**<br><br>**At the end of the lesson, pupils will be able to:**  | **TIME PERIOD**<br><br>**(e.g. Term 1 Week 2)**  |
+|:-:|---|---|---|
+| Are We More Than Friends?  | Who Are My Friends?<br><br>(30 min)  |   |   |
+|   | Am I A Good Friend?<br><br>(30 min)  |   |   |
+|   | What is Love?<br><br>(30 min)  |   |   |
+|   | Am I Falling In Love?<br><br>(30 min)  |   |   |
+|   | Main Task<br><br>(30 min)  |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
