@@ -101,3 +101,5 @@ c.        Character and Citizenship Education (CCE)
 | How Do I Keep Myself Safe?  | What is Safety?<br><br>(30 min)  | ·       know what sexual abuse is<br><br>·       know that there are laws in Singapore that can protect them from sexual abuse<br><br>·       know their rights in keeping themselves safe from sexual abuse  | Term 4 Week 10  |
 |   | Stop It! Run! Tell!<br><br>(30 min)  | ·       protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br><br>·       know their responsibilities in minimising the risk of sexual harm  | Term 4 Week 10  |
 |   |   |   |   |
+
+##### <center>Primary 6</center>
