@@ -76,6 +76,12 @@ Join us to be part of a VIA project.
 
 Scan this QR code to participate!
 
-<img src="/images/eng1.jpeg" align=left style="width:85%">
+<img src="/images/download.png" align=left style="width:25%">
 <br clear=left>
+
+#### NEW ICT Depository @ NPS
+
+Click on this site **[ICT tools](https://sites.google.com/moe.edu.sg/ict-resources-nps/home/ict-tools)** to find out how to use your school-based ICT tools.
+
+#### NPS Cares
 
