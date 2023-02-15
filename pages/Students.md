@@ -30,5 +30,11 @@ description: ""
 
 
 **For ALL levels:<br>
-26 May: <br>
-Blend IT! HBL - Check your assignment in SLS tasked by your subject teachers then complete the task(s).**
+26 May:** <br>
+Blend IT! HBL - Check your assignment in SLS tasked by your subject teachers then complete the task(s).
+
+**27 May**<br>
+Blend IT! Tasks - Check your level assignment in SLS. Complete the task and bring your completed product to school when school re-opens in Term 3.  
+  
+**27 May and into the June holiday**  
+Click on the [**logo below**](https://sites.google.com/moe.edu.sg/npsblendedlearning2021/home) to find out about [**Let's Make IT!**](https://sites.google.com/moe.edu.sg/npsblendedlearning2021/home) tasks. Read instructions stated in the site and submit your video or photo and reflection online.
