@@ -8,6 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/homepage.jpg
+      key_highlights:
+        - title: FACEBOOK PAGE
+          description: ""
+          url: https://www.facebook.com/northland.primary.10
   - infobar:
       title: USEFUL LINKS
       description: Click button below for links
