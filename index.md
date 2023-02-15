@@ -12,6 +12,9 @@ sections:
         - title: FACEBOOK PAGE
           description: ""
           url: https://www.facebook.com/northland.primary.10
+        - title: INSTAGRAM PAGE
+          description: ""
+          url: https://www.instagram.com/northlandprimary/?igshid=zt4u0jkgt3mh
   - infobar:
       title: USEFUL LINKS
       description: Click button below for links
