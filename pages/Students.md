@@ -92,3 +92,8 @@ Dear Fellow Northlanders,Always remember that NPS is here to support you. If you
 
 #### Aesthetics Month 2021
 
+Click on the logo below to find out more
+
+<p><a href="https://npsarts.wixsite.com/npsaesthetics">
+<img style="width:25%" align=left src="/images/Aesthetics.png">
+</a></p>
