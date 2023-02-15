@@ -35,4 +35,5 @@ sections:
       button: click here for attached file
       url: https://staging.d1i65nr1n0p60d.amplifyapp.com/files/NPS%20P1%20Admin%20Day%20letter_V2.pdf
       alt: Image alt text
+      image: /images/lettertoparents.jpg
 ---
