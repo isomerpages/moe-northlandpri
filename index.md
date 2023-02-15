@@ -19,7 +19,7 @@ sections:
         are to report to school on Tuesday, 3 January 2023. List of item to
         bring can be found below.
       button: Click here for list of item to bring
-      url: d
+      url: https://northlandpri-moe-edu-sg-admin.cwp.sg/qql/slot/u454/Announcements/2023/WhatsApp%20Image%202022-12-28%20at%201.11.09%20PM.jpeg
       image: /images/announcements1.jpeg
       alt: Image alt text
 ---
