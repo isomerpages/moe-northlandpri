@@ -42,3 +42,22 @@ description: ""
 <br clear=left>
 
 **IAMS Link not found**
+
+<p><a href="https://form.gov.sg/5e05a7c38967b800114c14d6"> 
+<img style="width:20%; margin-right:15px" align=left src="/images/bus_vector_275695.jpg">
+</a></p>
+
+<p><a href="http://n1729padmw00861.schools.moe.edu.sg/ras/">
+<img style="width:20%; margin-right:15px" align=left src="/images/RAS.png">
+</a></p>
+
+<p><a href="https://schoolibrary.moe.edu.sg/northlandpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME">
+<img style="width:20%; margin-right:15px" align=left src="/images/OPAC.jpg">
+</a></p>
+
+<p><a href="https://www.hrp.gov.sg/hrp/#/">
+<img style="width:20%" align=left src="/images/HRP.jpg">
+</a></p>
+<br clear=left>
+
+**RAS Link not found**
