@@ -12,5 +12,5 @@ sections:
       title: USEFUL LINKS
       description: Click button below for links
       button: LINKS
-      url: d
+      url: /useful-links/
 ---
