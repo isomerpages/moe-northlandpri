@@ -22,21 +22,23 @@ description: ""
 </a></p>
 <br clear=left>
 
-**icon link not found**
+**Icon link not found**
 
-<p><a href="http://icon.moe.edu.sg/"> 
+<p><a href="https://pg.moe.edu.sg/"> 
 <img style="width:20%; margin-right:15px" align=left src="/images/PG.png">
 </a></p>
 
-<p><a href="https://idm.opal2.moe.edu.sg/account/login#">
+<p><a href="https://schoolcockpit.moe.gov.sg/">
 <img style="width:20%; margin-right:15px" align=left src="/images/SC logo.png">
 </a></p>
 
-<p><a href="https://vle.learning.moe.edu.sg/login">
+<p><a href="https://access.moe.edu.sg/login/login.jsp">
 <img style="width:20%; margin-right:15px" align=left src="/images/IAMS.jpg">
 </a></p>
 
-<p><a href="https://classroom.google.com/u/0/h">
+<p><a href="https://www.mesrc.net/">
 <img style="width:20%" align=left src="/images/mesrc.png">
 </a></p>
 <br clear=left>
+
+**IAMS Link not found**
