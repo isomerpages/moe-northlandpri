@@ -9,7 +9,7 @@ description: ""
 To create a conducive environment where the love of Science can be seeded and nurtured
 
 **VISION**<br>
-Self-initiated Science learners who are innovative problem solvers, able to contribute to Science & Technology
+Self-initiated Science learners who are innovative problem solvers, able to contribute to Science &amp; Technology
 
 **SHORT TERM GOAL**<br>
 To teach process skills effectively and seamlessly inculcate the habits of mind through a pupil-centred and inquiry-based learning environment
@@ -17,12 +17,12 @@ To teach process skills effectively and seamlessly inculcate the habits of mind 
 **LONG TERM GOAL**<br>
 To achieve self-initiated investigative learning of Science amongst pupils who have acquired the salient habits of mind
 
-#### **Department Members:**
+#### **2) Department Members:**
 
 |  |  |
 |:---:|:---:|
 | **LH Science** | Ms Davina Chai<br>Joycelyn Goh-Tan Pei Ying  |
-| **Teaching & Learning** | Mdm Chan See Yeu |
+| **Teaching &amp; Learning** | Mdm Chan See Yeu |
 | **P3 Science Level Representative** | Mdm Nurul Shahraini Bte Azhar  |
 | **P4 Science Level Representative** | Mr Jayaram Saravanakumar Naidu   |
 | **P5 Standard Science Level Representative** | Mr Lim Chee Seng  |
