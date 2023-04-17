@@ -62,3 +62,7 @@ In Northland, the science curriculum is supported and enriched by the following 
 *   More opportunities for hands-on and experiential learning 
 *   Providing a common trigger point for all students regardless of their socio-economic status (SES) 
 *   A springboard to launch students into a world of self-discovery and wonder
+
+<img align="left" style="width:49%" src="/images/greenspace1.jpg">
+<img align="right" style="width:49%" src="/images/greenspace2.jpg">
+<br clear="left"><br>
