@@ -44,7 +44,7 @@ description: ""
 | **English**  | Mrs Katherine Chong<br>[tan\_wenxin@schools.gov.sg](mailto:tan_wenxin@schools.gov.sg)  |
 | **Mathematics**  | Mrs Ellis Chua<br>[tan\_qiu\_qing\_ellis@schools.gov.sg](mailto:tan_qiu_qing_ellis@schools.gov.sg)  |
 | **Science**  | Ms Davina Chai<br>[chai\_xiujuan\_davina@schools.gov.sg](mailto:chai_xiujuan_davina@schools.gov.sg)  |
-| **Science**   | Mrs Joycelyn Goh  |
+| **Science**   | Mrs Joycelyn Goh <br> [tan\_pei\_ying\_Joycelyn@schools.gov.sg](mailto:Tan_Pei_Ying_Joycelyn@schools.gov.sg) |
 | **Aesthetics**  | Mdm Nor Afiza Binte Abdul Hamid<br>[nor\_afiza\_abdul\_hamid@schools.gov.sg](mailto:nor_afiza_abdul_hamid@schools.gov.sg)  |
 |   |   |
 
