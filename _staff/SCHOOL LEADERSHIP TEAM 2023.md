@@ -79,4 +79,5 @@ description: ""
 |   |   |
 |:-:|---|
 | **Operation Manager**  | Mr Ramachandran Nair<br>[ramachandran\_nair@schools.gov.sg](mailto:ramachandran_nair@schools.gov.sg)  |
+| **Admin Manager**  | Ms Tan Lay Geok<br>[tan_lay_geok_b@schools.gov.sg](mailto:tan\_lay\_geok\_b@schools.gov.sg) |
 |   |   |
