@@ -30,7 +30,7 @@ To achieve self-initiated investigative learning of Science amongst pupils who h
 | **Members** | Miss Fiona Low Shi Hui  |
 |
 
-#### **Programmes:**
+#### **3) Programmes:**
 **Scientific Literacy Programmes**
 
 **CORE**<br>
