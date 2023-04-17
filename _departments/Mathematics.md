@@ -27,14 +27,14 @@ Mathematics can be found everywhere, in almost every facet of our lives. To help
   
 Look around for exciting Math teaching opportunity with your child – indoors, outdoors or on the go. Make Mathematics part of your daily lives and help your child understand that Math is fun.
 
-#### **Department Members:**
+#### ** 2) Department Members:**
 
 |  |  |
 |:---:|:---:|
 | **HOD Mathematics** | Mr Goh Shu Rong |
 | **LH Mathematics** | Mrs Ellis Chua |
-| **Teaching & Learning (Term 1)** | Mr Chang Cheng Hwee |
-| **Teaching & Learning** | Mrs Chong Cheng Cheng  |
+| **Teaching &amp; Learning (Term 1)** | Mr Chang Cheng Hwee |
+| **Teaching &amp; Learning** | Mrs Chong Cheng Cheng  |
 | **LSM Coordinator** |  Mdm Angrini Bte Sawal |
 | **P1 Math Representative** | Mrs Ho-Chan Hui Lin |
 | **P2 Math Representative** | Mrs Goh Xin Hwei       |
