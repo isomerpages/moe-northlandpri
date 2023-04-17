@@ -7,7 +7,7 @@ description: ""
 
 |   |   |
 |:-:|---|
-| **Principal**  | Mr Jay Westly Mahardale <br> [jay\_mahardale@schools.gov.sg](mailto:jay_mahardale@schools.gov.sg)  |
+| **Principal**  | Mr&nbsp;Jay Westly Mahardale <br> [jay\_mahardale@schools.gov.sg](mailto:jay_mahardale@schools.gov.sg)  |
 | **Vice-Principal**  | Mr Richard Chong Choong Hian <br> [chong\_choong\_hian@schools.gov.sg](mailto:chong_choong_hian@schools.gov.sg)  |
 |   |   |
 
@@ -19,10 +19,10 @@ description: ""
 | **English**  | Mdm Farah Hasinah<br>[farah\_hasinah\_abdul\_wahab@schools.gov.sg](mailto:farah_hasinah_abdul_wahab@schools.gov.sg)  |
 | **Mother Tongue Languages**  | Miss Goh Wang Eng<br>[goh\_wang\_eng@schools.gov.sg](mailto:goh_wang_eng@schools.gov.sg)  |
 | **Mathematics**  | Mr Goh Shu Rong<br>[goh\_shu\_rong@schools.gov.sg](mailto:goh_shu_rong@schools.gov.sg)  |
-| **Character & Citizenship Education** | Mdm Menhanah Bte Masudi<br>[menhanah\_masudi@schools.gov.sg](mailto:menhanah_masudi@schools.gov.sg)  |
-| **Physical Education & CCA**  | Mr Ganesan s/o Arumugan<br>[ganesan\_arumugan@schools.gov.sg](mailto:ganesan_arumugan@schools.gov.sg)  |
+| **Character &amp; Citizenship Education** | Mdm Menhanah Bte Masudi<br>[menhanah\_masudi@schools.gov.sg](mailto:menhanah_masudi@schools.gov.sg)  |
+| **Physical Education &amp; CCA**  | Mr Ganesan s/o Arumugan<br>[ganesan\_arumugan@schools.gov.sg](mailto:ganesan_arumugan@schools.gov.sg)  |
 | **Aesthetics**  | Miss Lee Bee Ping Germaine<br>[lee\_bee\_ping\_germaine@schools.gov.sg](mailto:lee_bee_ping_germaine@schools.gov.sg)  |
-| **Information Communication & Technology**  | Mdm Cindy Heng<br>[heng\_cindy@schools.gov.sg](mailto:heng_cindy@schools.gov.sg)  |
+| **Information Communication &amp; Technology**  | Mdm Cindy Heng<br>[heng\_cindy@schools.gov.sg](mailto:heng_cindy@schools.gov.sg)  |
 |   |   |
 
 #### Year Head (YH)
@@ -44,7 +44,7 @@ description: ""
 | **English**  | Mrs Katherine Chong<br>[tan\_wenxin@schools.gov.sg](mailto:tan_wenxin@schools.gov.sg)  |
 | **Mathematics**  | Mrs Ellis Chua<br>[tan\_qiu\_qing\_ellis@schools.gov.sg](mailto:tan_qiu_qing_ellis@schools.gov.sg)  |
 | **Science**  | Ms Davina Chai<br>[chai\_xiujuan\_davina@schools.gov.sg](mailto:chai_xiujuan_davina@schools.gov.sg)  |
-|   | Mrs Joycelyn Goh  |
+| **Science**   | Mrs Joycelyn Goh  |
 | **Aesthetics**  | Mdm Nor Afiza Binte Abdul Hamid<br>[nor\_afiza\_abdul\_hamid@schools.gov.sg](mailto:nor_afiza_abdul_hamid@schools.gov.sg)  |
 |   |   |
 
@@ -52,10 +52,10 @@ description: ""
 
 |   |   |
 |:-:|---|
-| **Malay & Tamil Languages**  | Mdm Anandhi d/o Nagaraja<br>[anandhi\_nagaraja@schools.gov.sg](mailto:anandhi_nagaraja@schools.gov.sg)  |
+| **Malay &amp; Tamil Languages**  | Mdm Anandhi d/o Nagaraja<br>[anandhi\_nagaraja@schools.gov.sg](mailto:anandhi_nagaraja@schools.gov.sg)  |
 | **Citizenship Education**  | Mrs Joyce Low<br>[cheung\_pei\_yi@schools.gov.sg](mailto:cheung_pei_yi@schools.gov.sg)  |
 | **CCA**  | Mr Wilson Tan Kay Chye<br>[tan\_kay\_chye\_wilson@schools.gov.sg](mailto:tan_kay_chye_wilson@schools.gov.sg)  |
-| **Discipline & Student Leadership**  | Mr Mohamed Faroek Hamsani<br>[mohamed\_faroek\_hamsani@schools.gov.sg](mailto:mohamed_faroek_hamsani@schools.gov.sg)  |
+| **Discipline &amp; Student Leadership**  | Mr Mohamed Faroek Hamsani<br>[mohamed\_faroek\_hamsani@schools.gov.sg](mailto:mohamed_faroek_hamsani@schools.gov.sg)  |
 | **Student Well-being**  | Mr Rajiv Jude Illesinghe<br>[rajiv\_jude\_illesinghe@schools.gov.sg](mailto:rajiv_jude_illesinghe@schools.gov.sg)  |
 |   |   |
 
@@ -80,4 +80,3 @@ description: ""
 |:-:|---|
 | **Operation Manager**  | Mr Ramachandran Nair<br>[ramachandran\_nair@schools.gov.sg](mailto:ramachandran_nair@schools.gov.sg)  |
 |   |   |
-
