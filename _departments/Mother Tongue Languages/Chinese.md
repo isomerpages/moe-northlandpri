@@ -38,14 +38,10 @@ The P1 and P2 Chinese students took to the stage when they took part in the Song
 The Department strongly believes that harnessing ICT effectively will enhance pupils learning experiences. Pupils have learnt to be self- directed learners and ICT infused Chinese language lessons have paved way for collaborative learning to take place in our classrooms.
 
 Programmes
-*   P3 Touch Typing   
+*   P3 Touch Typing&nbsp;  
 *   IMTL Portal - [https://imtl.moe.edu.sg/](https://imtl.moe.edu.sg/) **broken link**
 
-Useful websites :<br>
-Xuele - [https://www.mtl.moe.edu.sg/xuele/MOE_web/main.html](https://www.mtl.moe.edu.sg/xuele/MOE_web/main.html)<br>
-IMTL - [https://imtl.moe.edu.sg/](https://imtl.moe.edu.sg/)
-
-#### **P5 & P6 E-Oral Workshop 2022**
+#### **P5 &amp; P6 E-Oral Workshop 2022**
 Please refer to the slides for the workshop below.<br>
 [Parents Workshop 2022.pdf](/files/workshop1.pdf)
 
