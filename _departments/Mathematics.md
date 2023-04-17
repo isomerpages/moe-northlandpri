@@ -27,7 +27,7 @@ Mathematics can be found everywhere, in almost every facet of our lives. To help
   
 Look around for exciting Math teaching opportunity with your child – indoors, outdoors or on the go. Make Mathematics part of your daily lives and help your child understand that Math is fun.
 
-#### ** 2) Department Members:**
+#### **2) Department Members:**
 
 |  |  |
 |:---:|:---:|
