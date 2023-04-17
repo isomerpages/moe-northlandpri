@@ -41,10 +41,10 @@ Programmes
 *   P3 Touch Typing&nbsp;  
 *   IMTL Portal - [https://imtl.moe.edu.sg/](https://imtl.moe.edu.sg/) **broken link**
 
-#### **P5 &amp; P6 E-Oral Workshop 2022**
+#### **P5 &amp; P6 E-Oral Workshop 2023**
 Please refer to the slides for the workshop below.<br>
-[Parents Workshop 2022.pdf](/files/workshop1.pdf)
+[2023 口试家长工作坊](/files/2023e-oral.pdf)
 
-#### **Reading Workshop 2022**
+#### **Reading Workshop 2023**
 Please refer to the slides for the workshop below.<br>
-[阅读_悦读 家长工作坊.pdf](/files/workshop2.pdf)
+[阅读与写作亲子工作坊](/files/2023%20cl%20reading%20writing%20workshop%20upload.pdf)
