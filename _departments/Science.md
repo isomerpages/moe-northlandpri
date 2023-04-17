@@ -66,3 +66,17 @@ In Northland, the science curriculum is supported and enriched by the following 
 <img align="left" style="width:49%" src="/images/greenspace1.jpg">
 <img align="right" style="width:49%" src="/images/greenspace2.jpg">
 <br clear="left"><br>
+
+<figure>
+<img style="width:90%" src="/images/greenspace3.jpg">
+<figcaption> Sky Garden
+ </figcaption>
+</figure>
+
+E2K  
+  
+The Programme is adapted from Israel’s E2K Programme, which is developed by the Israel Centre for Excellence through Education (ICEE). E2K Science Programme Singapore is run by teachers in schools who have been trained in the E2K pedagogy.  
+  
+The programme engages pupils in scientific investigations involving more advanced science concepts. It aims to foster independence in scientific inquiry in pupils and to help them to develop science process skills, as well as other important 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective communication skills.
+
+<img style="width:85%" src="/images/science 4.jpg">
