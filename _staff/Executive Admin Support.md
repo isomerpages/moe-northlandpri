@@ -8,6 +8,7 @@ description: ""
 | Area  | Staff  | Email  |
 |:-:|---|---|
 | Operation Manager  | Mr Ramachandran Nair  | [ramachandran\_nair@schools.gov.sg](mailto:ramachandran_nair@schools.gov.sg)  |
+| Admin Manager  | Ms Tan Lay Geok  | [tan\_lay\_geok\_b@schools.gov.sg](mailto:tan_lay_geok_b@schools.gov.sg)  |
 | Admin Executive  | Mdm Seri Hidayu  | [seri\_hidayu\_shaleh@schools.gov.sg](mailto:seri_hidayu_shaleh@schools.gov.sg)  |
 | Admin Executive  | Mdm Rohaidzan  | [rohaidzan\_mohamed\_pilus@schools.gov.sg](mailto:rohaidzan_mohamed_pilus@schools.gov.sg)  |
 | ICT Associate  | Ms Nur Dalela  | [nur\_dalela\_abu\_hasan@schools.gov.sg](mailto:nur_dalela_abu_hasan@schools.gov.sg)  |
