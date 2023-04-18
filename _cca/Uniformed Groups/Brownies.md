@@ -6,6 +6,8 @@ third_nav_title: Uniformed Groups
 ---
 ## BROWNIES
 
+**REQUIRE JACKSON INPUT VIDEO**
+
 #### Objectives &amp; Activities  
 
 1 \.&nbsp;&nbsp;&nbsp;&nbsp;Students are given opportunities each session to lead the badge presentation and lead team activities for the brownies.  <br>
