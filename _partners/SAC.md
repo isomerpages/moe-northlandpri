@@ -9,11 +9,12 @@ The SAC comprises parents, professionals and grassroots leaders, with the Princi
 
 | **Designation**  | **Name**  |
 |:-:|---|
-| **Chairman**  | **Mr Jay Ong Peng Yong**  |
+| **Chairman**  | **Mr. Lim Yew Ling, Dick**  |
 | **Treasurer**  | **Ms Phoebe Teo Teng**  |
 | **Honorary Secretary**  | **Mr Jay Westly Mahardale**  |
-| **Member**  | **Mr Lim Yew Ling, Dick**  |
-| **Member**  | **Ms Angela Ang**  |
-| **Member**  | **Ms Julie Yeo**  |
-| **Member**  | **Ms  Veera Sekaran**  |
+| **Member**  | **Ms. Angela Ang**  |
+| **Member**  | **Ms. Julie Yeo**  |
+| **Member**  | **Mr. Veera Sekaran** |
+| **Member**  | **Mr. Ang Kah Sieng**  |
+| **Member**  | **Mr. Luke Pachymuthu**  |
 |   |   |
