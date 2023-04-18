@@ -38,11 +38,11 @@ You may&nbsp;[click](https://go.gov.sg/moe-sexuality-education)&nbsp;here for mo
 a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Science<br>
 b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education (CCE)
 
-**Growing Years (GY) Programme**: “Curious Minds (2nd&nbsp;Edition)” (Primary 5 &amp; 6) Teaching &amp; Learning resource package
+6 \. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.
 
-6 \.&nbsp;The upper primary years mark the onset of puberty.&nbsp; With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.
+7 \. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 
-7 \.&nbsp;The Primary 5 &amp; 6 Growing Years (GY) package, “Curious Minds (2nd&nbsp;Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping&nbsp;students navigate&nbsp;_changes_, build healthy&nbsp;_relationships_, especially online relationships, and exercise&nbsp;_safety_.
+Click [here](/files/2023%20info%20on%20sed%20for%20schs%20website%20northland%20primary%20school.pdf) for details.
 
 **At Northland Primary School, the following lessons from the Growing Years Programme will be taught :**
 
