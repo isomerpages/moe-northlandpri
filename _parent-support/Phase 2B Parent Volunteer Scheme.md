@@ -22,7 +22,7 @@ Please refer to the table below for more information.
 | Year Child<br> Is Born  | Phase 2B Registration  | Service Period For Parents(PV)  | Primary 1<br> Registration  | Year Child is in<br> Primary 1  |
 |:-:|---|---|---|---|
 | 2017  | 2022 (Closed)  | June 2022 - June 2023  | July 2023  | 2024  |
-| 2018  | 3 January 2023 -  <br>31 March 2023  | June 2023 - June 2024  | \*July 2024  | 2025  |
+| 2018  | 2023 (Closed)  | June 2023 - June 2024  | \*July 2024  | 2025  |
 | 2019  | \*3 January 2024 -&nbsp;  <br>31 March 2024  | \*June 2024 - June 2025  | \*July 2025  | 2026  |
 | 2020  | \*3 January 2025 -&nbsp; <br>31 March 2025  | \*June 2025 - June 2026  | \*July 2026  | 2027  |
 |   |   |   |   |   |
