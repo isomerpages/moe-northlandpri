@@ -44,44 +44,10 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Educ
 
 Click [here](/files/2023%20info%20on%20sed%20for%20schs%20website%20northland%20primary%20school.pdf) for details.
 
-**At Northland Primary School, the following lessons from the Growing Years Programme will be taught :**
+**INFORMATION FOR PARENTS**
 
-###### <center>Primary 5</center>
+8 \. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
-| UNIT  | LESSONS / DURATION  | Lesson Objectives<br>At the end of the lesson, pupils will be able to:  |   |
-|:-:|---|---|---|
-| Gosh! I Am Changing  | What Is Happening To Me?<br><br>(30 min)  | ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;know what puberty is<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;identify the physical changes during puberty  |   |
-| <br><br><br><br><br><br>Gosh! I Am Changing  | <br><br><br><br>What Can I Do? (Part 1)<br><br>(30 min)  | ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;identify the stresses caused by physical and emotional changes during puberty<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;describe the emotions caused by physical changes during puberty<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;recognise that one’s identity does not change even when one’s body is experiencing change due to puberty  |   |
-| <br><br><br><br><br><br>Gosh! I Am Changing  | <br><br><br><br>What Can I Do? (Part 2)<br><br>&nbsp;(30 min)  | ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;identify the stresses caused by physical and emotional changes during puberty<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;describe the emotions caused by physical changes during puberty<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;recognise that one’s identity does not change even when one’s body is experiencing change due to puberty  |   |
-| <br><br><br>Gosh! I Am Changing  |<br><br> Main Task<br><br>(30 min)  | Description of the Main Task:<br><br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.  |   |
-| <br><br><br><br>Where I Belong  | <br><br>What Are Families?<br><br>(30 min)  | ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;know that there are different types of family structures<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;know that every family is unique<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;state that the three basic functions of families are to provide love, protection and guidance<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;identify the right sources of help to turn to when in need  |   |
-| Where I Belong  | What is My Role?<br><br>&nbsp;(30 min)  | ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;know that gender is about being male or female<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;choose not to stereotype by gender  |   |
-| <br>How Do I Keep Myself Safe?  | <br>What is Safety?<br><br>(30 min)  | ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;know what sexual abuse is<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;know that there are laws in Singapore that can protect them from sexual abuse<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;know their rights in keeping themselves safe from sexual abuse  |   |
-| <br>How Do I Keep Myself Safe?  | <br>Stop It! Run! Tell!<br><br>(30 min)  | ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;know their responsibilities in minimising the risk of sexual harm  |   |
-|   |   |   |   |
+9 \. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents by your child’s Form Teacher before the commencement of the programme.&nbsp; We will also be sending you the notification on the commencement of the Sexuality Education lessons as well as the opt-out form via Parents Gateway.
 
-###### <center>Primary 6</center>
-
-| UNIT  | LESSONS / DURATION  | Lesson Objectives<br>At the end of the lesson, pupils will be able to:  |   |
-|:-:|---|---|---|
-| Are We More Than Friends?  | Who Are My Friends?<br><br>(30 min)  | ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;identify the qualities of a healthy friendship<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;recognise the importance of making wise choices in friendship  |   |
-| Are We More Than Friends?  | Am I A Good Friend?<br><br>(30 min)  | ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;identify the qualities that they have as a friend<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;recognise the importance of developing in oneself the qualities of a good friend  |   |
-| Are We More Than Friends?  | What is Love?<br><br>(30 min)  | ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;identify the characteristics of love and infatuation<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;distinguish between the characteristics of love versus infatuation<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;identify strong feelings arising from infatuation  |   |
-| Are We More Than Friends?  | Am I Falling In Love?<br><br>(30 min)  | ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;manage strong feelings arising from infatuation<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;identify ways to manage and cope with teasing from peers  |   |
-| Are We More Than Friends?  | Main Task<br><br>&nbsp;(30 min)  | Description of the Main Task:<br><br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation.&nbsp;They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.  |   |
-| Friends or Foes?  | Are You Really My Friend?<br><br>(30 min)  | ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;identify the pros and cons of forming relationships through social networking websites<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;know ways to keep themselves safe when using social networking websites  |   |
-| Friends or Foes?  | Is It All Safe?<br><br>(30 min)  | ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;know that some information (like pornography) received through the Internet may be harmful<br><br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;know ways to keep themselves safe when using social networking websites or the Internet  |   |
-| Friends or Foes?  | Main Task<br><br>(30 min)  | Description of the Main Task:<br><br>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.&nbsp; These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.  |   |
-|   |   |   |   |
-
-**Information for Parents**
-
-8 \.&nbsp;Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
-
-9 \.&nbsp;Parents who wish to opt their children out of the&nbsp;**Growing Years (GY) programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents by your child’s Form Teacher before the commencement of the programme and is also downloadable&nbsp;below. A hardcopy of the form, duly completed and signed, is to be submitted to the Form Teacher.
-
-10 \.&nbsp;Parents can contact the school at 67553078 for discussion or to seek clarification about the school’s sexuality education programme.
-
-11 \.&nbsp;Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
-
-[OPT out form 2019 ](/files/Info%20on%20SEd%20for%20schs%20website%20(Pri)%20-%202019.pdf)
+10 \. Parents can contact the school at 67553078 for discussion or to seek clarification about the school’s Sexuality Education programme.
