@@ -2,33 +2,6 @@ logo: /images/logo.jpg
 links:
   - title: ABOUT US
     collection: about-us
-  - title: STAFF
-    url: /staff/sch-ldrship-2023/
-    sublinks:
-      - title: School Leadership Team 2023
-        url: /staff/sch-ldrship-2023/
-      - title: Primary 1 2023
-        url: /staff/p1-2023/
-      - title: Primary 2 2023
-        url: /staff/p2-2023/
-      - title: Primary 3 2023
-        url: /staff/p3-2023/
-      - title: Primary 4 2023
-        url: /staff/p4-2023/
-      - title: Primary 5 2023
-        url: /staff/p5-2023/
-      - title: Primary 6 2023
-        url: /staff/p6-2023/
-      - title: Mother Tongue
-        url: /staff/Mother-Tongue/chinese/
-      - title: Other Teaching Staff
-        url: /staff/ots/
-      - title: Allied Educators
-        url: /staff/alled-edu/
-      - title: Executive Admin Support
-        url: /staff/eas/
-      - title: Support Staff
-        url: /staff/ss/
   - title: DEPARTMENTS
     url: /departments/english/
     sublinks:
@@ -71,6 +44,33 @@ links:
         url: /partners/Education/edu/
       - title: Family LIFE Edu@School
         url: /partners/life-edu/
+  - title: STAFF
+    url: /staff/sch-ldrship-2023/
+    sublinks:
+      - title: School Leadership Team 2023
+        url: /staff/sch-ldrship-2023/
+      - title: Primary 1 2023
+        url: /staff/p1-2023/
+      - title: Primary 2 2023
+        url: /staff/p2-2023/
+      - title: Primary 3 2023
+        url: /staff/p3-2023/
+      - title: Primary 4 2023
+        url: /staff/p4-2023/
+      - title: Primary 5 2023
+        url: /staff/p5-2023/
+      - title: Primary 6 2023
+        url: /staff/p6-2023/
+      - title: Mother Tongue
+        url: /staff/Mother-Tongue/chinese/
+      - title: Other Teaching Staff
+        url: /staff/ots/
+      - title: Allied Educators
+        url: /staff/alled-edu/
+      - title: Executive Admin Support
+        url: /staff/eas/
+      - title: Support Staff
+        url: /staff/ss/
   - title: HAPPENINGS
     collection: happenings
   - title: CONTACT US
