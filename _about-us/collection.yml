@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - School History.md
       - Vision, Mission, Core Values.md
       - Strategic Thrusts.md
       - Crest, Motto, Flag And Song.md
       - School Hours & Recesses.md
+      - School History.md
