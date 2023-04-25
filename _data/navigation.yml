@@ -29,21 +29,6 @@ links:
         url: /departments/operations-and-security/
   - title: CCA
     collection: cca
-  - title: PARTNERS
-    url: /partners/partners/
-    sublinks:
-      - title: Alumni
-        url: /partners/Alumni/alumni/
-      - title: SAC
-        url: /partners/sac/
-      - title: Parent Support
-        url: /parent-support/champs/
-      - title: Community
-        url: /partners/Community/community/
-      - title: Education
-        url: /partners/Education/edu/
-      - title: Family LIFE Edu@School
-        url: /partners/life-edu/
   - title: STAFF
     url: /staff/sch-ldrship-2023/
     sublinks:
@@ -71,6 +56,8 @@ links:
         url: /staff/eas/
       - title: Support Staff
         url: /staff/ss/
+  - title: PARTNERS
+    collection: partners
   - title: HAPPENINGS
     collection: happenings
   - title: CONTACT US
