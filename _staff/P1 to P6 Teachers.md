@@ -7,8 +7,9 @@ description: ""
 
 
 
-**Year Head:**&nbsp;Mdm Pauline Cheong&nbsp;
+**Year Head:**
 
+Mdm Pauline Cheong <br>
 [cheong\_siew\_lan\_pauline@schools.gov.sg](mailto:cheong_siew_lan_pauline@schools.gov.sg)
 
 <style type="text/css">
@@ -73,3 +74,10 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+### PRIMARY 2 2023
+
+**Year Head:**&nbsp;
+
+Mr Ganesan Arumugan  <br>
+[ganesan_arumugan@schools.gov.sg](mailto:ganesan_arumugan@schools.gov.sg)
