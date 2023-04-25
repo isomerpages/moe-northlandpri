@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Operations & Security.md
       - Principal's Message.md
       - Vision, Mission, Core Values.md
       - Crest, Motto, Flag And Song.md
