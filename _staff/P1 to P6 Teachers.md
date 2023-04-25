@@ -264,3 +264,133 @@ Miss Teo Choy Yim <br>
 </tbody>
 </table>
 
+### PRIMARY 5 2023
+
+**Year Head:**&nbsp;
+
+Mrs Siti Ardah Hazry <br>
+[siti\_ardah\_iskandar@schools.gov.sg](mailto:siti_ardah_iskandar@schools.gov.sg)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2705{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-8hqj{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-lb67{background-color:#FFF;color:#2289E7;text-align:center;vertical-align:top}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-8hqj">Class</th>
+    <th class="tg-8hqj">Form Teachers</th>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Website</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7yig">5A</td>
+    <td class="tg-7yig">Mrs<span style="color:black"> Tham Wan Churn</span><br><span style="color:black">Mdm Fadilah </span>Abdul Rahim</td>
+    <td class="tg-lb67"><a rel="noopener noreferrer" target="_blank" href="mailto:teo_wan_churn@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">teo_wan_churn@schools.gov.sg </span></a><br><a rel="noopener noreferrer" target="_blank" href="mailto:fadilah_abdul_rahim@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">fadilah_abdul_rahim@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">5B</td>
+    <td class="tg-7yig"><span style="color:black">Mr M</span>anivanan Muthu<br><span style="color:black">Mrs Lim-Tan</span> <span style="color:black">Su</span> <span style="color:black">Xuan</span></td>
+    <td class="tg-lb67"><a href="mailto:manivanan_muthu@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">manivanan_muthu@schools.gov.sg</span></a><br><a href="mailto:tan_su_xuan@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">tan_su_xuan@schools.gov.sg </span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">5C</td>
+    <td class="tg-7yig"><span style="color:black">Mrs Prema Suresh</span><br><span style="color:black">Miss He Huiling Joyce</span></td>
+    <td class="tg-lb67"><a href="mailto:prema_chandran@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">prema_chandran@schools.gov.sg </span></a><br><a href="mailto:he_huiling_joyce@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">he_huiling_joyce@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">5D</td>
+    <td class="tg-7yig">Ms<span style="color:black"> Sun Siew Jhen</span><br><span style="color:black">Miss Ong Teck Lian</span></td>
+    <td class="tg-f4yw"> <a rel="noopener noreferrer" target="_blank" href="mailto:sun_siew_jhen@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">sun_siew_jhen@schools.gov.sg</span></a><br><a rel="noopener noreferrer" target="_blank" href="mailto:ong_teck_lian@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">ong_teck_lian@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">5E</td>
+    <td class="tg-7yig">Mr<span style="color:black"> Chang Cheng Hwee</span><br><span style="color:black">Miss Germaine Lee</span></td>
+    <td class="tg-lb67"><a rel="noopener noreferrer" target="_blank" href="mailto:chang_cheng_hwee@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">chang_cheng_hwee@schools.gov.sg </span></a><br><a rel="noopener noreferrer" target="_blank" href="mailto:lee_bee_ping_germaine@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">lee_bee_ping_germaine@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">5F</td>
+    <td class="tg-7yig"><span style="color:black">Mdm</span> <span style="color:black">Nor</span> <span style="color:black">Afiza A</span>bdul Hamid</td>
+    <td class="tg-lb67"><a href="mailto:nor_afiza_abdul_hamid@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">nor_afiza_abdul_hamid@schools.gov.sg </span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">5G</td>
+    <td class="tg-f4yw">Mr Alvin Liu Weixiong</td>
+    <td class="tg-lb67"><a href="mailto:liu_weixiong_alvin@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">liu_weixiong_alvin@schools.gov.sg </span></a></td>
+  </tr>
+</tbody>
+</table>
+
+### PRIMARY 6 2023
+
+**Year Head:**&nbsp;
+
+Mrs Asmawati Ganesan&nbsp;<br>
+[asmawati\_abdullah@schools.gov.sg](mailto:asmawati_abdullah@schools.gov.sg)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gdxe{color:#2289E7;text-align:center;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-2705{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-8hqj{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-8hqj">Class</th>
+    <th class="tg-8hqj">Form Teachers</th>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Website</span><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-baqh"> 6A</td>
+    <td class="tg-baqh">Mrs Lim-Koh Kha Tiang<br>Mr Kumara Rajan Kanagasabai</td>
+    <td class="tg-gdxe"><a rel="noopener noreferrer" target="_blank" href="mailto:koh_kha_tiang@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">koh_kha_tiang@schools.gov.sg </span></a><br><a rel="noopener noreferrer" target="_blank" href="mailto:kumara_rajan_kanagasabai@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">kumara_rajan_kanagasabai@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"> 6B</td>
+    <td class="tg-baqh">Mr Lim Chee Seng<br>Mr Mohamed Faroek Hamsani</td>
+    <td class="tg-gdxe"><a href="mailto:lim_chee_seng@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">lim_chee_seng@schools.gov.sg </span></a><br><a href="mailto:mohamed_faroek_hamsani@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">mohamed_faroek_hamsani@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"> 6C</td>
+    <td class="tg-baqh"><span style="color:black">Mrs</span> <span style="color:black">Ellis Chua</span><br>Mdm Farah Hasinah Abdul Wahab</td>
+    <td class="tg-gdxe"><a href="mailto:tan_qiu_qing_ellis@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">tan_qiu_qing_ellis@schools.gov.sg </span></a><br><a href="mailto:farah_hasinah_abdul_wahab@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">farah_hasinah_abdul_wahab@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">6D</td>
+    <td class="tg-baqh"><span style="color:black">Mrs Lee-Goy Hoon Meng</span><br><span style="color:black">Mdm P Nirija</span></td>
+    <td class="tg-gdxe"><a href="mailto:lee-goy_hoon_meng@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">lee-goy_hoon_meng@schools.gov.sg</span></a><br><a href="mailto:p_nirija@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">p_nirija@schools.gov.sg </span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"> 6E</td>
+    <td class="tg-baqh"><span style="color:black">Mr R</span>ajiv Jude Illesinghe<br><span style="color:black">Mdm</span> <span style="color:black">Chan See Yeu</span></td>
+    <td class="tg-gdxe"><a rel="noopener noreferrer" target="_blank" href="mailto:rajiv_jude_illesinghe@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">rajiv_jude_illesinghe@schools.gov.sg</span></a> <br><a rel="noopener noreferrer" target="_blank" href="mailto:chan_see_yeu@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">chan_see_yeu@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"> 6F</td>
+    <td class="tg-baqh"><span style="color:black">Mrs</span> <span style="color:black">Fiona Lin</span><br><span style="color:black">Miss</span> <span style="color:black">Yuanna S</span>alamat</td>
+    <td class="tg-gdxe"><a rel="noopener noreferrer" target="_blank" href="mailto:low_shi_hui_fiona@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">low_shi_hui_fiona@schools.gov.sg </span></a><br><a rel="noopener noreferrer" target="_blank" href="mailto:yuanna_salamat@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">yuanna_salamat@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"> 6G</td>
+    <td class="tg-baqh"><span style="color:black">Mdm S</span>iti Hajar Bujang<br>Mrs<span style="color:black"> Katherine Chong</span></td>
+    <td class="tg-gdxe"><a rel="noopener noreferrer" target="_blank" href="mailto:siti_hajar_bujang@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">siti_hajar_bujang@schools.gov.sg </span></a><br><a rel="noopener noreferrer" target="_blank" href="mailto:tan_wenxin@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">tan_wenxin@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
