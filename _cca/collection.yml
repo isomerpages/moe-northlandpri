@@ -3,12 +3,6 @@ collections:
     output: true
     order:
       - CCA.md
-      - Clubs & Societies/.keep
-      - Clubs & Societies/Clubs & Societies.md
-      - Clubs & Societies/Art & Craft Club.md
-      - Clubs & Societies/Chess Club.md
-      - Clubs & Societies/Infocomm Club@Northland.md
-      - Clubs & Societies/Pac Mrl Club.md
       - Performing Arts/.keep
       - Performing Arts/Performing Arts.md
       - Performing Arts/Chinese Cultural Dance.md
