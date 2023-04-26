@@ -121,3 +121,7 @@ North Zone: Champion &amp; 2nd
 **Open**<br>
 National: 2nd<br>
 North Zone: Champion
+
+<img style="width:65%" src="/images/chess%20club%201.jpg">
+		 
+<img style="width:65%" src="/images/chess%20club%202.jpg">
