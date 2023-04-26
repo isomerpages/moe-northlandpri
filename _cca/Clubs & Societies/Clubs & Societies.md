@@ -29,7 +29,7 @@ Click on the respective CCAs to find out more.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-gdxe"><a href="/ccas/clubs-n-societies/infocomm-club-at-northland"><span style="text-decoration:none;color:#2289E7">Infocomm Club@Northland</span></a></td>
+    <td class="tg-gdxe"><a href="/ccas/clubs-n-societies/infocomm-club-at-northland/photography-club"><span style="text-decoration:none;color:#2289E7">Infocomm Club@Northland</span></a></td>
     <td class="tg-gdxe"><a href="/ccas/clubs-n-societies/pac-mrl-club"><span style="text-decoration:none;color:#2289E7">PAC MRL Club</span></a></td>
   </tr>
 </tbody>
