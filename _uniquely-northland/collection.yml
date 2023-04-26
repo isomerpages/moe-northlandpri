@@ -2,6 +2,7 @@ collections:
   uniquely-northland:
     output: true
     order:
+      - Values In Action/Passion.md
       - Values In Action/SAY.md
       - Values In Action/Changemakers.md
       - Values In Action/.keep
