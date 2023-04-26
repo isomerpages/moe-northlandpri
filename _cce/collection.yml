@@ -2,5 +2,6 @@ collections:
   cce:
     output: true
     order:
+      - Care for Self and NPS Cares/Care for Self and NPS Cares.md
       - Care for Self and NPS Cares/.keep
       - Character & Citizenship Education.md
