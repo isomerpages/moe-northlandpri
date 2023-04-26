@@ -2,15 +2,15 @@ collections:
   cca:
     output: true
     order:
-      - Performing Arts/Drama Club.md
-      - Performing Arts/Malay Cultural Club.md
-      - Performing Arts/Modern Dance.md
-      - Performing Arts/Strings Ensemble.md
-      - Performing Arts/Handbell Ensemble.md
-      - Performing Arts/Choir.md
-      - Performing Arts/Chinese Cultural Dance.md
-      - Performing Arts/Performing Arts.md
       - Performing Arts/.keep
+      - Performing Arts/Performing Arts.md
+      - Performing Arts/Chinese Cultural Dance.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Handbell Ensemble.md
+      - Performing Arts/Strings Ensemble.md
+      - Performing Arts/Modern Dance.md
+      - Performing Arts/Malay Cultural Club.md
+      - Performing Arts/Drama Club.md
       - Clubs & Societies/.keep
       - Clubs & Societies/Clubs & Societies.md
       - Clubs & Societies/Art & Craft Club.md
