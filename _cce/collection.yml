@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Student Leadership/BEACONS (Jude).md
       - Student Leadership/.keep
       - Special Education Needs.md
       - Positive Discipline.md
