@@ -2,10 +2,22 @@ collections:
   cca:
     output: true
     order:
-      - Uniformed Groups/.keep
-      - Uniformed Groups/Uniformed Groups.md
-      - Uniformed Groups/CUB Scouts.md
-      - Uniformed Groups/Brownies.md
+      - CCA.md
+      - Sports/.keep
+      - Sports/Sports.md
+      - Sports/Basketball.md
+      - Sports/Football.md
+      - Sports/Netball.md
+      - Sports/Silat.md
+      - Sports/Wushu.md
+      - Sports/Floorball.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Clubs & Societies.md
+      - Clubs & Societies/Art & Craft Club.md
+      - Clubs & Societies/Chess Club.md
+      - Clubs & Societies/Photography Club.md
+      - Clubs & Societies/Robotics Club.md
+      - Clubs & Societies/PAC MRL Club.md
       - Performing Arts/.keep
       - Performing Arts/Performing Arts.md
       - Performing Arts/Chinese Cultural Dance.md
@@ -15,19 +27,7 @@ collections:
       - Performing Arts/Modern Dance.md
       - Performing Arts/Malay Cultural Club.md
       - Performing Arts/Drama Club.md
-      - Clubs & Societies/.keep
-      - Clubs & Societies/Clubs & Societies.md
-      - Clubs & Societies/Art & Craft Club.md
-      - Clubs & Societies/Chess Club.md
-      - Clubs & Societies/Photography Club.md
-      - Clubs & Societies/Robotics Club.md
-      - Clubs & Societies/PAC MRL Club.md
-      - Sports/.keep
-      - Sports/Sports.md
-      - Sports/Basketball.md
-      - Sports/Football.md
-      - Sports/Netball.md
-      - Sports/Silat.md
-      - Sports/Wushu.md
-      - Sports/Floorball.md
-      - CCA.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Uniformed Groups.md
+      - Uniformed Groups/CUB Scouts.md
+      - Uniformed Groups/Brownies.md
