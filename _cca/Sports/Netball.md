@@ -36,4 +36,4 @@ Indoor Sports Hall (ISH)
 **North Zone** <br>
 Senior Division – 3rd Position
 
-![](/images/netball.jpg)
+<img style="width:65%" src="/images/netball.jpg">
