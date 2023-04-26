@@ -22,3 +22,13 @@ Mr Mohamed Faroek B Hamsani
 Field
 
 <center><i>One man can be talented but one man cannot be a team. If we don’t sacrifice for the team, the team will be sacrificed. When there is effort, attitude and desire….. nothing is impossible. <u>Lionel Messi</u></i></center>
+
+***
+
+### Achievements
+
+**National School Games Football Competition 2022**
+
+**North Zone** <br>
+Senior Division – 3rd&nbsp;Position <br>
+Junior Division - Tier 1 Champion
