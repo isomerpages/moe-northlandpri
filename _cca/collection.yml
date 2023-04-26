@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs & Societies/Photography Club.md
       - Clubs & Societies/Chess Club.md
       - Clubs & Societies/Art & Craft Club.md
       - Clubs & Societies/Clubs & Societies.md
