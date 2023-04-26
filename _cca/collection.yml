@@ -2,10 +2,10 @@ collections:
   cca:
     output: true
     order:
-      - Uniformed Groups/Brownies.md
-      - Uniformed Groups/CUB Scouts.md
-      - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/.keep
+      - Uniformed Groups/Uniformed Groups.md
+      - Uniformed Groups/CUB Scouts.md
+      - Uniformed Groups/Brownies.md
       - Performing Arts/.keep
       - Performing Arts/Performing Arts.md
       - Performing Arts/Chinese Cultural Dance.md
