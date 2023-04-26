@@ -2,7 +2,7 @@ collections:
   cce:
     output: true
     order:
-      - Care for Self and NPS Cares/Joy Jots.md
-      - Care for Self and NPS Cares/Care for Self and NPS Cares.md
       - Care for Self and NPS Cares/.keep
+      - Care for Self and NPS Cares/Care for Self and NPS Cares.md
+      - Care for Self and NPS Cares/Joy Jots.md
       - Character & Citizenship Education.md
