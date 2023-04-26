@@ -3,9 +3,5 @@ collections:
     output: true
     order:
       - CCA.md
-      - Uniformed Groups/.keep
-      - Uniformed Groups/Uniformed Groups.md
-      - Uniformed Groups/Cub Scouts.md
-      - Uniformed Groups/Brownies.md
       - Achievements.md
       - FAQs.md
