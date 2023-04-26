@@ -23,14 +23,14 @@ Click on the respective CCAs to find out more.
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-gdxe"><a href="https://northlandpri-moe-edu-sg.cwp-stg.sg/ccas/clubs-n-societies/art-n-craft-club"><span style="text-decoration:none;color:#2289E7">Art &amp; Craft Club</span></a></th>
-    <th class="tg-gdxe"><a href="https://northlandpri-moe-edu-sg.cwp-stg.sg/ccas/clubs-n-societies/chess-club"><span style="text-decoration:none;color:#2289E7">Chess Club</span></a></th>
+    <th class="tg-gdxe"><a href="/ccas/clubs-n-societies/art-n-craft-club"><span style="text-decoration:none;color:#2289E7">Art &amp; Craft Club</span></a></th>
+    <th class="tg-gdxe"><a href="/ccas/clubs-n-societies/chess-club"><span style="text-decoration:none;color:#2289E7">Chess Club</span></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-gdxe"><a href="https://northlandpri-moe-edu-sg.cwp-stg.sg/ccas/clubs-n-societies/infocomm-club-at-northland"><span style="text-decoration:none;color:#2289E7">Infocomm Club@Northland</span></a></td>
-    <td class="tg-gdxe"><a href="https://northlandpri-moe-edu-sg.cwp-stg.sg/ccas/clubs-n-societies/pac-mrl-club"><span style="text-decoration:none;color:#2289E7">PAC MRL Club</span></a></td>
+    <td class="tg-gdxe"><a href="/ccas/clubs-n-societies/infocomm-club-at-northland"><span style="text-decoration:none;color:#2289E7">Infocomm Club@Northland</span></a></td>
+    <td class="tg-gdxe"><a href="/ccas/clubs-n-societies/pac-mrl-club"><span style="text-decoration:none;color:#2289E7">PAC MRL Club</span></a></td>
   </tr>
 </tbody>
 </table>
