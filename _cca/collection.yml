@@ -3,14 +3,6 @@ collections:
     output: true
     order:
       - CCA.md
-      - Sports/.keep
-      - Sports/Sports.md
-      - Sports/Basketball.md
-      - Sports/Football.md
-      - Sports/Netball.md
-      - Sports/Silat.md
-      - Sports/Wushu.md
-      - Sports/Floorball.md
       - Clubs & Societies/.keep
       - Clubs & Societies/Clubs & Societies.md
       - Clubs & Societies/Art & Craft Club.md
