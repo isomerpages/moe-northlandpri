@@ -2,7 +2,6 @@ collections:
   uniquely-northland:
     output: true
     order:
-      - Thinking Programme (ALP).md
       - Sports and Outdoor Experiences in NPS.md
       - My Store, My Stage (LLP).md
       - Mother Tongue Cultural Experiences.md
