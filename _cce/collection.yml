@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Values Education.md
       - Student Leadership/Student Leadership.md
       - Student Leadership/BEACONS (Jude).md
       - Student Leadership/.keep
