@@ -2,6 +2,7 @@ collections:
   uniquely-northland:
     output: true
     order:
+      - Thinking Programme (ALP)/Makerspace.md
       - Thinking Programme (ALP)/Code for Fun.md
       - Thinking Programme (ALP)/Chess.md
       - Thinking Programme (ALP)/.keep
