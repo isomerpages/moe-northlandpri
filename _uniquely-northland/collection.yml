@@ -2,6 +2,7 @@ collections:
   uniquely-northland:
     output: true
     order:
+      - Values In Action/Changemakers.md
       - Values In Action/.keep
       - Thinking Programme (ALP)/.keep
       - Thinking Programme (ALP)/Chess.md
