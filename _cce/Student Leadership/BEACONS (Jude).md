@@ -4,3 +4,4 @@ permalink: /departments/character-n-citizenship-education/student-leadership/bea
 description: ""
 third_nav_title: Student Leadership
 ---
+![](/images/beacons%20website%20infographic.jpg)
