@@ -7,26 +7,22 @@ links:
     sublinks:
       - title: English
         url: /departments/english/
-      - title: Mother Tongue Languages
-        url: /departments/mother-tongue-languages/
       - title: Mathematics
         url: /departments/mathematics/
       - title: Science
         url: /departments/science/
+      - title: Mother Tongue Languages
+        url: /departments/mother-tongue-languages/chinese-language/
       - title: Character & Citizenship Edu
         url: /character-n-citizenship-edu/character/
       - title: Aesthetics
         url: /departments/aesthetics/
-      - title: PE / CCA
-        url: /departments/pe-cca/
+      - title: Physical Education
+        url: /departments/physical-education/
       - title: ICT
-        url: /departments/ict/
-      - title: Student Ldrship & Discipline
-        url: /student-ldrship-n-discipline/sld/
-      - title: Project Work
-        url: /departments/project-work/
-      - title: Operations & Security
-        url: /departments/operations-and-security/
+        url: /departments/infocomm-technology/
+      - title: Leadership & Discipline
+        url: /departments/student-leadership-n-discipline/
   - title: CCA
     collection: cca
   - title: PARTNERS
@@ -58,5 +54,7 @@ links:
         url: /staff/eas/
       - title: Support Staff
         url: /staff/ss/
-  - title: Quick Links
+  - title: UNIQUELY NORTHLAND
+    collection: uniquely-northland
+  - title: QUICK LINKS
     url: /quick-links
