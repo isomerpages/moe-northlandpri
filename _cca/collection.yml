@@ -2,12 +2,12 @@ collections:
   cca:
     output: true
     order:
-      - Sports/Floorball.md
-      - Sports/Wushu.md
-      - Sports/Silat.md
-      - Sports/Netball.md
-      - Sports/Football.md
-      - Sports/Basketball.md
-      - Sports/Sports.md
       - Sports/.keep
+      - Sports/Sports.md
+      - Sports/Basketball.md
+      - Sports/Football.md
+      - Sports/Netball.md
+      - Sports/Silat.md
+      - Sports/Wushu.md
+      - Sports/Floorball.md
       - CCA.md
