@@ -9,6 +9,9 @@ sections:
   - hero:
       background: /images/homepage.jpg
       key_highlights:
+        - title: Contact Us
+          description: ""
+          url: /contact-us/contact-us/
         - title: FACEBOOK PAGE
           description: ""
           url: https://www.facebook.com/people/Northland-Primary-School-Where-Exceptional-Learning-Occurs/100090592894337/
