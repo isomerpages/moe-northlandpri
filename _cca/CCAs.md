@@ -22,7 +22,7 @@ description: ""
   <tr>
     <td class="tg-0lax">
       <a href="/ccas/sports/">
-        <img height="153" width="272" src="/images/cca_sports.jpg">
+        <img src="/images/cca_sports.jpg">
       </a>
     </td>
     <td style="text-align: center;" class="tg-0lax">
@@ -37,7 +37,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/ccas/performing-arts/">
-<img height="153" width="272" src="/images/cca_performing%20art.jpg">
+<img src="/images/cca_performing%20art.jpg">
 </a></td>
     <td class="tg-0lax"><a href="/ccas/uniformed-groups/">
 <img style="max-width: 100%; height: auto;" src="/images/cca_uniformed%20grp.jpg">
