@@ -30,10 +30,19 @@ description: ""
         <img style="max-width: 100%; height: auto;" alt="Art Club" src="/images/cca_clubs_and_societies.jpg">
       </a>
     </td>
-      
-    
   </tr>
-</tbody></table>
+	  <tr>
+    <td style="width: 100%" class="tg-0lax"><center><h3>Performing Arts</h3></center></td>
+    <td style="width: 100%" class="tg-0lax"><center><h3>Uniformed Groups</h3></center></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><a href="/ccas/performing-arts/">
+<img height="153" width="272" alt="Indian Cultural Society" src="/images/cca_performing%20art.jpg">
+</a></td>
+    <td class="tg-0lax"><a href="/ccas/uniformed-groups/">
+<img style="max-width: 100%; height: auto;" alt="Interact Club" src="/images/cca_uniformed%20grp.jpg">
+</a></td>
+</tr></tbody></table>
 
 
 
