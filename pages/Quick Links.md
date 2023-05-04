@@ -69,7 +69,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-c1l1"></td>
-    <td class="tg-67d5"><a rel="noopener noreferrer" target="_blank" href="https://northlandpri.moe.edu.sg/partners/alumni"><span style="text-decoration:none;color:#2289E7">Alumni Contact</span></a></td>
+    <td class="tg-67d5"><a rel="noopener noreferrer" target="_blank" href="/partners/Alumni/alumni/"><span style="text-decoration:none;color:#2289E7">Alumni Contact</span></a></td>
     <td class="tg-67d5"><a rel="noopener noreferrer" target="_blank" href="https://idp.mims.moe.gov.sg/nidp/app/login"><span style="text-decoration:none;color:#2289E7">MIMS Portal</span></a></td>
   </tr>
   <tr>
