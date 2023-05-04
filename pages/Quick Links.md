@@ -12,6 +12,7 @@ description: ""
 .tg .tg-c1l1{background-color:#FFF;color:#1A202C;text-align:center;vertical-align:top}
 .tg .tg-edky{background-color:#FFF;color:#00487F;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-67d5{background-color:#FFF;color:#2289E7;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
@@ -69,38 +70,38 @@ description: ""
   </tr>
   <tr>
     <td class="tg-c1l1"></td>
-    <td class="tg-67d5"><a rel="noopener noreferrer" target="_blank" href="/partners/Alumni/alumni/"><span style="text-decoration:none;color:#2289E7">Alumni Contact</span></a></td>
-    <td class="tg-67d5"><a rel="noopener noreferrer" target="_blank" href="https://idp.mims.moe.gov.sg/nidp/app/login"><span style="text-decoration:none;color:#2289E7">MIMS Portal</span></a></td>
+    <td class="tg-67d5"><a href="/partners/Alumni/alumni/"><span style="text-decoration:none;color:#2289E7">Alumni Contact</span></a></td>
+    <td class="tg-67d5"><a href="https://idp.mims.moe.gov.sg/nidp/app/login"><span style="text-decoration:none;color:#2289E7">MIMS Portal</span></a></td>
   </tr>
   <tr>
     <td class="tg-c1l1"></td>
     <td class="tg-67d5"><a href="/partners/parent-support-champs/"><span style="text-decoration:none;color:#2289E7">P1 Phase 2B Registration</span></a></td>
-    <td class="tg-67d5"><a rel="noopener noreferrer" target="_blank" href="https://form.gov.sg/5e05a7c38967b800114c14d6"><span style="text-decoration:none;color:#2289E7">Request for School Bus Service</span></a></td>
+    <td class="tg-67d5"><a href="https://form.gov.sg/5e05a7c38967b800114c14d6"><span style="text-decoration:none;color:#2289E7">Request for School Bus Service</span></a></td>
   </tr>
   <tr>
     <td class="tg-c1l1"></td>
-    <td class="tg-c1l1"><span style="font-weight:400;color:#000">Useful Articles</span></td>
-    <td class="tg-67d5"><a rel="noopener noreferrer" target="_blank" href="http://n1729padmw00861.schools.moe.edu.sg/ras/"><span style="text-decoration:none;color:#2289E7">Digital Device Booking System (RAS)</span></a></td>
+    <td class="tg-c1l1"><a href="/partners/alumni/contact-us/"><span style="text-decoration:none;color:#2289E7">Contact Us</span></a></td>
+    <td class="tg-67d5"><a href="http://n1729padmw00861.schools.moe.edu.sg/ras/"><span style="text-decoration:none;color:#2289E7">Digital Device Booking System (RAS)</span></a></td>
   </tr>
   <tr>
     <td class="tg-c1l1"></td>
-    <td class="tg-c1l1"></td>
-    <td class="tg-67d5"><a rel="noopener noreferrer" target="_blank" href="https://schoolibrary.moe.edu.sg/northlandpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"><span style="text-decoration:none;color:#2289E7">OPAC (Library Resources)</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-c1l1"></td>
-    <td class="tg-c1l1"></td>
-    <td class="tg-67d5"><a rel="noopener noreferrer" target="_blank" href="https://sites.google.com/moe.edu.sg/ict-resources-nps/home/ict-tools"><span style="text-decoration:none;color:#2289E7">ICT Repository @ NPS</span></a></td>
+    <td class="tg-c1l1"><span style="font-weight:400;font-style:normal">Useful Articles</span></td>
+    <td class="tg-67d5"><a href="https://schoolibrary.moe.edu.sg/northlandpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"><span style="text-decoration:none;color:#2289E7">OPAC (Library Resources)</span></a></td>
   </tr>
   <tr>
     <td class="tg-c1l1"></td>
     <td class="tg-c1l1"></td>
-    <td class="tg-67d5"><a rel="noopener noreferrer" target="_blank" href="https://www.mesrc.net/"><span style="text-decoration:none;color:#2289E7">MESRC</span></a></td>
+    <td class="tg-67d5"><a href="https://sites.google.com/moe.edu.sg/ict-resources-nps/home/ict-tools"><span style="text-decoration:none;color:#2289E7">ICT Repository @ NPS</span></a></td>
   </tr>
   <tr>
     <td class="tg-c1l1"></td>
     <td class="tg-c1l1"></td>
-    <td class="tg-67d5"></td>
+    <td class="tg-67d5"><a href="https://www.mesrc.net/"><span style="text-decoration:none;color:#2289E7">MESRC</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-c1l1"></td>
+    <td class="tg-c1l1"></td>
+    <td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table>
