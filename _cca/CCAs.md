@@ -14,20 +14,20 @@ description: ""
 <table style="table-layout: fixed; width: 100%;" class="tg">
 <thead>
   <tr>
-    <td style="width: 33.33%" class="tg-0lax"><center><h3>Sports</h3></center></td>
-    <td style="width: 33.33%" class="tg-0lax"><center><h3>Clubs &amp; Societies</h3></center></td>
+    <td style="width: 100%" class="tg-0lax"><center><h3>Sports</h3></center></td>
+    <td style="width: 100%" class="tg-0lax"><center><h3>Clubs &amp; Societies</h3></center></td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-0lax">
       <a href="/ccas/sports/">
-        <img height="153" width="272" alt="ACPress" src="/images/cca_sports.jpg">
+        <img height="153" width="272" src="/images/cca_sports.jpg">
       </a>
     </td>
     <td style="text-align: center;" class="tg-0lax">
       <a href="/ccas/clubs-n-societies/">
-        <img style="max-width: 100%; height: auto;" alt="Art Club" src="/images/cca_clubs_and_societies.jpg">
+        <img style="max-width: 100%; height: auto;" src="/images/cca_clubs_and_societies.jpg">
       </a>
     </td>
   </tr>
@@ -37,16 +37,12 @@ description: ""
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/ccas/performing-arts/">
-<img height="153" width="272" alt="Indian Cultural Society" src="/images/cca_performing%20art.jpg">
+<img height="153" width="272" src="/images/cca_performing%20art.jpg">
 </a></td>
     <td class="tg-0lax"><a href="/ccas/uniformed-groups/">
-<img style="max-width: 100%; height: auto;" alt="Interact Club" src="/images/cca_uniformed%20grp.jpg">
+<img style="max-width: 100%; height: auto;" src="/images/cca_uniformed%20grp.jpg">
 </a></td>
 </tr></tbody></table>
-
-
-
-
 
 
 
