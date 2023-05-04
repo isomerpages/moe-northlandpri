@@ -2,7 +2,6 @@ collections:
   uniquely-northland:
     output: true
     order:
-      - Eco–literacy Programme.md
       - Experiential Learning/.keep
       - Experiential Learning/BlendIT!.md
       - Experiential Learning/Level Camps.md
