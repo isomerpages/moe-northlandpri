@@ -6,7 +6,6 @@ third_nav_title: Alumni
 ---
 ## SOCIAL MEDIA SITES
 
-**IMAGE NOT FOUND**
 
 Our [Northland Primary Alumni Association](https://www.facebook.com/officialNPAA) Facebook Page is where we post our official statuses and photo releases. If you came for our activities, your photo might be there!   
 
