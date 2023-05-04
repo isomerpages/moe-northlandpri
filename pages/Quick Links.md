@@ -74,7 +74,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-c1l1"></td>
-    <td class="tg-67d5"><a href="https://northlandpri-moe-edu-sg.cwp-stg.sg/partners/parent-support-champs/phase-2b"><span style="text-decoration:none;color:#2289E7">P1 Phase 2B Registration</span></a></td>
+    <td class="tg-67d5"><a href="/partners/parent-support-champs/"><span style="text-decoration:none;color:#2289E7">P1 Phase 2B Registration</span></a></td>
     <td class="tg-67d5"><a rel="noopener noreferrer" target="_blank" href="https://form.gov.sg/5e05a7c38967b800114c14d6"><span style="text-decoration:none;color:#2289E7">Request for School Bus Service</span></a></td>
   </tr>
   <tr>
