@@ -7,11 +7,13 @@ description: ""
 
 <b><u>GATE OPENING TIMES IN THE MORNING &amp; AFTERNOON DISMISSAL</u></b>
 
-EMERGENCY EVACUATION PLAN
+![](/images/gateopening.png)
+
+<b><u>EMERGENCY EVACUATION PLAN</u></b>
 
 In an emergency all present in school must quickly move to the Evacuation Assembly Area at the Soccer Field, or as directed.
 
-![](images/image3.png)
+![](/images/emergencyevacuation.png)
 
 School Security &amp; Safety Measures
 
@@ -43,8 +45,7 @@ ROAD SAFETY
 
 Please remind your children to observe all traffic rules and regulations. They must only cross at designated road crossing areas, and note the safe walking routes to school.
 
-![Diagram
-Description automatically generated](images/image2.png)
+![](/images/emergencyplan.png)
 
 ROAD SAFETY VIDEOS
 
