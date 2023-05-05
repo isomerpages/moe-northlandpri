@@ -177,22 +177,21 @@ All PSG members are to book in at the Security Post where they will be issued wi
 
 The safety of our student in school is the primary concern of all staff and teachers. The following measures are for implementation in school.
 
-1.  All visitors to the school, including parents and guardians, must first report to the
+1\.  All visitors to the school, including parents and guardians, must first report to the Security Post.
 
-Security Post.
+2\.  Teachers and Staff will be reminded to redirect all parents / guardians or visitors found at other locations, to the General Office.
 
-2.  Teachers and Staff will be reminded to redirect all parents / guardians or visitors found at other locations, to the General Office.
-3.  Students will not be allowed to leave or be taken out of the school premises (even if accompanied by parents / guardians) unless permission was granted by the Principal / Vice- Principal, or in their absence, the HOD.
-4.  The school will ask for the NRIC or other official documents for the purpose
+3\.  Students will not be allowed to leave or be taken out of the school premises (even if accompanied by parents / guardians) unless permission was granted by the Principal / Vice- Principal, or in their absence, the HOD.
+
+4\.  The school will ask for the NRIC or other official documents for the purpose
 
 of recording the particulars including the NRIC number(s) of the person(s) taking the student out of the school premises.
 
-5.  The Class Chairperson will be briefed to report to the office or any teacher if
+5\.  The Class Chairperson will be briefed to report to the office or any teacher if there are any visitors or strangers in the class.
 
-there are any visitors or strangers in the class.
+6\.  Students will be reminded to be wary of strangers during assemblies and school activities.
 
-6.  Students will be reminded to be wary of strangers during assemblies and school activities.
-7.  Students, teachers, staff and canteen vendors will be briefed to report strangers to the General Office immediately.
+7\.  Students, teachers, staff and canteen vendors will be briefed to report strangers to the General Office immediately.
 
 17.&nbsp;How many hours of work can a Security Officer perform per day?
 
