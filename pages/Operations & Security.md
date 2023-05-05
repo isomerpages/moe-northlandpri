@@ -41,13 +41,13 @@ School Security &amp; Safety Measures
 
 12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These above measures are taken to address the well-being, safety, and security of NPS students and staff. Support and cooperation from parents are deeply appreciated. For clarifications, please call the General Office or feedback to&nbsp;[https://forms.cwp.gov.sg/northlandpri/FormRERN8](https://www.google.com/url?q=https://forms.cwp.gov.sg/northlandpri/FormRERN8&amp;sa=D&amp;source=editors&amp;ust=1683235311999555&amp;usg=AOvVaw0DsDlu9m_U5A_NWhDUdc8r).
 
-ROAD SAFETY
+<b><u>ROAD SAFETY</u></b>
 
 Please remind your children to observe all traffic rules and regulations. They must only cross at designated road crossing areas, and note the safe walking routes to school.
 
 ![](/images/emergencyplan.png)
 
-ROAD SAFETY VIDEOS
+<b><u>ROAD SAFETY VIDEOS</u></b>
 
 These videos which were produced by LTA will share road safety advisories such as the importance of;
 
@@ -71,7 +71,7 @@ These videos which were produced by LTA will share road safety advisories such a
 
 [https://www.dropbox.com/sh/uabdfgecnuey96s/AAAtIoBoNjlKPggpAcZOrytga/SRSM%202022%20Road%20Safety%20Video%20-%20Obeying%20Traffic%20Marshals.mp4?dl=0](https://www.google.com/url?q=https://www.dropbox.com/sh/uabdfgecnuey96s/AAAtIoBoNjlKPggpAcZOrytga/SRSM%25202022%2520Road%2520Safety%2520Video%2520-%2520Obeying%2520Traffic%2520Marshals.mp4?dl%3D0&amp;sa=D&amp;source=editors&amp;ust=1683235312003954&amp;usg=AOvVaw35Jf5_dBnHrG5no_pR9zf9)
 
-SAFETY AT ROAD CROSSING -&nbsp;WALKING
+<b><u>SAFETY AT ROAD CROSSING -&nbsp;WALKING</u></b>
 
 1.  All students are to adhere to the kerb-drill. They are required to STOP, &nbsp; &nbsp;
 
@@ -139,15 +139,15 @@ The Security Officers will monitor and advise the driver to park at the proper c
 
 11\. How would the school deal with parents / visitors who hang around the school premises after their business?
 
-1.  Teachers and students will alert the School Security Officers or the Operations
+1\.  Teachers and students will alert the School Security Officers or the Operations
 
 Manager if parents or visitors are seen hanging around the school.
 
-2.  The Security Officers will check with the parent / visitor the purpose of being at
+2\.  The Security Officers will check with the parent / visitor the purpose of being at
 
 that location. If they are unable to give a good reason, they would be escorted out of the school premises.
 
-3.  The Security Officers as part of their daily patrol will also look out for parents,
+3\.  The Security Officers as part of their daily patrol will also look out for parents,
 
 visitors or strangers hanging around the school and escort them out. In addition, strangers without Security Pass will be referred to the Police for further &nbsp;
 
