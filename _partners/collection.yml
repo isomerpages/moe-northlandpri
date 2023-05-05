@@ -2,7 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Community.md
       - Partners.md
       - Alumni/.keep
       - Alumni/Alumni.md
@@ -18,5 +17,6 @@ collections:
       - Parent Support/Phase 2B.md
       - Parent Support/Dads For Life.md
       - Community/.keep
+      - Community.md
       - Education/.keep
       - Education/Naval Base Secondary School.md
