@@ -167,9 +167,7 @@ They are empowered to carry out checks for illegal items and explosive material 
 
 Parents would not be allowed to enter school to purchase food from the school canteen. Canteen food is meant for staff and students only. The canteen vendors have been briefed not to sell food to parents or visitors.
 
-15\. Since I am a Parent Support Group (PSG) Member would I have to book in at
-
-the Security Post
+15\. Since I am a Parent Support Group (PSG) Member would I have to book in at the Security Post
 
 All PSG members are to book in at the Security Post where they will be issued with a PV Pass. You are to display your PV Pass prominently at all times. You would only be allowed entry if you are on duty or have official business in school. If you are not on duty, you will be treated as any other parent.
 
