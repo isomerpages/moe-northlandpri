@@ -85,7 +85,7 @@ LOOK RIGHT, LOOK LEFT &amp; LOOK RIGHT again before crossing any road.
 
 5.  Students are to obey traffic instructions given by the Staff, Security Officers, School Crossing Wardens, and Police.
 
-FREQUENTLY ASKED QUESTIONS ON SCHOOL SECURITY
+<b><u>FREQUENTLY ASKED QUESTIONS ON SCHOOL SECURITY</u></b>
 
 1\. Why is there a need for School Security?
 
@@ -157,19 +157,19 @@ other goods of staff, pupils, parents, and visitors prior to entry or leaving th
 
 One aspect of the Security Officers job is to prevent the smuggling in of illegal goods and explosive materials. In this respect they are empowered to conduct checks for such items and to check and ensure that no school items are taken away by staff, students, parents, or visitors.
 
-13\. Are the school Security Officers empowered to carry out checks on vehicles entering and leaving the school?
+13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Are the school Security Officers empowered to carry out checks on vehicles entering and leaving the school?
 
 They are empowered to carry out checks for illegal items and explosive material on vehicles entering or leaving the school. They are also to check and ensure that personnel taking out any school property are authorized to do so. The details of such personnel will be recorded in the Security Officers’ Occurrence Book.
 
-14.&nbsp;As a parent am I allowed to enter the school to purchase food from the &nbsp; &nbsp; &nbsp; &nbsp; canteen?
+14. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As a parent am I allowed to enter the school to purchase food from the &nbsp; &nbsp; &nbsp; &nbsp; canteen?
 
 Parents would not be allowed to enter school to purchase food from the school canteen. Canteen food is meant for staff and students only. The canteen vendors have been briefed not to sell food to parents or visitors.
 
-15\. Since I am a Parent Support Group (PSG) Member would I have to book in at the Security Post
+15. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Since I am a Parent Support Group (PSG) Member would I have to book in at the Security Post
 
 All PSG members are to book in at the Security Post where they will be issued with a PV Pass. You are to display your PV Pass prominently at all times. You would only be allowed entry if you are on duty or have official business in school. If you are not on duty, you will be treated as any other parent.
 
-16\. What are the other Security issues that the school must ensure?
+16. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What are the other Security issues that the school must ensure?
 
 The safety of our student in school is the primary concern of all staff and teachers. The following measures are for implementation in school.
 
@@ -189,6 +189,6 @@ of recording the particulars including the NRIC number(s) of the person(s) takin
 
 7\.  Students, teachers, staff and canteen vendors will be briefed to report strangers to the General Office immediately.
 
-17.&nbsp;How many hours of work can a Security Officer perform per day?
+17. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How many hours of work can a Security Officer perform per day?
 
 A Security Officer is only allowed to work a total of 12 hours a day. Security Officers are allowed to work beyond 12 hours and up to a maximum of 14 hours per day if the Security Company notify MOM and receive confirmation in writing from MOM.
