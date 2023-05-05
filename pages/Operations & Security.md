@@ -147,9 +147,7 @@ Manager if parents or visitors are seen hanging around the school.
 
 that location. If they are unable to give a good reason, they would be escorted out of the school premises.
 
-3\.  The Security Officers as part of their daily patrol will also look out for parents,
-
-visitors or strangers hanging around the school and escort them out. In addition, strangers without Security Pass will be referred to the Police for further &nbsp;
+3\.  The Security Officers as part of their daily patrol will also look out for parents, visitors or strangers hanging around the school and escort them out. In addition, strangers without Security Pass will be referred to the Police for further &nbsp;
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;investigation.
 
