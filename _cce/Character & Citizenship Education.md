@@ -11,4 +11,4 @@ description: ""
 
 ![](/images/cce-4%20.png)
 
-![](/images/cce-5%20.png)
+![](/images/cce-5_5_may_2023.jpeg)
