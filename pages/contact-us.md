@@ -14,13 +14,6 @@ locations:
         description: Closed on School and Public Holidays
     maps_link: https://goo.gl/maps/5woAeiHywPS6ZkVp7?coh=178573&entry=tt
     title: Northland Primary School
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
 contacts:
   - content:
       - phone: +65 6759 8884
