@@ -1,0 +1,9 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Vision, Mission, Core Values.md
+      - Crest, Motto, Flag And Song.md
+      - School Hours & Recesses.md
+      - Operations & Security.md

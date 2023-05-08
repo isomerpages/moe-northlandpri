@@ -1,15 +1,58 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: ABOUT US
+    collection: about-us
+  - title: DEPARTMENTS
+    url: /departments/english/
+    sublinks:
+      - title: English
+        url: /departments/english/
+      - title: Mathematics
+        url: /departments/mathematics/
+      - title: Science
+        url: /departments/science/
+      - title: Mother Tongue Languages
+        url: /departments/mother-tongue-languages/chinese-language/
+      - title: Character & Citizenship Edu
+        url: /departments/character-n-citizenship-education
+      - title: Aesthetics
+        url: /departments/aesthetics/
+      - title: Physical Education
+        url: /departments/physical-education/
+      - title: ICT
+        url: /departments/infocomm-technology/
+      - title: Leadership & Discipline
+        url: /departments/student-leadership-n-discipline/
+  - title: CCA
+    collection: cca
+  - title: PARTNERS
+    collection: partners
+  - title: STAFF
+    url: /staff/sch-ldrship-2023/
+    sublinks:
+      - title: School Leadership Team 2023
+        url: /staff/sch-ldrship-2023/
+      - title: Primary 1 2023
+        url: /staff/p1-2023/
+      - title: Primary 2 2023
+        url: /staff/p2-2023/
+      - title: Primary 3 2023
+        url: /staff/p3-2023/
+      - title: Primary 4 2023
+        url: /staff/p4-2023/
+      - title: Primary 5 2023
+        url: /staff/p5-2023/
+      - title: Primary 6 2023
+        url: /staff/p6-2023/
+      - title: Mother Tongue
+        url: /staff/Mother-Tongue/chinese/
+      - title: Other Teaching Staff
+        url: /staff/ots/
+      - title: Allied Educators
+        url: /staff/alled-edu/
+      - title: Executive Admin Support
+        url: /staff/eas/
+      - title: Support Staff
+        url: /staff/ss/
+  - title: Quick Links
+    url: /quick-links

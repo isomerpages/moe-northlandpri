@@ -1,0 +1,6 @@
+collections:
+  happenings:
+    output: true
+    order:
+      - Special Events.md
+      - Newsletter.md
