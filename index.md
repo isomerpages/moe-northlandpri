@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner2.gif
+      background: /images/bannerv2.jpeg
       key_highlights:
         - title: Contact Us
           description: ""
