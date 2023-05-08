@@ -20,14 +20,9 @@ All students are to bring a storybook for silent reading.&nbsp; English storyboo
 
 #### Daily Recess
 
-**During Covid Safety Measures Management (SMM)**
-
 | Level  | Time  |
 |:-:|---|
-| Primary 1  | 8.45 a.m. to 9.15 a.m.  |
-| Primary 2  | 9.15 a.m. to 9.45 a.m.  |
-| Primary 6  | 9.45 a.m. to 10.15 a.m.  |
-| Primary 3  | 10.15 a.m. to 10.45 a.m.  |
-| Primary 5  | 10.45 a.m. to 11.15 a.m.  |
-| Primary 4  | 11.15 a.m. to 11.45 a.m.  |
-|   |   |
+| Primary 1  | 9.15 a.m. to 9.45 a.m.  |
+| Primary 2  | 9.45 a.m. to 10.15 a.m.  |
+| Primary 3 &amp; 4  | 10.15 a.m. to 10.45 a.m.  |
+| Primary 5 &amp; 6  | 10.45 a.m. to 11.15 a.m.  |
