@@ -12,9 +12,6 @@ locations:
       - days: Mon - Fri
         time: 7.00a.m. - 6.00 p.m.
         description: Closed on School and Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
     maps_link: https://goo.gl/maps/5woAeiHywPS6ZkVp7?coh=178573&entry=tt
     title: Northland Primary School
   - address:
