@@ -18,11 +18,5 @@ All students are to bring a storybook for silent reading.&nbsp; English storyboo
 | Thursdays  | 2.15 p.m. to 4.15 p.m.  | Co-curricular Activities \[CCA\], except for some, to be advised by CCA teachers  |
 |   |   |   |
 
-#### Daily Recess
-
-| Level  | Time  |
-|:-:|---|
-| Primary 1  | 9.15 a.m. to 9.45 a.m.  |
-| Primary 2  | 9.45 a.m. to 10.15 a.m.  |
-| Primary 3 &amp; 4  | 10.15 a.m. to 10.45 a.m.  |
-| Primary 5 &amp; 6  | 10.45 a.m. to 11.15 a.m.  |
+# Daily Recess
+![](/images/recess.JPG)
