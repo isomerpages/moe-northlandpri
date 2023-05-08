@@ -3,8 +3,6 @@ title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
 ---
-### Video on 26 Jan
-
 Welcome to Northland Primary School where we strongly believe in helping each and every child to flourish through developing their positive self, develop positive relationships and thrive in positive experiences that we provide for.
 
 The eminent philosopher, John Dewey, once said, “Education is not preparation of life, Education is life itself.” He was convinced that learning through doing was the best approach to education and that it is an active and continual constructive process.
