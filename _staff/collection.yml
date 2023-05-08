@@ -2,7 +2,6 @@ collections:
   staff:
     output: true
     order:
-      - SCHOOL LEADERSHIP TEAM 2023.md
       - P1 to P6 Teachers.md
       - Mother Tongue/.keep
       - Mother Tongue/Chinese.md
