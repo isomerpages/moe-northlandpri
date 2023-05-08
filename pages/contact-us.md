@@ -5,18 +5,18 @@ permalink: /contact-us/
 agency_name: Northland Primary School
 locations:
   - address:
-      - 31 Sesame Street
-      - Big Bird Building
-      - Singapore 123456
+      - 15 Yishun Ave 4
+      - Singapore 769026
+      - ""
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
+        time: 7.00a.m. - 6.00 p.m.
+        description: Closed on School and Public Holidays
       - days: Sat
         time: 8.30am - 12.00pm
         description: ""
-    maps_link: ""
-    title: Main Office
+    maps_link: https://goo.gl/maps/5woAeiHywPS6ZkVp7?coh=178573&entry=tt
+    title: Northland Primary School
   - address:
       - 109 North Bridge Road
       - Singapore 179097
