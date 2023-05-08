@@ -27,9 +27,4 @@ contacts:
       - email: northland_ps@moe.edu.sg
       - other: ""
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
 ---
