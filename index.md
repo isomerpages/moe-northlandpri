@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: NorthLand Primary
+title: Northland Primary School
 description: An Isomer site of the Singapore Government
 image: /images/logo.jpg
 permalink: /
