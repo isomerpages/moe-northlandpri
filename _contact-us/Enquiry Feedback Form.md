@@ -3,9 +3,8 @@ title: Enquiry Feedback Form
 permalink: /contact-us/eff/
 description: ""
 ---
-## ENQUIRY/FEEDBACK FORM
-
-Please click **[here](http://forms.cwp.sg/northlandpri/FormRERN8)** to send us your enquiry/feedback.
+# ENQUIRY /FEEDBACK FORM
+Please click [here](northland_ps@moe.edu.sg) to send us your enquiry or feedback.
 
 #### Wait List Application
 
