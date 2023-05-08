@@ -3,7 +3,7 @@ title: School Leadership Team
 permalink: /about-us/school-leadership-team/
 description: ""
 ---
-## SCHOOL LEADERSHIP TEAM 2023
+## School Leadership Team
 
 |   |   |
 |:-:|---|
