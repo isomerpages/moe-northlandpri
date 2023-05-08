@@ -51,25 +51,16 @@ Please remind your children to observe all traffic rules and regulations. They m
 
 These videos which were produced by LTA will share road safety advisories such as the importance of;
 
-1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Distracted Crossing
 
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Do Not Jaywalk &amp; Use Designated Crossing
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Distracted Crossing](https://www.google.com/url?q=https://www.dropbox.com/sh/uabdfgecnuey96s/AAAUBed9xn-Xc8LiOI978vHWa/SRSM%25202022%2520Road%2520Safety%2520Video%2520-%2520Distracted%2520Crossing.mp4?dl%3D0&amp;sa=D&amp;source=editors&amp;ust=1683235312001474&amp;usg=AOvVaw2jUNaL8ftqpJutvXMsFsUZ)
 
-3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dropping Off &amp; Picking Up at Designated Points
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Do Not Jaywalk &amp; Use Designated Crossing](https://www.google.com/url?q=https://www.dropbox.com/sh/uabdfgecnuey96s/AABlwxfpDhLUYd9cYRPCywZ9a/SRSM%25202022%2520Road%2520Safety%2520Video%2520-%2520Do%2520Not%2520Jaywalk%2520%2526%2520Use%2520Designated%2520Crossing.mp4?dl%3D0&amp;sa=D&amp;source=editors&amp;ust=1683235312002143&amp;usg=AOvVaw1VIwcGXLDO6ipDt8_okPl3)
 
-4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Keeping Within Speed Limit in School Zone, and &nbsp;
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Dropping Off &amp; Picking Up at Designated Points](https://www.google.com/url?q=https://www.dropbox.com/sh/uabdfgecnuey96s/AABKR7xFrqIMAV9zTnjQIkURa/SRSM%25202022%2520Road%2520Safety%2520Video%2520-%2520Dropping%2520Off%2520%2526%2520Picking%2520Up%2520At%2520Designated%2520Points.mp4?dl%3D0&amp;sa=D&amp;source=editors&amp;ust=1683235312002675&amp;usg=AOvVaw2lBM6kE5-kSuKiVilcn-YJ)
 
-5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Obeying Traffic Marshals.
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Keeping Within Speed Limit in School Zone, and](https://www.google.com/url?q=https://www.dropbox.com/sh/uabdfgecnuey96s/AAC_L9ykAEMVPbYFQJYm6Roka/SRSM%25202022%2520Road%2520Safety%2520Video%2520-%2520Keeping%2520Within%2520Speed%2520Limit%2520In%2520School%2520Zone.mp4?dl%3D0&amp;sa=D&amp;source=editors&amp;ust=1683235312003272&amp;usg=AOvVaw3e1fE8Fj0ktqCTldV6YDVo)
 
-[https://www.dropbox.com/sh/uabdfgecnuey96s/AAAUBed9xn-Xc8LiOI978vHWa/SRSM%202022%20Road%20Safety%20Video%20-%20Distracted%20Crossing.mp4?dl=0](https://www.google.com/url?q=https://www.dropbox.com/sh/uabdfgecnuey96s/AAAUBed9xn-Xc8LiOI978vHWa/SRSM%25202022%2520Road%2520Safety%2520Video%2520-%2520Distracted%2520Crossing.mp4?dl%3D0&amp;sa=D&amp;source=editors&amp;ust=1683235312001474&amp;usg=AOvVaw2jUNaL8ftqpJutvXMsFsUZ)
-
-[https://www.dropbox.com/sh/uabdfgecnuey96s/AABlwxfpDhLUYd9cYRPCywZ9a/SRSM%202022%20Road%20Safety%20Video%20-%20Do%20Not%20Jaywalk%20%26%20Use%20Designated%20Crossing.mp4?dl=0](https://www.google.com/url?q=https://www.dropbox.com/sh/uabdfgecnuey96s/AABlwxfpDhLUYd9cYRPCywZ9a/SRSM%25202022%2520Road%2520Safety%2520Video%2520-%2520Do%2520Not%2520Jaywalk%2520%2526%2520Use%2520Designated%2520Crossing.mp4?dl%3D0&amp;sa=D&amp;source=editors&amp;ust=1683235312002143&amp;usg=AOvVaw1VIwcGXLDO6ipDt8_okPl3)
-
-[https://www.dropbox.com/sh/uabdfgecnuey96s/AABKR7xFrqIMAV9zTnjQIkURa/SRSM%202022%20Road%20Safety%20Video%20-%20Dropping%20Off%20%26%20Picking%20Up%20At%20Designated%20Points.mp4?dl=0](https://www.google.com/url?q=https://www.dropbox.com/sh/uabdfgecnuey96s/AABKR7xFrqIMAV9zTnjQIkURa/SRSM%25202022%2520Road%2520Safety%2520Video%2520-%2520Dropping%2520Off%2520%2526%2520Picking%2520Up%2520At%2520Designated%2520Points.mp4?dl%3D0&amp;sa=D&amp;source=editors&amp;ust=1683235312002675&amp;usg=AOvVaw2lBM6kE5-kSuKiVilcn-YJ)
-
-[https://www.dropbox.com/sh/uabdfgecnuey96s/AAC\_L9ykAEMVPbYFQJYm6Roka/SRSM%202022%20Road%20Safety%20Video%20-%20Keeping%20Within%20Speed%20Limit%20In%20School%20Zone.mp4?dl=0](https://www.google.com/url?q=https://www.dropbox.com/sh/uabdfgecnuey96s/AAC_L9ykAEMVPbYFQJYm6Roka/SRSM%25202022%2520Road%2520Safety%2520Video%2520-%2520Keeping%2520Within%2520Speed%2520Limit%2520In%2520School%2520Zone.mp4?dl%3D0&amp;sa=D&amp;source=editors&amp;ust=1683235312003272&amp;usg=AOvVaw3e1fE8Fj0ktqCTldV6YDVo)
-
-[https://www.dropbox.com/sh/uabdfgecnuey96s/AAAtIoBoNjlKPggpAcZOrytga/SRSM%202022%20Road%20Safety%20Video%20-%20Obeying%20Traffic%20Marshals.mp4?dl=0](https://www.google.com/url?q=https://www.dropbox.com/sh/uabdfgecnuey96s/AAAtIoBoNjlKPggpAcZOrytga/SRSM%25202022%2520Road%2520Safety%2520Video%2520-%2520Obeying%2520Traffic%2520Marshals.mp4?dl%3D0&amp;sa=D&amp;source=editors&amp;ust=1683235312003954&amp;usg=AOvVaw35Jf5_dBnHrG5no_pR9zf9)
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Obeying Traffic Marshals](https://www.google.com/url?q=https://www.dropbox.com/sh/uabdfgecnuey96s/AAAtIoBoNjlKPggpAcZOrytga/SRSM%25202022%2520Road%2520Safety%2520Video%2520-%2520Obeying%2520Traffic%2520Marshals.mp4?dl%3D0&amp;sa=D&amp;source=editors&amp;ust=1683235312003954&amp;usg=AOvVaw35Jf5_dBnHrG5no_pR9zf9)
 
 <b><u>SAFETY AT ROAD CROSSING -&nbsp;WALKING</u></b>
 
