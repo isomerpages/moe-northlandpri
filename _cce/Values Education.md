@@ -3,6 +3,6 @@ title: Values Education
 permalink: /departments/character-n-citizenship-education/values-education/
 description: ""
 ---
-![](/images/values%20education%201.jpg)
+![](/images/vie_5_may_2023.png)
 
-![](/images/values%20education%202.jpg)
+![](/images/vie_2_5_may_2023.png)
