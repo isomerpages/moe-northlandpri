@@ -17,7 +17,7 @@ sections:
           url: /calendar/
         - title: Quick Links
           description: ""
-          url: https://www.instagram.com/northlandprimary/?hl=en
+          url: /quick-links/
   - infopic:
       title: Infopic Title
       subtitle: School Highlights
