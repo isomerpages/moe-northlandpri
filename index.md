@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/northlandbanner.gif
+      background: /images/banner3pics.gif
       key_highlights:
         - title: Contact Us
           description: ""
