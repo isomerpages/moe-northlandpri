@@ -2,8 +2,8 @@ title: Northland Primary School
 url: https://northlandpri.moe.edu.sg
 favicon: /images/logo.jpg
 colors:
-  primary-color: "#17b5f2"
-  secondary-color: "#f8e71c"
+  primary-color: "#f8e71c"
+  secondary-color: "#17b5f2"
   media-colors:
     - title: media-color-one
       color: "#17b5f2"
