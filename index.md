@@ -18,4 +18,10 @@ sections:
         - title: INSTAGRAM PAGE
           description: ""
           url: https://www.instagram.com/northlandprimary/?hl=en
+  - infopic:
+      title: Infopic Title
+      subtitle: School Highlights
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
