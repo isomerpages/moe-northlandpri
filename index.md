@@ -9,13 +9,13 @@ sections:
   - hero:
       background: /images/statichq.jpg
       key_highlights:
-        - title: Contact Us
+        - title: Announcements
           description: ""
-          url: /contact-us/contact-us/
-        - title: FACEBOOK PAGE
+          url: /Announcements/
+        - title: Calendar
           description: ""
-          url: https://www.facebook.com/people/Northland-Primary-School-Where-Exceptional-Learning-Occurs/100090592894337/
-        - title: INSTAGRAM PAGE
+          url: /calendar/
+        - title: Quick Links
           description: ""
           url: https://www.instagram.com/northlandprimary/?hl=en
   - infopic:
