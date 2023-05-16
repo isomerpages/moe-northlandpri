@@ -27,30 +27,7 @@ links:
     collection: cca
   - title: PARTNERS
     collection: partners
-  - title: STAFF
-    url: /staff/p1-2023/
-    sublinks:
-      - title: Primary 1 2023
-        url: /staff/p1-2023/
-      - title: Primary 2 2023
-        url: /staff/p2-2023/
-      - title: Primary 3 2023
-        url: /staff/p3-2023/
-      - title: Primary 4 2023
-        url: /staff/p4-2023/
-      - title: Primary 5 2023
-        url: /staff/p5-2023/
-      - title: Primary 6 2023
-        url: /staff/p6-2023/
-      - title: Mother Tongue
-        url: /staff/Mother-Tongue/chinese/
-      - title: Other Teaching Staff
-        url: /staff/ots/
-      - title: Allied Educators
-        url: /staff/alled-edu/
-      - title: Executive Admin Support
-        url: /staff/eas/
-      - title: Support Staff
-        url: /staff/ss/
+  - title: Staff
+    collection: staff
   - title: Quick Links
     url: /quick-links
