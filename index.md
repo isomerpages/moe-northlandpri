@@ -14,10 +14,7 @@ sections:
           url: /Announcements/
         - title: Calendar
           description: ""
-          url: '<iframe
-            src="https://calendar.google.com/calendar/embed?src=parent.calendar%40nps.edu.sg&ctz=Asia%2FSingapore"
-            style="border: 0" width="800" height="600" frameborder="0"
-            scrolling="no"></iframe>'
+          url: https://calendar.google.com/calendar/embed?src=parent.calendar%40nps.edu.sg&ctz=Asia%2FSingapore
         - title: Quick Links
           description: ""
           url: /quick-links/
