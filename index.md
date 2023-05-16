@@ -18,9 +18,4 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
 ---
