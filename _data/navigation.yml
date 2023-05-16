@@ -31,3 +31,5 @@ links:
     collection: staff
   - title: Quick Links
     url: /quick-links
+  - title: Uniquely Northland
+    resource_room: true
