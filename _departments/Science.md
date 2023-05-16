@@ -9,8 +9,6 @@ description: ""
 
 ![](/images/infographic%203_5%20may%20new.png)
 
-![](/images/science_3.png)
-
 ![](/images/science_4.png)
 
 ![](/images/science_5.png)
