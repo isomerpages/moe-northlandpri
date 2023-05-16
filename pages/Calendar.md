@@ -13,4 +13,3 @@ description: ""
 
 **parent.calendar@nps.edu.sg**
 
-**REQUIRE JACKSON INPUT CALENDAR**
