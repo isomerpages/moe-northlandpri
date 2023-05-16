@@ -14,7 +14,7 @@ sections:
           url: /Announcements/
         - title: Calendar
           description: ""
-          url: ""
+          url: https://calendar.google.com/calendar/embed?src=parent.calendar%40nps.edu.sg&ctz=Asia%2FSingapore
         - title: Quick Links
           description: ""
           url: /quick-links/
