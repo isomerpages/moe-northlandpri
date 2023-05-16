@@ -18,7 +18,17 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
   - resources:
-      subtitle: Aesthetics Month HighLights
-      button: Aesthetics
+      subtitle: Aesthetics Month Highlights
 ---
