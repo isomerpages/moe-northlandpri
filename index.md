@@ -18,10 +18,4 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/
-  - infopic:
-      title: Infopic Title
-      subtitle: School Highlights
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
