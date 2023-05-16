@@ -29,6 +29,4 @@ sections:
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
-  - resources:
-      subtitle: Aesthetics Month Highlights
 ---
