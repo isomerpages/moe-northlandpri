@@ -18,4 +18,7 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/
+  - resources:
+      subtitle: Aesthetics Month HighLights
+      button: Aesthetics
 ---
