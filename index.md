@@ -15,7 +15,7 @@ sections:
         - title: Calendar
           description: ""
           url: https://calendar.google.com/calendar/embed?src=parent.calendar%40nps.edu.sg&ctz=Asia%2FSingapore
-        - title: Quick Links
+        - title: School Highlights
           description: ""
-          url: /quick-links/
+          url: /school-highlights/permalink/
 ---
