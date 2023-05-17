@@ -324,8 +324,8 @@ Mrs Siti Ardah Hazry <br>
   </tr>
   <tr>
     <td class="tg-7yig">5G</td>
-    <td class="tg-f4yw">Mr Alvin Liu Weixiong</td>
-    <td class="tg-lb67"><a href="mailto:liu_weixiong_alvin@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">liu_weixiong_alvin@schools.gov.sg </span></a></td>
+    <td class="tg-f4yw">Mrs Hazry</td>
+    <td class="tg-lb67"><a href="mailto:siti_ardah_iskandar@schools.gov.sg"><span style="text-decoration:none;color:#2289E7">siti_ardah_iskandar@schools.gov.sg </span></a></td>
   </tr>
 </tbody>
 </table>
