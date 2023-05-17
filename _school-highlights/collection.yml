@@ -1,0 +1,6 @@
+collections:
+  school-highlights:
+    output: true
+    order:
+      - 35th Anniversary.md
+      - Project Work.md
