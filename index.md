@@ -20,5 +20,5 @@ sections:
           url: /school-highlights/permalink/
   - resources:
       title: Announcements
-      button: Resources Button Name
+      button: Click HERE to read more
 ---
