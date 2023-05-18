@@ -18,4 +18,7 @@ sections:
         - title: School Highlights
           description: ""
           url: /school-highlights/permalink/
+  - resources:
+      title: Announcements
+      button: Resources Button Name
 ---
