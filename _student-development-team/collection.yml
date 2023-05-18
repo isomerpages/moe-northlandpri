@@ -1,5 +1,5 @@
 collections:
-  student-ldrship-n-discipline:
+  student-development-team:
     output: true
     order:
       - Student Development Team.md
