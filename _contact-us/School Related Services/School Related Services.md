@@ -10,7 +10,7 @@ third_nav_title: School Related Services
 
 **NASCANS**<br>
 Tel: 8686 0460<br>
-Email: [nlscc@nascans.com](mailto:nlscc@nascans.com)<br>
+Email:&nbsp;[nlscc@nascans.com](mailto:nlscc@nascans.com)<br>
 **[Information for year 2023](/files/Nascans.pdf)**<br>
 [Enquiry Form](https://v2.taidii.com/enquiry/publicec/nascans/?center=36oYBncS9pVYK9idoOp2umOvGk6JbddtvONzkCDTM9U=)
 
@@ -23,7 +23,7 @@ Please call for an appointment
 
 **Popular Book Co Pte Ltd**<br>
 Bookshop No. 6257-1984<br>
-Fax No.  6257-1295<br>
+Fax No.&nbsp; 6257-1295<br>
 Email add : [nlp@popularworld.com](mailto:nlp@popularworld.com)<br>
 [Website](https://textbook.popular.com.sg/)
 
@@ -38,12 +38,18 @@ Business Hour: 11.30am – 8.00pm (Daily)<br>
 [Uniform](https://www.euniforms.com.sg/shop/product-category/primary-schools/nlps/)
 
 #### School Bus Service
+Sky Transport Services Pte Ltd
 
-**ComfortDelGro Bus Pte Ltd**<br>
-Tel: 6553 3838 / 64169673<br>
-Fax: 64560922<br>
-Email: [school@comfortdelgrobus.com.sg](mailto:school@comfortdelgrobus.com.sg)<br>
-[Form](https://forms.office.com/r/HL24vvt4QT)
+Blk 456 Ang Mo Kio Avenue 10 #01-1568
+Teck Ghee Grandeur
+Singapore 560456
+
+Tel : 6721 9581/ 6721 9582
+
+Contact person : Ms Chan Poh Lin
+
+Email address : skyoperation15@gmail.com
+
 
 #### Others
 
