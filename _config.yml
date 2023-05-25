@@ -6,7 +6,7 @@ colors:
   secondary-color: "#17b5f2"
   media-colors:
     - title: media-color-one
-      color: "#4a4a4a"
+      color: "#f8e71c"
     - title: media-color-two
       color: "#4a4a4a"
     - title: media-color-three
@@ -57,4 +57,4 @@ facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 google_analytics_ga4: ""
-resources_name: announcements
+resources_name: resources

@@ -1,14 +1,11 @@
 ---
-title: Announcements
-permalink: /announcements/permalink/
+title: Upcoming Online Parent Teacher Meeting
+permalink: /resources/announcements/permalink/
+date: 2023-05-19
+layout: post
 description: ""
+image: ""
 ---
-**1. Travel Declaration**
-
-A PG message has been sent to parents to make a travel declaration for their child if he/she intends to travel during the mid-year holiday. Please do so by 26 May 2023.
-
-2. **Upcoming Online Parent Teacher Meeting**
-3. 
 Dear Parents,
 
 This is a gentle reminder of the upcoming Parent-Teacher meeting conducted online on 25 and 26 May, 8 a.m. to 4.30 p.m.

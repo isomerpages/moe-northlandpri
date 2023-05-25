@@ -3,8 +3,8 @@ title: School Hours & Recesses
 permalink: /about-us/school-hours-n-recesses/
 description: ""
 ---
-#  SCHOOL HOURS
-![](/images/curriculum_hours.JPG)
+#  SCHOOL HOURS (from Term 3)
+![](/images/school%20hours.JPG)
 
 Students are to report before 7.30 a.m. daily.
 All students are to bring a storybook for silent reading:
