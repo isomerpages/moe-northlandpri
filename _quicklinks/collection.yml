@@ -2,5 +2,6 @@ collections:
   quicklinks:
     output: true
     order:
+      - School Uniform.md
       - School Related Services.md
       - Quicklinks.md
