@@ -10,6 +10,6 @@ Dear Parents,
 
 Please access this document to request for school bus request.
 
-Thank you.
-
 [Form for School Bus Request](/files/2023_sky%20bus%20request%20form_parents.pdf)
+
+Thank you.
