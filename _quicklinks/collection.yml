@@ -2,4 +2,5 @@ collections:
   quicklinks:
     output: true
     order:
+      - School Related Services.md
       - Quicklinks.md
