@@ -15,9 +15,6 @@ sections:
         - title: School Highlights
           description: ""
           url: /school-highlights/permalink/
-        - title: Quicklinks
-          description: ""
-          url: ""
   - resources:
       title: Announcements
       button: Click HERE to read more
