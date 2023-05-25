@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Financial Assistance.md
-      - School Uniform.md
       - School Related Services.md
