@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+[](/files/quicklinks%20for%20website.pdf)
