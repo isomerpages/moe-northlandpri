@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - School Terms and Holidays.md
       - Principal's Message.md
       - Vision, Mission, Core Values.md
       - Crest, Motto, Flag And Song.md
-      - School Hours & Recesses.md
       - School Leadership Team.md
       - Operations & Security.md
+      - School Terms and Holidays.md
+      - School Hours & Recesses.md
