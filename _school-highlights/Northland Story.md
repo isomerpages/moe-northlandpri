@@ -51,17 +51,17 @@ description: ""
   <tr>
     <td class="tg-8jgo">Artsbassadors</td>
     <td class="tg-8jgo">Learning IT Beyond Classroom</td>
+    <td class="tg-8jgo">Learning Fiesta</td>
+  </tr>
+  <tr>
+    <td class="tg-8jgo"></td>
+    <td class="tg-8jgo"></td>
+    <td class="tg-8jgo"></td>
+  </tr>
+  <tr>
     <td class="tg-8jgo">International Friendship Day</td>
-  </tr>
-  <tr>
-    <td class="tg-8jgo"></td>
-    <td class="tg-8jgo"></td>
-    <td class="tg-8jgo"></td>
-  </tr>
-  <tr>
     <td class="tg-8jgo">Sports Day</td>
     <td class="tg-8jgo">Chinese New Year Celebration</td>
-    <td class="tg-8jgo"></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
