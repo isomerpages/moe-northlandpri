@@ -18,7 +18,8 @@ description: ""
 .tg .tg-60hs{font-size:20px;text-align:left;vertical-align:top}
 .tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
 </style>
-<table style="undefined;table-layout: fixed; width: 903px" class="tg">
+![](/images/Photos%20Used/35th%20anniversary%20logo.jpeg)
+    <table style="undefined;table-layout: fixed; width: 903px" class="tg">
 <colgroup>
 <col style="width: 301px">
 <col style="width: 301px">
@@ -43,8 +44,7 @@ description: ""
     <td class="tg-bzci"></td>
   </tr>
   <tr>
-    <td class="tg-bzci">Applause</td>
-    <td class="tg-13pz">35th Anniversary Celebration</td>
+    <td class="tg-bzci">Applause</td><td class="tg-13pz">35th Anniversary Celebration</td>
     <td class="tg-bzci">Project Work</td>
   </tr>
   <tr>
