@@ -1,8 +1,8 @@
 ---
 title: 35th Anniversary
-permalink: /school-highlights/permalink/
+permalink: /school-highlights/35thanniversary/
 description: ""
 ---
-As Northland celebrates her 35th Anniversary, let's have a look at the school's key focuses and the programmes.  Let's all be empowered to learn, enabled to lead!
+![](/images/Photos%20Used/35th%20anniversary%20logo.jpeg)
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/B3o4Pq1xIxY" height="315" width="560"></iframe>
+![](/images/Photos%20Used/coming_soon.JPG)
