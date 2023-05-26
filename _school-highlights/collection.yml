@@ -2,6 +2,6 @@ collections:
   school-highlights:
     output: true
     order:
-      - Sports Day.md
       - Northland Story.md
+      - Sports Day.md
       - 35th Anniversary.md
