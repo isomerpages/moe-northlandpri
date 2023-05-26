@@ -26,9 +26,9 @@ description: ""
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-xnjl"><img height="22" width="77" alt="Image" src="https://drive.google.com/file/d/1XLYLeeHXHEvtmC8W7P5QgUBZ8DRxocRK/view?usp=share_link"></th>
-    <th class="tg-cdiy"><img height="22" width="77" alt="Image" src="https://drive.google.com/file/d/1XLYLeeHXHEvtmC8W7P5QgUBZ8DRxocRK/view?usp=share_link"></th>
-    <th class="tg-xnjl"><img height="22" width="77" alt="Image" src="https://drive.google.com/file/d/1XLYLeeHXHEvtmC8W7P5QgUBZ8DRxocRK/view?usp=share_link"></th>
+    <th class="tg-xnjl"></th>
+    <th class="tg-cdiy"></th>
+    <th class="tg-xnjl"></th>
   </tr>
 </thead>
 <tbody>
