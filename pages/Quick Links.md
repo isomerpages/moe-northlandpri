@@ -17,6 +17,8 @@ description: ""
 .tg .tg-i7g1{background-color:#ffffc7;border-color:#000000;color:#1A62FF;font-size:20px;font-weight:bold;text-align:left;
   text-decoration:underline;vertical-align:top}
 .tg .tg-l4pv{border-color:#000000;font-size:20px;text-align:left;vertical-align:top}
+.tg .tg-fog0{background-color:#ffffc7;border-color:#000000;color:#1a62ff;font-size:20px;text-align:left;text-decoration:underline;
+  vertical-align:top}
 .tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
@@ -71,7 +73,7 @@ description: ""
   <tr>
     <td class="tg-qnc0"><a rel="noopener noreferrer" target="_blank" href="https://form.gov.sg/60d84995a9bcd8001181b630"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">NPS Cares</span></a></td>
     <td class="tg-l4pv"></td>
-    <td class="tg-qnc0"><a rel="noopener noreferrer" target="_blank" href="http://icon.moe.edu.sg/"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">iCon e</span></a>mail</td>
+    <td class="tg-fog0"><a rel="noopener noreferrer" target="_blank" href="https://icon.moe.edu.sg/">iCON</a></td>
   </tr>
   <tr>
     <td class="tg-l4pv"></td>
