@@ -122,63 +122,51 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
-.tg .tg-oaxy{background-color:#FFF;border-color:#ffffff;color:#484848;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-f47c{background-color:#FFF;border-color:#ffffff;color:#323232;text-align:left;vertical-align:top}
-.tg .tg-6k18{background-color:#FFF;border-color:#ffffff;color:#323232;font-weight:bold;position:-webkit-sticky;position:sticky;
-  text-align:left;top:-1px;vertical-align:top;will-change:transform}
-.tg .tg-dost{border-color:#ffffff;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;vertical-align:top;
-  will-change:transform}
-.tg .tg-t4sp{background-color:#FFF;border-color:#ffffff;color:#484848;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-x5ly{background-color:#ffffff;border-color:#ffffff;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;
+  vertical-align:top;will-change:transform}
+.tg .tg-s9yu{background-color:#ffffff;border-color:#ffffff;color:#323232;text-align:left;vertical-align:top}
+.tg .tg-oxg6{background-color:#ffffff;border-color:#ffffff;color:#484848;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-wgzr{background-color:#ffffff;border-color:#ffffff;color:#484848;text-align:left;vertical-align:top}
 </style>
-<table style="undefined;table-layout: fixed; width: 732px" class="tg">
+<table style="undefined;table-layout: fixed; width: 602px" class="tg">
 <colgroup>
-<col style="width: 201px">
-<col style="width: 401px">
-<col style="width: 130px">
+<col style="width: 301px">
+<col style="width: 301px">
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2" class="tg-6k18"><span style="font-weight:bold;color:#323232">Semester 1</span></th>
-    <th class="tg-dost"></th>
+    <th class="tg-x5ly">Semester 1</th>
+    <th class="tg-x5ly"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-f47c"><span style="font-weight:400;font-style:inherit;color:#000">New Year’s Day</span></td>
-    <td class="tg-f47c"><span style="font-weight:400;font-style:inherit;color:#000">Sunday, 1 Jan 2023</span></td>
-    <td class="tg-zv4m"></td>
+    <td class="tg-s9yu"><span style="font-weight:400;font-style:inherit;color:#000">New Year’s Day</span></td>
+    <td class="tg-s9yu"><span style="font-weight:400;font-style:inherit;color:#000">Sunday, 1 Jan 2023</span></td>
   </tr>
   <tr>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Post New Year’s Day</span></td>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Monday, 2 Jan 2023</span></td>
-    <td class="tg-zv4m"></td>
+    <td class="tg-s9yu"><span style="font-weight:400;font-style:inherit;color:#000">Post New Year’s Day</span></td>
+    <td class="tg-s9yu"><span style="font-weight:400;font-style:inherit;color:#000">Monday, 2 Jan 2023</span></td>
   </tr>
   <tr>
-    <td class="tg-oaxy"><span style="font-weight:400;font-style:inherit;color:#000">Chinese New Year</span></td>
-    <td class="tg-oaxy"><span style="font-weight:400;font-style:inherit;color:#000">Sunday &amp; Monday, 22 - 23 Jan 2023</span></td>
-    <td class="tg-zv4m"></td>
+    <td class="tg-oxg6"><span style="font-weight:400;font-style:inherit;color:#000">Chinese New Year</span></td>
+    <td class="tg-oxg6"><span style="font-weight:400;font-style:inherit;color:#000">Sunday &amp; Monday, 22 - 23 Jan 2023</span></td>
   </tr>
   <tr>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Good Friday</span></td>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Friday, 7 April 2023</span></td>
-    <td class="tg-zv4m"></td>
+    <td class="tg-wgzr"><span style="font-weight:400;font-style:inherit;color:#000">Good Friday</span></td>
+    <td class="tg-wgzr"><span style="font-weight:400;font-style:inherit;color:#000">Friday, 7 April 2023</span></td>
   </tr>
   <tr>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Hari Raya Puasa</span></td>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Saturday, 22 April 2023</span></td>
-    <td class="tg-zv4m"></td>
+    <td class="tg-wgzr"><span style="font-weight:400;font-style:inherit;color:#000">Hari Raya Puasa</span></td>
+    <td class="tg-wgzr"><span style="font-weight:400;font-style:inherit;color:#000">Saturday, 22 April 2023</span></td>
   </tr>
   <tr>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Labour Day</span></td>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Monday, 1 May 2023</span></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-oxg6"><span style="font-weight:400;font-style:inherit;color:#000">Labour Day</span></td>
+    <td class="tg-oxg6"><span style="font-weight:400;font-style:inherit;color:#000">Monday, 1 May 2023</span></td>
   </tr>
   <tr>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Vesak Day</span></td>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Saturday,3 June 2023</span></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-wgzr"><span style="font-weight:400;font-style:inherit;color:#000">Vesak Day</span></td>
+    <td class="tg-wgzr"><span style="font-weight:400;font-style:inherit;color:#000">Saturday,3 June 2023</span></td>
   </tr>
 </tbody>
 </table>
@@ -189,68 +177,56 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
-.tg .tg-shyv{background-color:#FFF;border-color:#ffffff;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-x5ly{background-color:#ffffff;border-color:#ffffff;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;
+  vertical-align:top;will-change:transform}
 .tg .tg-oaxy{background-color:#FFF;border-color:#ffffff;color:#484848;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-f47c{background-color:#FFF;border-color:#ffffff;color:#323232;text-align:left;vertical-align:top}
-.tg .tg-dost{border-color:#ffffff;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;vertical-align:top;
-  will-change:transform}
 .tg .tg-t4sp{background-color:#FFF;border-color:#ffffff;color:#484848;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-wgzr{background-color:#ffffff;border-color:#ffffff;color:#484848;text-align:left;vertical-align:top}
 </style>
-<table style="undefined;table-layout: fixed; width: 732px" class="tg">
+<table style="undefined;table-layout: fixed; width: 602px" class="tg">
 <colgroup>
-<col style="width: 201px">
-<col style="width: 401px">
-<col style="width: 130px">
+<col style="width: 301px">
+<col style="width: 301px">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-dost">Semester 2</th>
-    <th class="tg-dost"></th>
-    <th class="tg-dost"></th>
+    <th class="tg-x5ly">Semester 2</th>
+    <th class="tg-x5ly"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-shyv"><span style="font-weight:400;font-style:inherit;color:#000">Youth Day</span></td>
-    <td class="tg-shyv"><span style="font-weight:400;font-style:inherit;color:#000">Monday, 3 July 2023</span></td>
-    <td class="tg-zv4m"></td>
+    <td class="tg-f47c"><span style="font-weight:400;font-style:inherit;color:#000">Youth Day</span></td>
+    <td class="tg-f47c"><span style="font-weight:400;font-style:inherit;color:#000">Monday, 3 July 2023</span></td>
   </tr>
   <tr>
     <td class="tg-f47c"><span style="font-weight:400;font-style:inherit;color:#000">Hari Raya Haji</span></td>
     <td class="tg-f47c"><span style="font-weight:400;font-style:inherit;color:#000">Thursday, 29 June 2023</span></td>
-    <td class="tg-zv4m"></td>
   </tr>
   <tr>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">National Day</span></td>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Wednesday, 9 Aug 2023</span></td>
-    <td class="tg-zv4m"></td>
+    <td class="tg-f47c"><span style="font-weight:400;font-style:inherit;color:#000">National Day</span></td>
+    <td class="tg-f47c"><span style="font-weight:400;font-style:inherit;color:#000">Wednesday, 9 Aug 2023</span></td>
   </tr>
   <tr>
     <td class="tg-oaxy"><span style="font-weight:400;font-style:inherit;color:#000">Post National Day</span></td>
     <td class="tg-oaxy"><span style="font-weight:400;font-style:inherit;color:#000">Thursday, 10 Aug 2023</span></td>
-    <td class="tg-zv4m"></td>
   </tr>
   <tr>
     <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Teacher’s Day</span></td>
     <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Friday, 1 Sept 2023</span></td>
-    <td class="tg-zv4m"></td>
   </tr>
   <tr>
     <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Childrens’ Day</span></td>
     <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Friday, 6 Oct 2023</span></td>
-    <td class="tg-zv4m"></td>
   </tr>
   <tr>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Deepavali</span></td>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Sunday, 12 Nov 2023</span></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-oaxy"><span style="font-weight:400;font-style:inherit;color:#000">Deepavali</span></td>
+    <td class="tg-oaxy"><span style="font-weight:400;font-style:inherit;color:#000">Sunday, 12 Nov 2023</span></td>
   </tr>
   <tr>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Christmas</span></td>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Monday, 25 Dec 2023</span></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-wgzr"><span style="font-weight:400;font-style:inherit;color:#000">Christmas</span></td>
+    <td class="tg-wgzr"><span style="font-weight:400;font-style:inherit;color:#000">Monday, 25 Dec 2023</span></td>
   </tr>
 </tbody>
 </table>
@@ -375,6 +351,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
-
-
