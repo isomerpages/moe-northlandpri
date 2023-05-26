@@ -1,6 +1,6 @@
 ---
 title: Learning Fiesta
-permalink: /school-highlights/learningfiesta/
+permalink: /school-highlights/permalink/
 description: ""
 ---
 ![](/images/Photos%20Used/coming_soon.JPG)
