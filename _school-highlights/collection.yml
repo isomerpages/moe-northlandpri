@@ -2,5 +2,5 @@ collections:
   school-highlights:
     output: true
     order:
-      - 35th Anniversary.md
       - Northland Story.md
+      - 35th Anniversary.md
