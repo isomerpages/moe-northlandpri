@@ -22,9 +22,9 @@ description: ""
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-ogyt"></th>
-    <th class="tg-ogyt"></th>
-    <th class="tg-ogyt"></th>
+    <th class="tg-ogyt"><img src="/images/isomersample.png"></th>
+    <th class="tg-ogyt"><img src="/images/isomersample.png"></th>
+    <th class="tg-ogyt"><img src="/images/isomersample.png"></th>
   </tr>
 </thead>
 <tbody>
@@ -34,9 +34,9 @@ description: ""
     <td class="tg-8jgo">P5 Camp</td>
   </tr>
   <tr>
-    <td class="tg-8jgo"></td>
-    <td class="tg-8jgo"></td>
-    <td class="tg-8jgo"></td>
+    <td class="tg-8jgo"><img src="/images/isomersample.png"></td>
+    <td class="tg-8jgo"><img src="/images/isomersample.png"></td>
+    <td class="tg-8jgo"><img src="/images/isomersample.png"></td>
   </tr>
   <tr>
     <td class="tg-8jgo">Applause</td>
