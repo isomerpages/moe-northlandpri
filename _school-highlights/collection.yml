@@ -2,7 +2,7 @@ collections:
   school-highlights:
     output: true
     order:
-      - Aesthetics.md
+      - Aesthetics Artsbassadors.md
       - Northland Story.md
       - 35th Anniversary.md
       - Learning Fiesta.md
