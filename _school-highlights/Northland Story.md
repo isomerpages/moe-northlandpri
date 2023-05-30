@@ -54,7 +54,7 @@ description: ""
     <td class="tg-8jgo">Learning Fiesta</td>
   </tr>
   <tr>
-    <td class="tg-8jgo"></td><th class="tg-ogyt"><img src="house captains leading opening ceremony.png"></th>
+    <td class="tg-8jgo"></td><th class="tg-ogyt"><img src="/images/Photos%20Used/Sports%20Day%202023/house%20captains%20leading%20opening%20ceremony.jpg"></th>
     <td class="tg-8jgo"></td><th class="tg-ogyt"><img src="/images/isomersample.png"></th>
     <td class="tg-8jgo"></td>
   </tr>
