@@ -15,6 +15,9 @@ sections:
         - title: School Highlights
           description: ""
           url: /school-highlights/artsbassadors/
+      subtitle: <video autoplay="" muted="" playsinline="" loop=""
+        poster="images/statichq.jpg" id="bVideo"><source
+        src="/images/northland-video.mp4" type="video/webm"></video>
   - resources:
       title: Announcements
       button: Click HERE to read more
