@@ -1,6 +1,6 @@
 ---
 title: Sports Day
-permalink: /school-highlights/permalink/
+permalink: /school-highlights/sports-day/
 description: ""
 ---
 # Return of Sports Day! 
