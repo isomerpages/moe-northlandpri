@@ -4,7 +4,6 @@ permalink: /school-highlights/35thanniversary/
 description: ""
 ---
 ![](/images/Photos%20Used/35th%20anniversary%20logo.jpeg)
-
 # 35th Anniversary – Glorious Milestone, Wondrous Celebrations
 It was a much anticipated 35th Birthday Celebration on 24th May with sequences dovetailed in a combination of related events conducted culminating towards our grand finale Fiesta.
 
