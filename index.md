@@ -18,4 +18,11 @@ sections:
   - resources:
       title: Announcements
       button: Click HERE to read more
+  - infopic:
+      title: Uniquely Northland
+      button: Find out More
+      url: School Highlights
+      image: /images/Photos Used/Learning
+        Fiesta/minchan_schoolvisit_nps_20230329_114.jpg
+      alt: Image alt text
 ---
