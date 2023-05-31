@@ -21,7 +21,7 @@ sections:
   - infopic:
       title: Uniquely Northland
       button: Find out More
-      url: School Highlights
+      url: /school-highlights/artsbassadors/
       image: /images/Photos Used/Learning Fiesta/p5&6 escape room 2.jpg
       alt: Image alt text
 ---
