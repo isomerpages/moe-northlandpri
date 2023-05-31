@@ -14,3 +14,17 @@ Not only that, the P5 students had a wonderful experience in the Escape Room whe
 The Science Fair showcased a wide range of science experiments from aerodynamics to density and acidity. Throughout the day, selected Science Monitors were on hand to explain the science behind the various activities and exhibits. They engaged their peers and helped them understand the underlying principles of the different experiments. 
 
 One of the highlights of the event was the toy showcase on the use of forces. This exhibit demonstrated how different forces such as gravity and friction can be used to create exciting and fun toys.
+
+![](/images/Photos%20Used/Learning%20Fiesta/p5&6%20escape%20room%202.jpg)
+
+![](/images/Photos%20Used/Learning%20Fiesta/minchan_schoolvisit_nps_20230329_114.jpg)
+
+![](/images/Photos%20Used/Learning%20Fiesta/minchan_schoolvisit_nps_20230329_123.jpg)
+
+![](/images/Photos%20Used/Learning%20Fiesta/minchan_schoolvisit_nps_20230329_060.jpg)
+
+![](/images/Photos%20Used/Learning%20Fiesta/minchan_schoolvisit_nps_20230329_101.jpg)
+
+![](/images/Photos%20Used/Learning%20Fiesta/minchan_schoolvisit_nps_20230329_024.jpg)
+
+![](/images/Photos%20Used/Learning%20Fiesta/minchan_schoolvisit_nps_20230329_048.jpg)
