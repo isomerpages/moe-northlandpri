@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/statichq.jpg
+      background: 
       key_highlights:
         - title: Calendar
           description: ""
