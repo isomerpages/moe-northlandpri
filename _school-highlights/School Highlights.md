@@ -15,9 +15,9 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ul38"><img height="300" width="400" src="https://www.tablesgenerator.com/artsbassadors%20pic%20(4)"></th>
-    <th class="tg-ul38"><img height="300" width="400" src="https://www.tablesgenerator.com/minchan_schoolvisit_nps_20230329_114"></th>
-    <th class="tg-ul38"><img height="300" width="400" src="https://www.tablesgenerator.com/minchan_shouse%20captains%20leading%20opening%20ceremony"></th>
+    <th class="tg-ul38"><img height="300" width="400" src="artsbassadors%20pic%20(4)"></th>
+    <th class="tg-ul38"><img height="300" width="400" src="minchan_schoolvisit_nps_20230329_114"></th>
+    <th class="tg-ul38"><img height="300" width="400" src="minchan_shouse%20captains%20leading%20opening%20ceremony"></th>
   </tr>
 </thead>
 <tbody>
