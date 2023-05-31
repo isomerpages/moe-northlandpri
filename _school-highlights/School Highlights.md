@@ -22,7 +22,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-baqh">Aesthetics ARTSbassadors</td>
+    <td class="tg-baqh">[Aesthetics ARTSbassadors]()</td>
     <td class="tg-baqh">Learning Fiesta</td>
     <td class="tg-baqh">Sports Day</td>
   </tr>
