@@ -14,7 +14,7 @@ sections:
         - title: School Highlights
           description: ""
           url: /school-highlights/artsbassadors/
-      background: /images/finallbanner.gif
+      background: /images/statichq.jpg
   - resources:
       title: Announcements
       button: Click HERE to read more
