@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/statichq.jpg
       key_highlights:
         - title: Calendar
           description: ""
@@ -15,6 +14,7 @@ sections:
         - title: School Highlights
           description: ""
           url: /school-highlights/artsbassadors/
+      background: /images/statichq.jpg
   - resources:
       title: Announcements
       button: Click HERE to read more
