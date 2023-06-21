@@ -14,8 +14,6 @@ third_nav_title: Clubs & Societies
 
 Mrs Lam-Lim Shiuh Hui (OIC) <br>
 Mdm Shiamala d/o Krishna Kumar <br>
-Mr Alvin Liu Weixiong
-
   
 <center><i>Robotics – There are endless number of things to discover about Robotics. A lot of it is just too fantastic and futuristic for people to believe. <u>Daniel H Wilson</u></i></center>
 
