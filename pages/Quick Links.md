@@ -42,7 +42,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-qnc0"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/login"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">Student Learning Space [SLS]</span></a></td>
-    <td class="tg-eqyb"><a href="https://drive.google.com/file/d/1TvIXDtW0xrjueFuak1DUFLnVzhvU15Sz/view?usp=share_link"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">School Related Services</span></a></td>
+    <td class="tg-eqyb"><a href="https://docs.google.com/presentation/d/1Nv5yIt6NNf7Sx8Mr_0t4t-LPL-SoiNH3Tg0OffYjQh4/edit?usp=sharing"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">School Related Services</span></a></td>
     <td class="tg-qnc0"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/login"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">Student Learning Space [SLS]</span></a></td>
   </tr>
   <tr>
