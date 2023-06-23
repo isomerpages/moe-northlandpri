@@ -4,22 +4,40 @@ permalink: /about-us/school-leadership-team/
 description: ""
 ---
 # School Leadership Team
-
-
-| Principal |Mr Jay Westly Mahardale | jay_mahardale@schools.gov.sg |
-| -------- | -------- | -------- |
-| **Vice-Principal**  | **Mr Richard Chong**| chong_choong_hian@schools.gov.sg |
-
-|Vice-Principal| Mrs Gina Cho| lee_quee_choo_gina@schools.gov.sg|
-| -------- | -------- | -------- |
-
-
-
-
-
-
-
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-km2t{border-color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-m5a1{border-color:#ffffff;font-size:100%;font-weight:bold;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;
+  vertical-align:top;will-change:transform}
+.tg .tg-dost{border-color:#ffffff;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;vertical-align:top;
+  will-change:transform}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-m5a1">Principal</th>
+    <th class="tg-dost">Mr Jay Westly Mahardale</th>
+    <th class="tg-dost">jay_mahardale@schools.gov.sg</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-km2t">Vice-Principals</td>
+    <td class="tg-zv4m">Mr Richard Chong Choong Hian</td>
+    <td class="tg-zv4m">chong_choong_hian@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m">Mrs Gina Cho</td>
+    <td class="tg-zv4m">lee_quee_choo_gina@schools.gov.sg</td>
+  </tr>
+</tbody>
+</table>
 
 # Head of Department (HOD)
 
