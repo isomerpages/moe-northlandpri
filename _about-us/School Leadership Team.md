@@ -5,11 +5,34 @@ description: ""
 ---
 ## School Leadership Team
 
-|   |   |
-|:-:|---|
-| **Principal**  | Mr Jay Westly Mahardale <br> [jay\_mahardale@schools.gov.sg](mailto:jay_mahardale@schools.gov.sg)  |
-| **Vice-Principal**  | Mr Richard Chong Choong Hian <br> [chong\_choong\_hian@schools.gov.sg](mailto:chong_choong_hian@schools.gov.sg)  |
-| **Vice-Principal** |  Mrs Gina Cho | (lee_quee_choo_gina@schools.gov.sg))
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-dost{border-color:#ffffff;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;vertical-align:top;
+  will-change:transform}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dost">Principal</th>
+    <th class="tg-dost">Mr Jay Westly Mahardale<br>jay_mahardale@schools.gov.sg</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zv4m">Vice-Principals</td>
+    <td class="tg-zv4m">Mr Richard Chong Choong Hian<br>chong_choong_hian@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m">Mrs Gina Cho<br>lee_quee_choo_gina@schools.gov.sg</td>
+  </tr>
+</tbody>
+</table>
 
 #### Head of Department (HOD)
 
