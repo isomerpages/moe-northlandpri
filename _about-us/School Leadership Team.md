@@ -4,108 +4,211 @@ permalink: /about-us/school-leadership-team/
 description: ""
 ---
 # School Leadership Team
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
+  overflow:hidden;padding:10px 10px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-km2t{border-color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
-.tg .tg-m5a1{border-color:#ffffff;font-size:100%;font-weight:bold;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;
+  font-weight:normal;overflow:hidden;padding:10px 10px;word-break:normal;}
+.tg .tg-pic4{background-color:#ffffff;border-color:#000000;font-size:100%;text-align:left;vertical-align:top}
+.tg .tg-1sny{border-color:#000000;font-weight:bold;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;
   vertical-align:top;will-change:transform}
-.tg .tg-dost{border-color:#ffffff;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;vertical-align:top;
-  will-change:transform}
+.tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-m5a1">Principal</th>
-    <th class="tg-dost">Mr Jay Westly Mahardale</th>
-    <th class="tg-dost">jay_mahardale@schools.gov.sg</th>
+    <th class="tg-1sny">Name</th>
+    <th class="tg-1sny">Designation</th>
+    <th class="tg-1sny">Email Address</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-km2t">Vice-Principals</td>
-    <td class="tg-zv4m">Mr Richard Chong Choong Hian</td>
-    <td class="tg-zv4m">chong_choong_hian@schools.gov.sg</td>
+    <td class="tg-pic4">Mr Jay Mahardale</td>
+    <td class="tg-iks7">Principal</td>
+    <td class="tg-iks7">jay_mahardale@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-zv4m"></td>
-    <td class="tg-zv4m">Mrs Gina Cho</td>
-    <td class="tg-zv4m">lee_quee_choo_gina@schools.gov.sg</td>
+    <td class="tg-iks7">Mr Richard Chong Choong Hian</td>
+    <td class="tg-iks7">Vice-Principal</td>
+    <td class="tg-iks7">chong_choong_hian@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mrs Gina Cho</td>
+    <td class="tg-iks7">Vice-Principal</td>
+    <td class="tg-iks7">lee_quee_choo_gina@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mr Kumara Rajan Kanagasabai</td>
+    <td class="tg-iks7">School Staff Developer</td>
+    <td class="tg-iks7">kumara_rajan_kanagasabai@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mdm Farah Hasinah</td>
+    <td class="tg-iks7">HOD - English</td>
+    <td class="tg-iks7">farah_hasinah_abdul_wahab@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Miss Goh Wang Eng</td>
+    <td class="tg-iks7">HOD - Mother Tongue Languages</td>
+    <td class="tg-iks7">goh_wang_eng@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mr Goh Shu Rong</td>
+    <td class="tg-iks7">HOD - Mathematics</td>
+    <td class="tg-iks7">goh_shu_rong@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mdm Menhanah Bte Masudi</td>
+    <td class="tg-iks7">HOD - Character &amp; Citizenship Education</td>
+    <td class="tg-iks7">menhanah_masudi@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mr Ganesan s/o Arumugan</td>
+    <td class="tg-iks7">HOD - Physical Education &amp; CCA</td>
+    <td class="tg-iks7">ganesan_arumugan@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Miss Lee Bee Ping Germaine</td>
+    <td class="tg-iks7">HOD - Aesthetics</td>
+    <td class="tg-iks7">lee_bee_ping_germaine@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mdm Cindy Heng</td>
+    <td class="tg-iks7">HOD - Information Communication &amp; Technology</td>
+    <td class="tg-iks7">heng_cindy@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mdm Pauline Cheong</td>
+    <td class="tg-iks7">Year Head - Primary 1</td>
+    <td class="tg-iks7">cheong_siew_lan_pauline@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mr Ganesan s/o Arumugan</td>
+    <td class="tg-iks7">Year Head - Primary 2</td>
+    <td class="tg-iks7">ganesan_arumugan@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mr Shahrul Fadly Bin Abd Rahman</td>
+    <td class="tg-iks7">Year Head - Primary 3</td>
+    <td class="tg-iks7">shahrul_fadly_abd_rahman@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Miss Teo Choy Yim</td>
+    <td class="tg-iks7">Year Head - Primary 4</td>
+    <td class="tg-iks7">teo_choy_yim@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mrs Siti Ardah Hazry</td>
+    <td class="tg-iks7">Year Head - Primary 5</td>
+    <td class="tg-iks7">siti_ardah_iskandar@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mrs Asmawati Ganesan</td>
+    <td class="tg-iks7">Year Head - Primary 6</td>
+    <td class="tg-iks7">asmawati_abdullah@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mrs Katherine Chong</td>
+    <td class="tg-iks7">Level Head - English</td>
+    <td class="tg-iks7">tan_wenxin@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mrs Ellis Chua</td>
+    <td class="tg-iks7">Level Head - Mathematics</td>
+    <td class="tg-iks7">tan_qiu_qing_ellis@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Ms Davina Chai</td>
+    <td class="tg-iks7">Level Head - Science</td>
+    <td class="tg-iks7">chai_xiujuan_davina@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mrs Joycelyn Goh</td>
+    <td class="tg-iks7">Level Head - Science</td>
+    <td class="tg-iks7">tan_pei_ying_Joycelyn@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mdm Nor Afiza Binte Abdul Hamid</td>
+    <td class="tg-iks7">Level Head - Aesthetics</td>
+    <td class="tg-iks7">nor_afiza_abdul_hamid@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mdm Anandhi d/o Nagaraja</td>
+    <td class="tg-iks7">Subject Head - Malay and Tamil Languages</td>
+    <td class="tg-iks7">anandhi_nagaraja@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mrs Joyce Low</td>
+    <td class="tg-iks7">Subject Head - Citizenship Education</td>
+    <td class="tg-iks7">cheung_pei_yi@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mr Wilson Tan Kay Chye</td>
+    <td class="tg-iks7">Subject Head - CCA</td>
+    <td class="tg-iks7">tan_kay_chye_wilson@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mr Mohamed Faroek Hamsani</td>
+    <td class="tg-iks7">Subject Head - Discipline &amp; Student Leadership</td>
+    <td class="tg-iks7">mohamed_faroek_hamsani@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mr Rajiv Jude Illesinghe</td>
+    <td class="tg-iks7">Subject Head - Student Well-being</td>
+    <td class="tg-iks7">rajiv_jude_illesinghe@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mrs Chitra Thirumaran</td>
+    <td class="tg-iks7">Senior Teacher - English</td>
+    <td class="tg-iks7">chitra_devi_v_ramalingam@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Miss Ong Teck Lian</td>
+    <td class="tg-iks7">Senior Teacher - Chinese</td>
+    <td class="tg-iks7">ong_teck_lian@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mr Zheng Junren</td>
+    <td class="tg-iks7">Senior Teacher - Chinese</td>
+    <td class="tg-iks7">zheng_junren@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mrs Chong Cheng Cheng</td>
+    <td class="tg-iks7">Senior Teacher - Mathematics</td>
+    <td class="tg-iks7">chong_cheng_cheng@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mdm Chan See Yeu</td>
+    <td class="tg-iks7">Senior Teacher - Science</td>
+    <td class="tg-iks7">chan_see_yeu@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mrs Emiline Mui</td>
+    <td class="tg-iks7">Senior Teacher - Science</td>
+    <td class="tg-iks7">emiline_neo_shuen_huey@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Miss Soh Wan Hong</td>
+    <td class="tg-iks7">Senior Teacher - Art</td>
+    <td class="tg-iks7">soh_wan_hong@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mrs Tan Lee Joon</td>
+    <td class="tg-iks7">Senior Teacher - Learning Support</td>
+    <td class="tg-iks7">lim_lee_joon@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Mr Ramachandran Nair</td>
+    <td class="tg-iks7">Operations Manager</td>
+    <td class="tg-iks7">ramachandran_nair@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-iks7">Ms Tan Lay Geok</td>
+    <td class="tg-iks7">Administrative Manager</td>
+    <td class="tg-iks7">tan_lay_geok_b@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
-
-# Head of Department (HOD)
-
-|   |   |
-|:-:|---|
-| **School Staff Developer**  | Mr Kumara Rajan Kanagasabai<br>[kumara\_rajan\_kanagasabai@schools.gov.sg](mailto:kumara_rajan_kanagasabai@schools.gov.sg)  |
-| **English**  | Mdm Farah Hasinah<br>[farah\_hasinah\_abdul\_wahab@schools.gov.sg](mailto:farah_hasinah_abdul_wahab@schools.gov.sg)  |
-| **Mother Tongue Languages**  | Miss Goh Wang Eng<br>[goh\_wang\_eng@schools.gov.sg](mailto:goh_wang_eng@schools.gov.sg)  |
-| **Mathematics**  | Mr Goh Shu Rong<br>[goh\_shu\_rong@schools.gov.sg](mailto:goh_shu_rong@schools.gov.sg)  |
-| **Character &amp; Citizenship Education** | Mdm Menhanah Bte Masudi<br>[menhanah\_masudi@schools.gov.sg](mailto:menhanah_masudi@schools.gov.sg)  |
-| **Physical Education &amp; CCA**  | Mr Ganesan s/o Arumugan<br>[ganesan\_arumugan@schools.gov.sg](mailto:ganesan_arumugan@schools.gov.sg)  |
-| **Aesthetics**  | Miss Lee Bee Ping Germaine<br>[lee\_bee\_ping\_germaine@schools.gov.sg](mailto:lee_bee_ping_germaine@schools.gov.sg)  |
-| **Information Communication &amp; Technology**  | Mdm Cindy Heng<br>[heng\_cindy@schools.gov.sg](mailto:heng_cindy@schools.gov.sg)  |
-|   |   |
-
-#### Year Head (YH)
-
-|   |   |
-|:-:|---|
-| **Primary 1**  | Mdm Pauline Cheong<br>[cheong\_siew\_lan\_pauline@schools.gov.sg](mailto:cheong_siew_lan_pauline@schools.gov.sg)  |
-| **Primary 2**  | Mr Ganesan s/o Arumugan<br>[ganesan\_arumugan@schools.gov.sg](mailto:ganesan_arumugan@schools.gov.sg)  |
-| **Primary 3**  | Mr Shahrul Fadly Bin Abd Rahman<br>[shahrul\_fadly\_abd\_rahman@schools.gov.sg](mailto:shahrul_fadly_abd_rahman@schools.gov.sg)  |
-| **Primary 4**  | Miss Teo Choy Yim<br>[teo\_choy\_yim@schools.gov.sg](mailto:teo_choy_yim@schools.gov.sg)  |
-| **Primary 5**  | Mrs Siti Ardah Hazry<br>[siti\_ardah\_iskandar@schools.gov.sg](mailto:asmawati_abdullah@schools.gov.sg)  |
-| **Primary 6**  | Mrs Asmawati Ganesan<br>[asmawati\_abdullah@schools.gov.sg](mailto:asmawati_abdullah@schools.gov.sg)  |
-|   |   |
-
-#### Level Head (LH)
-
-|   |   |
-|:-:|---|
-| **English**  | Mrs Katherine Chong<br>[tan\_wenxin@schools.gov.sg](mailto:tan_wenxin@schools.gov.sg)  |
-| **Mathematics**  | Mrs Ellis Chua<br>[tan\_qiu\_qing\_ellis@schools.gov.sg](mailto:tan_qiu_qing_ellis@schools.gov.sg)  |
-| **Science**  | Ms Davina Chai<br>[chai\_xiujuan\_davina@schools.gov.sg](mailto:chai_xiujuan_davina@schools.gov.sg)  |
-| **Science**   | Mrs Joycelyn Goh <br> [tan\_pei\_ying\_Joycelyn@schools.gov.sg](mailto:Tan_Pei_Ying_Joycelyn@schools.gov.sg) |
-| **Aesthetics**  | Mdm Nor Afiza Binte Abdul Hamid<br>[nor\_afiza\_abdul\_hamid@schools.gov.sg](mailto:nor_afiza_abdul_hamid@schools.gov.sg)  |
-|   |   |
-
-#### Subject Head (SH)
-
-|   |   |
-|:-:|---|
-| **Malay &amp; Tamil Languages**  | Mdm Anandhi d/o Nagaraja<br>[anandhi\_nagaraja@schools.gov.sg](mailto:anandhi_nagaraja@schools.gov.sg)  |
-| **Citizenship Education**  | Mrs Joyce Low<br>[cheung\_pei\_yi@schools.gov.sg](mailto:cheung_pei_yi@schools.gov.sg)  |
-| **CCA**  | Mr Wilson Tan Kay Chye<br>[tan\_kay\_chye\_wilson@schools.gov.sg](mailto:tan_kay_chye_wilson@schools.gov.sg)  |
-| **Discipline &amp; Student Leadership**  | Mr Mohamed Faroek Hamsani<br>[mohamed\_faroek\_hamsani@schools.gov.sg](mailto:mohamed_faroek_hamsani@schools.gov.sg)  |
-| **Student Well-being**  | Mr Rajiv Jude Illesinghe<br>[rajiv\_jude\_illesinghe@schools.gov.sg](mailto:rajiv_jude_illesinghe@schools.gov.sg)  |
-|   |   |
-
-#### Senior Teacher (ST)
-
-|   |   |
-|:-:|---|
-| **English**  | Mrs Chitra Thirumaran<br>[chitra\_devi\_v\_ramalingam@schools.gov.sg](mailto:chitra_devi_v_ramalingam@schools.gov.sg)  |
-| **Chinese**  | Miss Ong Teck Lian<br>[ong\_teck\_lian@schools.gov.sg](mailto:ong_teck_lian@schools.gov.sg)  |
-| **Chinese**  | Mr Zheng Junren<br>[zheng\_junren@schools.gov.sg](mailto:zheng_junren@schools.gov.sg)  |
-| **Mathematics**  | Mr Chang Cheng Hwee<br>[chang\_cheng\_hwee@schools.gov.sg](mailto:chang_cheng_hwee@schools.gov.sg)  |
-| **Mathematics**  | Mrs Chong Cheng Cheng<br>[chong\_cheng\_cheg@schools.gov.sg](mailto:chong_cheng_cheng@schools.gov.sg)  |
-| **Science**  | Mdm Chan See Yeu<br>[chan\_see\_yeu@schools.gov.sg](mailto:chan_see_yeu@schools.gov.sg)  |
-| **Science**  |  Mrs Emiline Mui<br>[emiline\_neo\_shuen\_huey@schools.gov.sg](mailto:emiline_neo_shuen_huey@schools.gov.sg) |
-| **Art**  | Miss Soh Wan Hong<br>[soh\_wan\_hong@schools.gov.sg](mailto:soh_wan_hong@schools.gov.sg)  |
-| **Learning Support**  | Mrs Tan Lee Joon<br>[lim\_lee\_joon@schools.gov.sg](mailto:lim_lee_joon@schools.gov.sg)  |
-|   |   |
-
-#### Executive Staff
-
-|   |   |
-|:-:|---|
-| **Operation Manager**  | Mr Ramachandran Nair<br>[ramachandran\_nair@schools.gov.sg](mailto:ramachandran_nair@schools.gov.sg)  |
-| **Admin Manager**  | Ms Tan Lay Geok<br>[tan_lay_geok_b@schools.gov.sg](mailto:tan\_lay\_geok\_b@schools.gov.sg) |
-|   |   |
