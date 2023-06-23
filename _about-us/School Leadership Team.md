@@ -3,39 +3,23 @@ title: School Leadership Team
 permalink: /about-us/school-leadership-team/
 description: ""
 ---
-## School Leadership Team
+# School Leadership Team
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-j1i3{border-color:inherit;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;vertical-align:top;
-  will-change:transform}
-.tg .tg-l6e7{border-color:inherit;font-size:100%;font-weight:bold;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;
-  vertical-align:top;will-change:transform}
-.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-l6e7">Principal</th>
-    <th class="tg-j1i3">Mr Jay Westly Mahardale</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-fymr">Vice-Principals</td>
-    <td class="tg-0pky">Mr Richard Chong Choong Hian</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Mrs Gina Cho</td>
-  </tr>
-</tbody>
-</table>
+
+| Principal |Mr Jay Westly Mahardale | jay_mahardale@schools.gov.sg |
+| -------- | -------- | -------- |
+| **Vice-Principal**  | **Mr Richard Chong**| chong_choong_hian@schools.gov.sg |
+
+|Vice-Principal| Mrs Gina Cho| lee_quee_choo_gina@schools.gov.sg|
+| -------- | -------- | -------- |
+
+
+
+
+
+
+
+
 
 # Head of Department (HOD)
 
