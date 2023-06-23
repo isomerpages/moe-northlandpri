@@ -16,7 +16,12 @@ description: ""
   vertical-align:top;will-change:transform}
 .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table style="undefined;table-layout: fixed; width: 923px" class="tg">
+<colgroup>
+<col style="width: 281px">
+<col style="width: 321px">
+<col style="width: 321px">
+</colgroup>
 <thead>
   <tr>
     <th class="tg-1sny">Name</th>
