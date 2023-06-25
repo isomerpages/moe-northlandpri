@@ -212,7 +212,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-iks7">Ms Tan Lay Geok</td>
-    <td class="tg-iks7">Administrative Manager</td>
+    <td class="tg-iks7">Administration Manager</td>
     <td class="tg-iks7">tan_lay_geok_b@schools.gov.sg</td>
   </tr>
 </tbody>
