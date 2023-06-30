@@ -1,6 +1,6 @@
 ---
 title: Request for School Bus Service
-permalink: /resources/announcements/permalink/
+permalink: /resources/announcements/schoolbus/
 date: 2023-05-25
 layout: post
 description: ""

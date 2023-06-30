@@ -1,6 +1,6 @@
 ---
 title: Stall vacancy for Non Halal cuisine such as Korean or Japanese or Thai food
-permalink: /resources/announcements/permalink/
+permalink: /resources/announcements/stallvacancy/
 date: 2023-06-26
 layout: post
 description: ""

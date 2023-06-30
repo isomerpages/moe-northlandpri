@@ -33,17 +33,17 @@ description: ""
   <tr>
     <td class="tg-pic4">Mr Jay Mahardale</td>
     <td class="tg-iks7">Principal</td>
-    <td class="tg-iks7">jay_mahardale@schools.gov.sg</td>
+    <td class="tg-iks7"><a href="mailto:jay_mahardale@schools.gov.sg">jay_mahardale@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-iks7">Mr Richard Chong Choong Hian</td>
     <td class="tg-iks7">Vice-Principal</td>
-    <td class="tg-iks7">chong_choong_hian@schools.gov.sg</td>
+    <td class="tg-iks7"><a href="mailto:chong_choong_hian@schools.gov.sg">chong_choong_hian@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-iks7">Mrs Gina Cho</td>
     <td class="tg-iks7">Vice-Principal</td>
-    <td class="tg-iks7">lee_quee_choo_gina@schools.gov.sg</td>
+    <td class="tg-iks7"><a href="mailto:lee_quee_choo_gina@schools.gov.sg">lee_quee_choo_gina@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-iks7">Mr Kumara Rajan Kanagasabai</td>

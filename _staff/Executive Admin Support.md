@@ -18,6 +18,5 @@ description: ""
 | Corporate Support Officer  | Mrs Leita Rosanna  | [leita\_rosanna\_redwan@schools.gov.sg](mailto:leita_rosanna_redwan@schools.gov.sg)  |
 | Operation Support Officer  | Miss Ho Jai Seng  | [ho\_jai\_seng@schools.gov.sg](mailto:ho_jai_seng@schools.gov.sg)  |
 | Operation Executive  | Mr V. Ravichandir  | [v\_ravichandir@moe.edu.sg](mailto:v_ravichandir@moe.edu.sg)  |
-| Operation Support Officer  | Mdm Maimon  | -  |
-| Operation Support Officer  | Mdm Pushparani  | -  |
+| Operation Support Officer  | Mdm Pushparani   | -  |
 |   |   |   |
