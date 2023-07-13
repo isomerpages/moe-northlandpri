@@ -27,7 +27,7 @@ The school crest is cradled in the middle of the flag.
 _**Lyrics by Mrs. Thio Soei Ho**_<br>
 _**Music by Bernard Tan**_
 
-[School Song](https://youtu.be/0yqZ65EXOkw)
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/0yqZ65EXOkw" height="315" width="560"></iframe>
 
 Northland, our beloved school
 
