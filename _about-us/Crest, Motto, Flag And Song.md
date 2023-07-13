@@ -50,5 +50,3 @@ To you we pledge our loyalty
 For Singapore, for Northland
 
 And us
-
-Your browser does not support this video format. [Northland School Song.wmv](https://northlandpri.moe.edu.sg/qql/slot/u454/About%20Us/School%20Song/Northland%20School%20Song.wmv)
