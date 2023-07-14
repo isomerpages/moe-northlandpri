@@ -27,7 +27,7 @@ The school crest is cradled in the middle of the flag.
 _**Lyrics by Mrs. Thio Soei Ho**_<br>
 _**Music by Bernard Tan**_
 
-Click&nbsp;[here](https://northlandpri.moe.edu.sg/qql/slot/u454/About%20Us/School%20Song/46222c8ad_u5600.mp3)&nbsp;to listen to Northland Primary School Song.
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/0yqZ65EXOkw" height="315" width="560"></iframe>
 
 Northland, our beloved school
 
@@ -50,5 +50,3 @@ To you we pledge our loyalty
 For Singapore, for Northland
 
 And us
-
-Your browser does not support this video format. [Northland School Song.wmv](https://northlandpri.moe.edu.sg/qql/slot/u454/About%20Us/School%20Song/Northland%20School%20Song.wmv)

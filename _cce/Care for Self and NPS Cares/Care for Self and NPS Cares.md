@@ -6,4 +6,6 @@ third_nav_title: Care for Self and NPS Cares
 ---
 ![](/images/page%201%20care%20for%20self.jpg)
 
-![](/images/page%202%20nps%20cares.jpg)
+![](/images/cce%20website-%20nps%20care%20link%20.jpg)
+
+[NPS Cares Link](https://form.gov.sg/60d84995a9bcd8001181b630)
