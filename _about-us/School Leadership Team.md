@@ -87,7 +87,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-iks7">Mdm Pauline Cheong</td>
-    <td class="tg-iks7">Year Head - Primary 1</td>
+    <td class="tg-iks7">Year Head - Primary 1 / Subject Head - Partnership</td>
     <td class="tg-iks7">cheong_siew_lan_pauline@schools.gov.sg</td>
   </tr>
   <tr>
