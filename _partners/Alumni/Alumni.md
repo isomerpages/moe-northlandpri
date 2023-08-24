@@ -33,4 +33,4 @@ In alignment with the school’s mission of learners growing to serve, former st
 
   
 
-We regularly update our Social Media Sites, so do check them out! For enquiries, please email us at [nps.alumni@gmail.com](mailto:nps.alumni@gmail.com).
+For enquiries, please email us at [ hello@npsalumni.sg]( hello@npsalumni.sg)
