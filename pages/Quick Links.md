@@ -57,7 +57,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-qnc0"><a rel="noopener noreferrer" target="_blank" href="https://sites.google.com/moe.edu.sg/ict-resources-nps/home/ict-tools"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">ICT Repository @ NPS</span></a></td>
-    <td class="tg-eqyb"><a href="https://form.gov.sg/62f05fd5d7b4560012d98070"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">Waitlist Application</span></a></td>
+    <td class="tg-eqyb"><a href="https://form.gov.sg/64fad1e6ac16050012155998"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">Waitlist Application</span></a></td>
     <td class="tg-qnc0"><a rel="noopener noreferrer" target="_blank" href="https://sites.google.com/moe.edu.sg/ict-resources-nps/home/ict-tools"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">ICT Repository @ NPS</span></a></td>
   </tr>
   <tr>
