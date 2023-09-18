@@ -16,12 +16,16 @@ description: ""
   vertical-align:top}
 .tg .tg-i7g1{background-color:#ffffc7;border-color:#000000;color:#1A62FF;font-size:20px;font-weight:bold;text-align:left;
   text-decoration:underline;vertical-align:top}
+.tg .tg-wfjz{border-color:#000000;color:#3531ff;font-size:20px;text-align:left;vertical-align:top}
 .tg .tg-l4pv{border-color:#000000;font-size:20px;text-align:left;vertical-align:top}
-.tg .tg-fog0{background-color:#ffffc7;border-color:#000000;color:#1a62ff;font-size:20px;text-align:left;text-decoration:underline;
-  vertical-align:top}
 .tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table style="undefined;table-layout: fixed; width: 1019px" class="tg">
+<colgroup>
+<col style="width: 300.333333px">
+<col style="width: 375.333333px">
+<col style="width: 343.333333px">
+</colgroup>
 <thead>
   <tr>
     <th class="tg-tkr5">Students</th>
@@ -42,7 +46,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-qnc0"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/login"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">Student Learning Space [SLS]</span></a></td>
-    <td class="tg-eqyb"><a href="https://drive.google.com/file/d/1hLdYdmn2d3ESbQuNqzu4EH9goRQTTVHS/view?usp=sharing"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">School Related Services</span></a></td>
+    <td class="tg-eqyb"><a href="https://drive.google.com/file/d/1TvIXDtW0xrjueFuak1DUFLnVzhvU15Sz/view?usp=share_link"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">School Related Services</span></a></td>
     <td class="tg-qnc0"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/login"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">Student Learning Space [SLS]</span></a></td>
   </tr>
   <tr>
@@ -52,17 +56,17 @@ description: ""
   </tr>
   <tr>
     <td class="tg-qnc0"><a rel="noopener noreferrer" target="_blank" href="https://schoolibrary.moe.edu.sg/northlandpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">OPAC [Library Resources]</span></a></td>
-    <td class="tg-eqyb">P1 Phase 2B Registration</td>
+    <td class="tg-eqyb"><a rel="noopener noreferrer" target="_blank" href="https://form.gov.sg/60d29bb5ef7afb00120cbee1">Application for Leave of Absence</a></td>
     <td class="tg-qnc0"><a rel="noopener noreferrer" target="_blank" href="https://schoolibrary.moe.edu.sg/northlandpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">OPAC [Library Resources]</span></a></td>
   </tr>
   <tr>
     <td class="tg-qnc0"><a rel="noopener noreferrer" target="_blank" href="https://sites.google.com/moe.edu.sg/ict-resources-nps/home/ict-tools"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">ICT Repository @ NPS</span></a></td>
-    <td class="tg-eqyb"><a href="https://form.gov.sg/64fad1e6ac16050012155998"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">Waitlist Application</span></a></td>
+    <td class="tg-eqyb"><a href="https://form.gov.sg/62f05fd5d7b4560012d98070"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">Waitlist Application</span></a></td>
     <td class="tg-qnc0"><a rel="noopener noreferrer" target="_blank" href="https://sites.google.com/moe.edu.sg/ict-resources-nps/home/ict-tools"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">ICT Repository @ NPS</span></a></td>
   </tr>
   <tr>
     <td class="tg-i7g1"><a rel="noopener noreferrer" target="_blank" href="https://sites.google.com/moe.edu.sg/npsblendedlearning2021/home"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">Blend IT!</span></a></td>
-    <td class="tg-l4pv"></td>
+    <td class="tg-wfjz"></td>
     <td class="tg-qnc0"><a rel="noopener noreferrer" target="_blank" href="https://scmobile.moe.edu.sg/login"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">SCMobile</span></a></td>
   </tr>
   <tr>
@@ -73,7 +77,7 @@ description: ""
   <tr>
     <td class="tg-qnc0"><a rel="noopener noreferrer" target="_blank" href="https://form.gov.sg/60d84995a9bcd8001181b630"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">NPS Cares</span></a></td>
     <td class="tg-l4pv"></td>
-    <td class="tg-fog0"><a rel="noopener noreferrer" target="_blank" href="https://icon.moe.edu.sg/">iCON</a></td>
+    <td class="tg-qnc0"><a rel="noopener noreferrer" target="_blank" href="http://icon.moe.edu.sg/"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">iCon e</span></a>mail</td>
   </tr>
   <tr>
     <td class="tg-l4pv"></td>
