@@ -8,7 +8,7 @@ third_nav_title: Parent Support
 
 ![](/images/ph2b%20flow%20chart.jpg)
 
-Parent volunteer application is closed. Thank you for your interest in serving our school.
+**Parent volunteer application is closed. Thank you for your interest in serving our school.**
 
 **Please email [chamPS@nps.edu.sg](chamPS@nps.edu.sg) if you have any queries.**
 
