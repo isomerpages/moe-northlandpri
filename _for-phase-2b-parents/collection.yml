@@ -2,4 +2,4 @@ collections:
   for-phase-2b-parents:
     output: true
     order:
-      - Example Title.md
+      - For Phase 2B Parents.md
