@@ -1,8 +1,7 @@
 ---
-title: Phase 2B
-permalink: /partners/parent-support-champs/phase-2b/
+title: For Phase 2B Parents
+permalink: /for-phase-2b-parents/permalink/
 description: ""
-third_nav_title: Parent Support
 ---
 ### Registration process
 
