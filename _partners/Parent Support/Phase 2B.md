@@ -10,7 +10,7 @@ third_nav_title: Parent Support
 
 Parent volunteer application is closed. Thank you for your interest in serving our school.
 
-**Please email chamPS@nps.edu.sg if you have any queries.**
+**Please email [chamPS@nps.edu.sg](chamPS@nps.edu.sg) if you have any queries.**
 
 ### Details on Phase 2B registration
 
