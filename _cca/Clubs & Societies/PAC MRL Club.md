@@ -4,6 +4,8 @@ permalink: /ccas/clubs-n-societies/pac-mrl-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Yg26z7499kA?si=O_uCa7k2voxyyeuM" height="315" width="560"></iframe>
+
 ### Objectives &amp; Activities
 
 1.  To understand and learn how a library functions.
