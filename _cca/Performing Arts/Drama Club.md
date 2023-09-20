@@ -4,6 +4,8 @@ permalink: /ccas/performing-arts/drama-club/
 description: ""
 third_nav_title: Performing Arts
 ---
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/YhLuy4s8bmQ?si=QTMRI-lIEZur5BhC" height="315" width="560"></iframe>
+
 ### Objectives &amp; Activities
 
 1.  Speech and voice: Clarity of speech and good projection of voice.

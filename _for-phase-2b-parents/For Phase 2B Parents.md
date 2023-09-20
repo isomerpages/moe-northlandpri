@@ -1,6 +1,6 @@
 ---
 title: For Phase 2B Parents
-permalink: /for-phase-2b-parents/permalink/
+permalink: /for-phase-2b-parents/
 description: ""
 ---
 ### Registration process
