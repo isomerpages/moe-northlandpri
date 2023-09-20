@@ -4,6 +4,8 @@ permalink: /ccas/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
 ---
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Etr2Qa-71sA?si=8QG5ZSMFgBJfyT9Q" height="315" width="560"></iframe>
+
 ### Objectives &amp; Activities
 
 1.  To develop a love for singing and appreciation for music by song learning and theory building.
