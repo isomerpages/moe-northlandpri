@@ -4,6 +4,8 @@ permalink: /ccas/performing-arts/chinese-cultural-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/_IyR3Ei0G-k?si=Pz3YyFZg9zBkd0fB" height="315" width="560"></iframe>
+
 ### Objectives and Activities
 
 1.  To cultivate the student’s interest in Chinese dance.
