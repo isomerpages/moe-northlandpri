@@ -4,6 +4,8 @@ permalink: /ccas/sports/football/
 description: ""
 third_nav_title: Sports
 ---
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/G--zgP0h6FI?si=3jUQ7FtNXPGlUVMk" height="315" width="560"></iframe>
+
 ### Objectives &amp; Activities
 
 1.  Fun Aerobics activities incorporating small-sided games.
