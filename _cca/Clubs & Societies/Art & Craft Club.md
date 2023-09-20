@@ -4,7 +4,7 @@ permalink: /ccas/clubs-n-societies/art-n-craft-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/3eD9tn0n2Y8?si=J7GMf70uQKR118sJ" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/3eD9tn0n2Y8?si=U6LH1oXkdi-lv08M" height="315" width="560"></iframe>
 
 ### Objectives &amp; Activities
 1.  To develop in the members a passion for art making and the ability to appreciate art.
