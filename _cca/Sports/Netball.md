@@ -4,6 +4,8 @@ permalink: /ccas/sports/netball/
 description: ""
 third_nav_title: Sports
 ---
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Xzagez1qhdQ?si=gAliHnn7GkXsgCwy" height="315" width="560"></iframe>
+
 ### Objectives &amp; Activities
 
 1.  To equip students with basic netball-handling skills

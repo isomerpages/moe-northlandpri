@@ -4,6 +4,8 @@ permalink: /ccas/uniformed-groups/brownies/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/S9ixAhPj0hE?si=TA04xxFSOl6Hx6gz" height="315" width="560"></iframe>
+
 ### Objectives &amp; Activities
 
 1.  Students are given opportunities each session to lead the badge presentation and lead team activities for the brownies.
