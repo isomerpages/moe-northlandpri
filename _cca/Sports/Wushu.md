@@ -4,7 +4,7 @@ permalink: /ccas/sports/wushu/
 description: ""
 third_nav_title: Sports
 ---
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gYWdaNeu0II?si=-Xb9YTLmOhtI9Nm6" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gYWdaNeu0II?si=KyAajzMIMv-titBM" height="315" width="560"></iframe>
 
 ### Objectives &amp; Activities
 
