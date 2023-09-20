@@ -4,6 +4,8 @@ permalink: /ccas/clubs-n-societies/chess-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MlbXnouU3rY?si=ow7ovsODeVwF9juq" height="315" width="560"></iframe>
+
 ### Objectives &amp; Activities
 
 1.  Players are grouped according to their abilities in playing chess. New and non-school team members are trained in playing chess progressively by our chess teachers.
