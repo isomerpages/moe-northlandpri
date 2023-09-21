@@ -4,7 +4,7 @@ permalink: /ccas/uniformed-groups/brownies/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/S9ixAhPj0hE?si=TA04xxFSOl6Hx6gz" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/S9ixAhPj0hE?si=60Y3bU3p4sZhGOBo" height="315" width="560"></iframe>
 
 ### Objectives &amp; Activities
 

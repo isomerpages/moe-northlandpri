@@ -2,11 +2,12 @@
 title: Phase 2B
 permalink: /partners/parent-support-champs/phase-2b/
 description: ""
-third_nav_title: Parent Support
 ---
 ### Registration process
 
 ![](/images/ph2b%20flow%20chart.jpg)
+
+Click this link to [apply](https://form.gov.sg/63a3c4a8bfdaca0012b3b4dc) to be a Phase 2B parent volunteer.
 
 **Parent volunteer application is closed. Thank you for your interest in serving our school.**
 
