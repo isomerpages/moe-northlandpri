@@ -6,3 +6,13 @@ layout: post
 description: ""
 image: ""
 ---
+Dear Parents,
+Please take note of the following details for the Admin Day exercise:
+
+**Date     :             Friday, 13th October 2023**
+
+**Time    :             2.30pm to 4.30pm**
+
+**Venue  :             School Hall**
+
+See you soon.
