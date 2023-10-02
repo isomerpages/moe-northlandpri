@@ -15,4 +15,8 @@ please take note of the following details for the Admin Day exercise:
 
 **Venue  :             School Hall**
 
+Please refer to this [file](https://drive.google.com/file/d/15Oflsng_wKrPFRCXCwbmaLLeO1tzx2zo/view?usp=sharing) for more details. 
+
+Kindly download the MOE App - Parent Gateway - before you attend the admin day.
+
 See you soon.
