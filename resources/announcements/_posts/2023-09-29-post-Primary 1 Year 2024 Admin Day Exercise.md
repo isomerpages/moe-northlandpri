@@ -17,6 +17,6 @@ please take note of the following details for the Admin Day exercise:
 
 Please refer to this [file](https://drive.google.com/file/d/15Oflsng_wKrPFRCXCwbmaLLeO1tzx2zo/view?usp=sharing) for more details. 
 
-Kindly download the MOE App - Parent Gateway - before you attend the admin day.
+Kindly download the MOE App - Parent Gateway - before you attend the admin day. Log in with your SINGPASS and do not log out so that you can receive updates and information from MOE and school.
 
 See you soon.
