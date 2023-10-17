@@ -6,3 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+Dear Parents,
+Please access the files for the briefing slides:
+
+1) 
