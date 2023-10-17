@@ -55,12 +55,12 @@ description: ""
   </tr>
   <tr>
     <td class="tg-qnc0"><a rel="noopener noreferrer" target="_blank" href="https://www.koobits.com/"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">Koobits</span></a></td>
-    <td class="tg-eqyb"><a href="mailto:nps.alumni@gmail.com"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">Alumni Contact</span></a></td>
+    <td class="tg-eqyb"><a rel="noopener noreferrer" target="_blank" href="mailto:nps.alumni@gmail.com"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">Alumni Contact</span></a></td>
     <td class="tg-qnc0"><a rel="noopener noreferrer" target="_blank" href="https://www.koobits.com/"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">Koobits</span></a></td>
   </tr>
   <tr>
     <td class="tg-qnc0"><a rel="noopener noreferrer" target="_blank" href="https://schoolibrary.moe.edu.sg/northlandpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">OPAC [Library Resources]</span></a></td>
-    <td class="tg-eqyb"><a rel="noopener noreferrer" target="_blank" href="https://form.gov.sg/62f05fd5d7b4560012d98070"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">Waitlist Application</span></a></td>
+    <td class="tg-eqyb"><a rel="noopener noreferrer" target="_blank" href="https://form.gov.sg/64fad1e6ac16050012155998">Waitlist Application</a></td>
     <td class="tg-qnc0"><a rel="noopener noreferrer" target="_blank" href="https://schoolibrary.moe.edu.sg/northlandpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">OPAC [Library Resources]</span></a></td>
   </tr>
   <tr>
