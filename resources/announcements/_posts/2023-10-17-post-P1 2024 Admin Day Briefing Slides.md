@@ -8,6 +8,8 @@ image: ""
 ---
 Dear Parents, you may click on the link(s) to access the briefing slides.
 
+1) [](/files/Announcements/nascans%20scc.pdf)
+
 1) [Nascans](https://drive.google.com/file/d/1_GdzHn90lL4ysF0KSm45-H2y0nNe1yBZ/view?usp=sharing)
 
 2) [chamPS](https://drive.google.com/file/d/1aSIxYMldUDrEw2CWpehgFCdr9YROPn0c/view?usp=sharing)
