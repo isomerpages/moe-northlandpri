@@ -1,6 +1,14 @@
 ---
 title: School Newsletters
 permalink: /school-highlights/schoolnewsletters/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+Keen to know what's happening in NPS over the semester? Click on the newsletters to find out more!
+
+
+
+| Issue #63 |  |  |
+| -------- | -------- | -------- |
+| [Click here!]()    |    |    |
+
