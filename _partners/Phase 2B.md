@@ -2,14 +2,15 @@
 title: Phase 2B
 permalink: /partners/parent-support-champs/phase-2b/
 description: ""
+variant: markdown
 ---
 ### Registration process
 
-![](/images/ph2b%20flow%20chart.jpg)
+Click [HERE](https://docs.google.com/presentation/d/1of3CrNvAxH54cfKy0wvPn3ruzsXmKUn_/edit?usp=drive_link&amp;ouid=116210711647935446268&amp;rtpof=true&amp;sd=true) to know more about the process.
 
-Click this link to [apply](https://form.gov.sg/63a3c4a8bfdaca0012b3b4dc) to be a Phase 2B parent volunteer.
+[APPLY](https://form.gov.sg/655eb22194071300128dfd86) to be a Phase 2B parent volunteer.
 
-**Parent volunteer application is closed. Thank you for your interest in serving our school.**
+**Do note that applications will open on 2 January  and close on 31 March yearly.**
 
 **Please email [chamPS@nps.edu.sg](chamPS@nps.edu.sg) if you have any queries.**
 
