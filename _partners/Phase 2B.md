@@ -10,7 +10,7 @@ Click [HERE](https://docs.google.com/presentation/d/1of3CrNvAxH54cfKy0wvPn3ruzsX
 
 [APPLY](https://form.gov.sg/655eb22194071300128dfd86) to be a Phase 2B parent volunteer.
 
-**Do note that applications will close on 31 March yearly.**
+**Do note that applications will open on 2 January  and close on 31 March yearly.**
 
 **Please email [chamPS@nps.edu.sg](chamPS@nps.edu.sg) if you have any queries.**
 
