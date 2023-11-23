@@ -8,7 +8,9 @@ Keen to know what's happening in NPS over the semester? Click on the newsletters
 
 
 
-| Issue #63 |  |  |
+| [Issue #63]() |  |  |
 | -------- | -------- | -------- |
-| [Click here!]()    |    |    |
+|     |     |     |
+
+
 
