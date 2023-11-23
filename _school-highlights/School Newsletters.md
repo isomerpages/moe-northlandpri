@@ -8,9 +8,9 @@ Keen to know what's happening in NPS over the semester? Click on the newsletters
 
 
 
-| [Issue #63]() |  |  |
+| [Issue #63]() | Stay tuned! | Stay tuned! |
 | -------- | -------- | -------- |
-|     |     |     |
+|  Stay tuned!   | Stay tuned!    |  Stay tuned!   |
 
 
 
