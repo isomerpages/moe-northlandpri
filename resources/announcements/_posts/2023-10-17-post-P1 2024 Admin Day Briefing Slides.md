@@ -1,10 +1,11 @@
 ---
 title: P1 2024 Admin Day Briefing Slides
-permalink: /resources/announcements/permalink/
+permalink: /resources/announcements/permalink/p1adminday/
 date: 2023-10-17
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 Dear Parents, you may click on the link(s) to access the briefing slides.
 

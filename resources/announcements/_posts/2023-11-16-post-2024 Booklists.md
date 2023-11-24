@@ -1,6 +1,6 @@
 ---
 title: 2024 Booklists
-permalink: /resources/announcements/permalink/
+permalink: /resources/announcements/permalink/booklist/
 date: 2023-11-16
 layout: post
 description: ""
