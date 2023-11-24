@@ -5,7 +5,7 @@ date: 2023-10-17
 layout: post
 description: ""
 image: ""
-variant: tiptap
+variant: markdown
 ---
 Dear Parents, you may click on the link(s) to access the briefing slides.
 
