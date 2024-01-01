@@ -405,8 +405,6 @@ Year Head: [Mr Shahrul Fadly Bin Abd Rahman](mailto:shahrul_fadly_abd_rahman@sch
   overflow:hidden;padding:10px 10px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 10px;word-break:normal;}
-.tg .tg-ycr8{background-color:#ffffff;text-align:left;vertical-align:top}
-.tg .tg-pr8h{background-color:#ffffff;color:#00E;text-align:left;text-decoration:underline;vertical-align:top}
 .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-378s{border-color:#000000;font-weight:bold;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;
   vertical-align:top;will-change:transform}
@@ -414,6 +412,8 @@ Year Head: [Mr Shahrul Fadly Bin Abd Rahman](mailto:shahrul_fadly_abd_rahman@sch
   vertical-align:top;will-change:transform}
 .tg .tg-jbyd{background-color:#ffffff;border-color:#000000;text-align:center;vertical-align:top}
 .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+.tg .tg-c6of{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-yfjw{background-color:#ffffff;border-color:inherit;color:#00E;text-align:left;text-decoration:underline;vertical-align:top}
 .tg .tg-1txt{background-color:#ffffc7;border-color:#000000;text-align:center;vertical-align:top}
 .tg .tg-tqgz{background-color:#ffffc7;border-color:#000000;text-align:left;vertical-align:top}
 .tg .tg-mfhl{background-color:#ffffc7;border-color:inherit;text-align:center;vertical-align:top}
@@ -421,12 +421,13 @@ Year Head: [Mr Shahrul Fadly Bin Abd Rahman](mailto:shahrul_fadly_abd_rahman@sch
 .tg .tg-w4w7{background-color:#FFF;border-color:#000000;text-align:center;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-mcds{background-color:#ffffc7;border-color:inherit;color:#00E;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-m9r4{background-color:#ffffc7;text-align:left;vertical-align:top}
 </style>
-<table style="undefined;table-layout: fixed; width: 619px" class="tg">
+<table style="undefined;table-layout: fixed; width: 647px" class="tg">
 <colgroup>
-<col style="width: 73.333333px">
-<col style="width: 251.333333px">
-<col style="width: 294.333333px">
+<col style="width: 77.333333px">
+<col style="width: 262.333333px">
+<col style="width: 307.333333px">
 </colgroup>
 <thead>
   <tr>
@@ -442,9 +443,9 @@ Year Head: [Mr Shahrul Fadly Bin Abd Rahman](mailto:shahrul_fadly_abd_rahman@sch
     <td class="tg-iks7"><a rel="noopener noreferrer" target="_blank" href="mailto:nor_hansni_riduan@schools.gov.sg">nor_hansni_riduan@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-ycr8"></td>
-    <td class="tg-ycr8">Mr Tan Kay Chye, Wilson</td>
-    <td class="tg-pr8h"><a rel="noopener noreferrer" target="_blank" href="mailto:tan_kay_chye_wilson@schools.gov.sg">tan_kay_chye_wilson@schools.gov.sg</a></td>
+    <td class="tg-c6of"></td>
+    <td class="tg-c6of">Mr Tan Kay Chye, Wilson</td>
+    <td class="tg-yfjw"><a rel="noopener noreferrer" target="_blank" href="mailto:tan_kay_chye_wilson@schools.gov.sg">tan_kay_chye_wilson@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-1txt">4B</td>
@@ -505,6 +506,11 @@ Year Head: [Mr Shahrul Fadly Bin Abd Rahman](mailto:shahrul_fadly_abd_rahman@sch
     <td class="tg-mfhl"></td>
     <td class="tg-ncd7">Mrs Priscilla Tay</td>
     <td class="tg-mcds"><a rel="noopener noreferrer" target="_blank" href="mailto:khoo_xian_hui@schools.gov.sg">khoo_xian_hui@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td class="tg-m9r4"></td>
+    <td class="tg-m9r4">Mrs Joyce Lau</td>
+    <td class="tg-m9r4"><a rel="noopener noreferrer" target="_blank" href="mailto:chua_choon_guek@schools.gov.sg">chua_choon_guek@schools.gov.sg</a></td>
   </tr>
 </tbody>
 </table>
