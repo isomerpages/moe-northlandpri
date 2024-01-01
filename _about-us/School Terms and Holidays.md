@@ -2,352 +2,202 @@
 title: School Terms and Holidays
 permalink: /about-us/permalink/
 description: ""
+variant: markdown
 ---
-### School Terms
-
+### School Terms 2024
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
-.tg .tg-oaxy{background-color:#FFF;border-color:#ffffff;color:#484848;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-6k18{background-color:#FFF;border-color:#ffffff;color:#323232;font-weight:bold;position:-webkit-sticky;position:sticky;
-  text-align:left;top:-1px;vertical-align:top;will-change:transform}
-.tg .tg-dost{border-color:#ffffff;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;vertical-align:top;
-  will-change:transform}
-.tg .tg-t4sp{background-color:#FFF;border-color:#ffffff;color:#484848;text-align:left;vertical-align:top}
-</style>
-<table style="undefined;table-layout: fixed; width: 512px" class="tg">
-<colgroup>
-<col style="width: 101px">
-<col style="width: 301px">
-<col style="width: 110px">
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2" class="tg-6k18"><span style="font-weight:bold;color:#323232">Semester 1</span></th>
-    <th class="tg-dost"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-t4sp">Term 1</td>
-    <td class="tg-t4sp">Wednesday 4 Jan to Friday 10 March 2023</td>
-    <td class="tg-zv4m"></td>
-  </tr>
-  <tr>
-    <td class="tg-t4sp">Term 2</td>
-    <td class="tg-t4sp">Monday 20 March to Friday 26 May 2023</td>
-    <td class="tg-zv4m"></td>
-  </tr>
-  <tr>
-    <td colspan="2" class="tg-oaxy"><span style="font-weight:bold">Semester 2</span></td>
-    <td class="tg-zv4m"></td>
-  </tr>
-  <tr>
-    <td class="tg-t4sp">Term 3</td>
-    <td class="tg-t4sp">Monday 26 June to Friday 1 Sept 2023</td>
-    <td class="tg-zv4m"></td>
-  </tr>
-  <tr>
-    <td class="tg-t4sp">Term 4</td>
-    <td class="tg-t4sp">Monday 11 Sept to Friday 17 Nov 2023</td>
-    <td class="tg-zv4m"></td>
-  </tr>
-</tbody>
-</table>
-
-### School Holidays 2023
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-mrw1{background-color:#FFF;border-color:#ffffff;color:#484848;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
-.tg .tg-oaxy{background-color:#FFF;border-color:#ffffff;color:#484848;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-6k18{background-color:#FFF;border-color:#ffffff;color:#323232;font-weight:bold;position:-webkit-sticky;position:sticky;
-  text-align:left;top:-1px;vertical-align:top;will-change:transform}
-.tg .tg-dost{border-color:#ffffff;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;vertical-align:top;
-  will-change:transform}
-.tg .tg-t4sp{background-color:#FFF;border-color:#ffffff;color:#484848;text-align:left;vertical-align:top}
-</style>
-<table style="undefined;table-layout: fixed; width: 712px" class="tg">
-<colgroup>
-<col style="width: 201px">
-<col style="width: 401px">
-<col style="width: 110px">
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2" class="tg-6k18"><span style="font-weight:bold;color:#323232">Semester 1</span></th>
-    <th class="tg-dost"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Between Term 1 and 2</span></td>
-    <td class="tg-mrw1"><span style="text-decoration:underline;background-color:#FFF">Saturday 11 March</span> <span style="font-weight:400;font-style:inherit;color:#000">to</span> <span style="text-decoration:underline;background-color:#FFF">Sunday 19 March</span> <span style="font-weight:400;font-style:inherit;color:#000">2023</span></td>
-    <td class="tg-zv4m"></td>
-  </tr>
-  <tr>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Between Semester 1 &amp; 2</span></td>
-    <td class="tg-mrw1"><span style="text-decoration:underline;background-color:#FFF">Saturday 27 May</span> <span style="font-weight:400;font-style:inherit;color:#000">to</span> <span style="text-decoration:underline;background-color:#FFF">Sunday 25 June</span> <span style="font-weight:400;font-style:inherit;color:#000">2023</span></td>
-    <td class="tg-zv4m"></td>
-  </tr>
-  <tr>
-    <td colspan="2" class="tg-oaxy"><span style="font-weight:bold">Semester 2</span></td>
-    <td class="tg-zv4m"></td>
-  </tr>
-  <tr>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Between Term 3 and 4</span></td>
-    <td class="tg-mrw1"><span style="text-decoration:underline;background-color:#FFF">Saturday 2 Sept</span> <span style="font-weight:400;font-style:inherit;color:#000">to</span> <span style="text-decoration:underline;background-color:#FFF">Sunday 10 Sept</span> <span style="font-weight:400;font-style:inherit;color:#000">2023</span></td>
-    <td class="tg-zv4m"></td>
-  </tr>
-  <tr>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">At End of School Year</span></td>
-    <td class="tg-mrw1"><span style="text-decoration:underline;background-color:#FFF">Saturday 18 Nov</span> <span style="font-weight:400;font-style:inherit;color:#000">to</span> <span style="text-decoration:underline;background-color:#FFF">Sunday 31 Dec</span> <span style="font-weight:400;font-style:inherit;color:#000">2023</span></td>
-    <td class="tg-zv4m"></td>
-  </tr>
-</tbody>
-</table>
-
-### Scheduled School Public Holidays
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x5ly{background-color:#ffffff;border-color:#ffffff;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;
+.tg .tg-16o3{border-color:#323232;font-size:26px;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;
   vertical-align:top;will-change:transform}
-.tg .tg-s9yu{background-color:#ffffff;border-color:#ffffff;color:#323232;text-align:left;vertical-align:top}
-.tg .tg-oxg6{background-color:#ffffff;border-color:#ffffff;color:#484848;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-wgzr{background-color:#ffffff;border-color:#ffffff;color:#484848;text-align:left;vertical-align:top}
+.tg .tg-b6d3{border-color:#323232;font-size:18px;text-align:left;vertical-align:top}
+.tg .tg-1pim{background-color:#ffffc7;border-color:#323232;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-4ii1{border-color:#323232;font-size:26px;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table style="undefined;table-layout: fixed; width: 602px" class="tg">
+<table style="undefined;table-layout: fixed; width: 466px" class="tg">
 <colgroup>
-<col style="width: 301px">
-<col style="width: 301px">
+<col style="width: 183.333333px">
+<col style="width: 282.333333px">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-x5ly">Semester 1</th>
-    <th class="tg-x5ly"></th>
+    <th colspan="2" class="tg-16o3">Semester 1</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-s9yu"><span style="font-weight:400;font-style:inherit;color:#000">New Year’s Day</span></td>
-    <td class="tg-s9yu"><span style="font-weight:400;font-style:inherit;color:#000">Sunday, 1 Jan 2023</span></td>
+    <td class="tg-b6d3">Term 1</td>
+    <td class="tg-b6d3">2 January* to 8 March</td>
   </tr>
   <tr>
-    <td class="tg-s9yu"><span style="font-weight:400;font-style:inherit;color:#000">Post New Year’s Day</span></td>
-    <td class="tg-s9yu"><span style="font-weight:400;font-style:inherit;color:#000">Monday, 2 Jan 2023</span></td>
+    <td class="tg-b6d3">Term 2</td>
+    <td class="tg-b6d3">18 March to 24 May</td>
   </tr>
   <tr>
-    <td class="tg-oxg6"><span style="font-weight:400;font-style:inherit;color:#000">Chinese New Year</span></td>
-    <td class="tg-oxg6"><span style="font-weight:400;font-style:inherit;color:#000">Sunday &amp; Monday, 22 - 23 Jan 2023</span></td>
+    <td colspan="2" class="tg-1pim">* Primary 1 will start school on 2 January.<br>Primary 2 to Primary 6 will start on 3 January.</td>
   </tr>
   <tr>
-    <td class="tg-wgzr"><span style="font-weight:400;font-style:inherit;color:#000">Good Friday</span></td>
-    <td class="tg-wgzr"><span style="font-weight:400;font-style:inherit;color:#000">Friday, 7 April 2023</span></td>
+    <td colspan="2" class="tg-4ii1"><span style="font-weight:bold">Semester 2</span></td>
   </tr>
   <tr>
-    <td class="tg-wgzr"><span style="font-weight:400;font-style:inherit;color:#000">Hari Raya Puasa</span></td>
-    <td class="tg-wgzr"><span style="font-weight:400;font-style:inherit;color:#000">Saturday, 22 April 2023</span></td>
+    <td class="tg-b6d3">Term 3</td>
+    <td class="tg-b6d3">24 June to 30 August</td>
   </tr>
   <tr>
-    <td class="tg-oxg6"><span style="font-weight:400;font-style:inherit;color:#000">Labour Day</span></td>
-    <td class="tg-oxg6"><span style="font-weight:400;font-style:inherit;color:#000">Monday, 1 May 2023</span></td>
-  </tr>
-  <tr>
-    <td class="tg-wgzr"><span style="font-weight:400;font-style:inherit;color:#000">Vesak Day</span></td>
-    <td class="tg-wgzr"><span style="font-weight:400;font-style:inherit;color:#000">Saturday,3 June 2023</span></td>
+    <td class="tg-b6d3">Term 4</td>
+    <td class="tg-b6d3">9 September to 15 November</td>
   </tr>
 </tbody>
 </table>
 
+### School Holidays 2024
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x5ly{background-color:#ffffff;border-color:#ffffff;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;
+.tg .tg-qp22{border-color:#323232;font-size:18px;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;
   vertical-align:top;will-change:transform}
-.tg .tg-oaxy{background-color:#FFF;border-color:#ffffff;color:#484848;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-f47c{background-color:#FFF;border-color:#ffffff;color:#323232;text-align:left;vertical-align:top}
-.tg .tg-t4sp{background-color:#FFF;border-color:#ffffff;color:#484848;text-align:left;vertical-align:top}
-.tg .tg-wgzr{background-color:#ffffff;border-color:#ffffff;color:#484848;text-align:left;vertical-align:top}
+.tg .tg-b6d3{border-color:#323232;font-size:18px;text-align:left;vertical-align:top}
 </style>
-<table style="undefined;table-layout: fixed; width: 602px" class="tg">
+<table style="undefined;table-layout: fixed; width: 567px" class="tg">
 <colgroup>
-<col style="width: 301px">
-<col style="width: 301px">
+<col style="width: 271.333333px">
+<col style="width: 295.333333px">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-x5ly">Semester 2</th>
-    <th class="tg-x5ly"></th>
+    <th class="tg-qp22">Between Terms 1 and 2</th>
+    <th class="tg-qp22">9 March to 17 March</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-f47c"><span style="font-weight:400;font-style:inherit;color:#000">Youth Day</span></td>
-    <td class="tg-f47c"><span style="font-weight:400;font-style:inherit;color:#000">Monday, 3 July 2023</span></td>
+    <td class="tg-b6d3">Between Semester 1 and 2</td>
+    <td class="tg-b6d3">25 May to 23 June</td>
   </tr>
   <tr>
-    <td class="tg-f47c"><span style="font-weight:400;font-style:inherit;color:#000">Hari Raya Haji</span></td>
-    <td class="tg-f47c"><span style="font-weight:400;font-style:inherit;color:#000">Thursday, 29 June 2023</span></td>
+    <td class="tg-b6d3">Between Terms 3 and 4</td>
+    <td class="tg-b6d3">31 August to 8 September</td>
   </tr>
   <tr>
-    <td class="tg-f47c"><span style="font-weight:400;font-style:inherit;color:#000">National Day</span></td>
-    <td class="tg-f47c"><span style="font-weight:400;font-style:inherit;color:#000">Wednesday, 9 Aug 2023</span></td>
-  </tr>
-  <tr>
-    <td class="tg-oaxy"><span style="font-weight:400;font-style:inherit;color:#000">Post National Day</span></td>
-    <td class="tg-oaxy"><span style="font-weight:400;font-style:inherit;color:#000">Thursday, 10 Aug 2023</span></td>
-  </tr>
-  <tr>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Teacher’s Day</span></td>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Friday, 1 Sept 2023</span></td>
-  </tr>
-  <tr>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Childrens’ Day</span></td>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Friday, 6 Oct 2023</span></td>
-  </tr>
-  <tr>
-    <td class="tg-oaxy"><span style="font-weight:400;font-style:inherit;color:#000">Deepavali</span></td>
-    <td class="tg-oaxy"><span style="font-weight:400;font-style:inherit;color:#000">Sunday, 12 Nov 2023</span></td>
-  </tr>
-  <tr>
-    <td class="tg-wgzr"><span style="font-weight:400;font-style:inherit;color:#000">Christmas</span></td>
-    <td class="tg-wgzr"><span style="font-weight:400;font-style:inherit;color:#000">Monday, 25 Dec 2023</span></td>
+    <td class="tg-b6d3">At End of School Year</td>
+    <td class="tg-b6d3">16 November to 31 December</td>
   </tr>
 </tbody>
 </table>
 
-### Public Holidays 2023
+### Public Holidays 2024
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
+  overflow:hidden;padding:5px 3px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x5ly{background-color:#ffffff;border-color:#ffffff;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;
+  font-weight:normal;overflow:hidden;padding:5px 3px;word-break:normal;}
+.tg .tg-oats{background-color:#ffffc7;border-color:#323232;font-size:18px;text-align:left;vertical-align:top}
+.tg .tg-qp22{border-color:#323232;font-size:18px;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;
   vertical-align:top;will-change:transform}
-.tg .tg-oaxy{background-color:#FFF;border-color:#ffffff;color:#484848;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-f47c{background-color:#FFF;border-color:#ffffff;color:#323232;text-align:left;vertical-align:top}
-.tg .tg-t4sp{background-color:#FFF;border-color:#ffffff;color:#484848;text-align:left;vertical-align:top}
+.tg .tg-b6d3{border-color:#323232;font-size:18px;text-align:left;vertical-align:top}
+.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
 </style>
-<table style="undefined;table-layout: fixed; width: 703px" class="tg">
+<table style="undefined;table-layout: fixed; width: 538px" class="tg">
 <colgroup>
-<col style="width: 101px">
-<col style="width: 201px">
-<col style="width: 401px">
+<col style="width: 99.333333px">
+<col style="width: 182.333333px">
+<col style="width: 256.33333300000004px">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-x5ly">Semester 1</th>
-    <th class="tg-x5ly"></th>
-    <th class="tg-x5ly"></th>
+    <th rowspan="2" class="tg-qp22">Term 1</th>
+    <th class="tg-qp22">New Year's Day</th>
+    <th class="tg-qp22">1 January</th>
+  </tr>
+  <tr>
+    <th class="tg-qp22">Chinese New Year</th>
+    <th class="tg-qp22">10 February<br>11 February*</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-f47c"><span style="font-weight:400;font-style:inherit;color:#000">Term 1</span></td>
-    <td class="tg-f47c"><span style="font-weight:400;font-style:inherit;color:#000">New Year’s Day</span></td>
-    <td class="tg-f47c"><span style="font-weight:normal;color:#323232;background-color:#FFF">Sunday, 1 Jan 2023</span></td>
+    <td rowspan="4" class="tg-oats">Term 2</td>
+    <td class="tg-oats">Good Friday</td>
+    <td class="tg-oats">29 March</td>
   </tr>
   <tr>
-    <td class="tg-oaxy"><span style="font-weight:400;font-style:inherit;color:#000">Term 1</span></td>
-    <td class="tg-oaxy"><span style="font-weight:400;font-style:inherit;color:#000">Chinese New Year</span></td>
-    <td class="tg-t4sp"><span style="background-color:#FFF">Sunday &amp; Monday, 22 - 23 Jan 2023</span></td>
+    <td class="tg-oats">Hari Raya Puasa</td>
+    <td class="tg-oats">10 April</td>
   </tr>
   <tr>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Term 2</span></td>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Good Friday</span></td>
-    <td class="tg-t4sp"><span style="background-color:#FFF">Friday, 7 April 2023</span></td>
+    <td class="tg-oats">Labour Day</td>
+    <td class="tg-oats">1 May</td>
   </tr>
   <tr>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Term 2</span></td>
-    <td class="tg-t4sp"><span style="font-weight:inherit;font-style:inherit;background-color:initial">Hari Raya Puasa</span></td>
-    <td class="tg-t4sp"><span style="background-color:#FFF">Saturday, 22 April 2023</span></td>
+    <td class="tg-oats">Vesak Day</td>
+    <td class="tg-oats">22 May</td>
   </tr>
   <tr>
-    <td class="tg-oaxy"><span style="font-weight:400;font-style:inherit;color:#000">Term 2</span></td>
-    <td class="tg-oaxy"><span style="font-weight:400;font-style:inherit;color:#000">Labour Day</span></td>
-    <td class="tg-t4sp"><span style="background-color:#FFF">Monday, 1 May 2023</span></td>
+    <td rowspan="2" class="tg-b6d3">Term 3</td>
+    <td class="tg-b6d3">Hari Raya Haji</td>
+    <td class="tg-b6d3">17 June</td>
   </tr>
   <tr>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Term 2</span></td>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Vesak Day</span></td>
-    <td class="tg-t4sp"><span style="font-weight:inherit;font-style:inherit;background-color:initial">Saturday, 3 June 2023</span></td>
+    <td class="tg-b6d3">National Day</td>
+    <td class="tg-b6d3">9 August</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="tg-oats">Term 4</td>
+    <td class="tg-oats">Deepavali</td>
+    <td class="tg-oats">31 October</td>
+  </tr>
+  <tr>
+    <td class="tg-oats">Christmas Day</td>
+    <td class="tg-oats">25 December</td>
+  </tr>
+  <tr>
+    <td colspan="3" class="tg-73oq">* 12 February will be public holiday and 13 February will be a school holiday and a designated off-in-lieu. Schools will be closed, including the General Office and Student Care Centres.</td>
   </tr>
 </tbody>
 </table>
 
+### Scheduled School Holiday 2024
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
+  overflow:hidden;padding:5px 3px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-shyv{background-color:#FFF;border-color:#ffffff;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-x5ly{background-color:#ffffff;border-color:#ffffff;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;
+  font-weight:normal;overflow:hidden;padding:5px 3px;word-break:normal;}
+.tg .tg-4hib{border-color:#000000;font-size:18px;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;
   vertical-align:top;will-change:transform}
-.tg .tg-oaxy{background-color:#FFF;border-color:#ffffff;color:#484848;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-f47c{background-color:#FFF;border-color:#ffffff;color:#323232;text-align:left;vertical-align:top}
-.tg .tg-jjsp{background-color:#FFF;border-color:#ffffff;text-align:left;vertical-align:top}
-.tg .tg-t4sp{background-color:#FFF;border-color:#ffffff;color:#484848;text-align:left;vertical-align:top}
+.tg .tg-qttf{background-color:#ffffc7;border-color:#000000;font-size:18px;text-align:left;vertical-align:top}
+.tg .tg-fo4n{background-color:#ffffff;border-color:#000000;font-size:18px;text-align:left;vertical-align:top}
+.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
 </style>
-<table style="undefined;table-layout: fixed; width: 703px" class="tg">
+<table style="undefined;table-layout: fixed; width: 469px" class="tg">
 <colgroup>
-<col style="width: 101px">
-<col style="width: 201px">
-<col style="width: 401px">
+<col style="width: 165.333333px">
+<col style="width: 303.333333px">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-x5ly">Semester 2</th>
-    <th class="tg-x5ly"></th>
-    <th class="tg-x5ly"></th>
+    <th class="tg-4hib">Youth Day</th>
+    <th class="tg-4hib">30 June*</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-f47c"><span style="font-weight:400;font-style:inherit;color:#000">Term 3</span></td>
-    <td class="tg-f47c"><span style="font-weight:400;font-style:inherit;color:#000">Hari Raya Haji</span></td>
-    <td class="tg-f47c"><span style="font-weight:inherit;font-style:inherit;background-color:initial">Thursday, 29 June 2023</span></td>
+    <td class="tg-qttf">Teacher's Day</td>
+    <td class="tg-qttf">30 August</td>
   </tr>
   <tr>
-    <td class="tg-shyv"><span style="font-weight:400;font-style:inherit;color:#000">Term 3</span></td>
-    <td class="tg-shyv"><span style="font-weight:400;font-style:inherit;color:#000">National Day</span></td>
-    <td class="tg-jjsp"><span style="font-weight:inherit;font-style:inherit;background-color:initial">Wednesday, 9 Aug 2023</span></td>
+    <td class="tg-fo4n">Children's Day</td>
+    <td class="tg-fo4n">4 October</td>
   </tr>
   <tr>
-    <td class="tg-f47c"><span style="font-weight:400;font-style:inherit;color:#000">Term 3</span></td>
-    <td class="tg-f47c"><span style="font-weight:400;font-style:inherit;color:#000">Teacher’s Day</span></td>
-    <td class="tg-jjsp"><span style="font-weight:inherit;font-style:inherit;background-color:initial">Friday, 1 Sept 2023</span></td>
-  </tr>
-  <tr>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Term 4</span></td>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Childrens’ Day</span></td>
-    <td class="tg-jjsp"><span style="font-weight:inherit;font-style:inherit;background-color:initial">Friday, 6 Oct 2023</span></td>
-  </tr>
-  <tr>
-    <td class="tg-oaxy"><span style="font-weight:400;font-style:inherit;color:#000">Term 4</span></td>
-    <td class="tg-oaxy"><span style="font-weight:400;font-style:inherit;color:#000">Deepavali</span></td>
-    <td class="tg-jjsp"><span style="font-weight:inherit;font-style:inherit;background-color:initial">Sunday, 12 Nov 2023</span></td>
-  </tr>
-  <tr>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Term 4</span></td>
-    <td class="tg-t4sp"><span style="font-weight:400;font-style:inherit;color:#000">Christmas</span></td>
-    <td class="tg-jjsp"><span style="font-weight:inherit;font-style:inherit;background-color:initial">Monday, 25 Dec 2023</span></td>
+    <td colspan="2" class="tg-73oq">* 1 July will be a school holiday</td>
   </tr>
 </tbody>
 </table>
