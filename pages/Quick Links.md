@@ -2,6 +2,7 @@
 title: Quick Links
 permalink: /quick-links/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -50,7 +51,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-qnc0"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/login"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">Student Learning Space [SLS]</span></a></td>
-    <td class="tg-eqyb"><a rel="noopener noreferrer" target="_blank" href="https://drive.google.com/file/d/1mP8ADJpKuK6WoGQ2TWSaUe3SWU6Q24Dm/view?usp=sharing">School Related Services</a></td>
+    <td class="tg-eqyb"><a rel="noopener noreferrer" target="_blank" href="https://drive.google.com/file/d/1_N6KYl9W-fnRH47rPQavg7v_ndUl7XKv/view?usp=sharing">School Related Services</a></td>
     <td class="tg-qnc0"><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/login"><span style="font-weight:400;font-style:normal;text-decoration:underline;color:#1A62FF">Student Learning Space [SLS]</span></a></td>
   </tr>
   <tr>
