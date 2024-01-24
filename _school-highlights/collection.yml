@@ -1,0 +1,9 @@
+collections:
+  school-highlights:
+    output: true
+    order:
+      - School Newsletters.md
+      - Aesthetics ARTSbassadors.md
+      - 35th Anniversary.md
+      - Learning Fiesta.md
+      - Sports Day.md

@@ -1,0 +1,33 @@
+logo: /images/logo.jpg
+links:
+  - title: ABOUT US
+    collection: about-us
+  - title: DEPARTMENTS
+    url: /departments/english/
+    sublinks:
+      - title: English
+        url: /departments/english/
+      - title: Mathematics
+        url: /departments/mathematics/
+      - title: Science
+        url: /departments/science/
+      - title: Mother Tongue Languages
+        url: /departments/mother-tongue-languages/chinese-language/
+      - title: Character & Citizenship
+        url: /departments/character-n-citizenship-education/
+      - title: Aesthetics
+        url: /departments/aesthetics/
+      - title: Physical Education
+        url: /departments/physical-education/
+      - title: ICT
+        url: /departments/infocomm-technology/
+      - title: Leadership & Discipline
+        url: /departments/student-leadership-n-discipline/
+  - title: CCA
+    collection: cca
+  - title: PARTNERS
+    collection: partners
+  - title: Staff
+    collection: staff
+  - title: Quick Links
+    url: /quick-links/

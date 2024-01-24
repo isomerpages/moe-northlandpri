@@ -1,0 +1,20 @@
+collections:
+  partners:
+    output: true
+    order:
+      - Phase 2B.md
+      - Partners.md
+      - Alumni/.keep
+      - Alumni/Alumni.md
+      - Alumni/History.md
+      - Alumni/Membership.md
+      - Alumni/Contact Us.md
+      - SAC.md
+      - Parent Support/.keep
+      - Parent Support/Parent Support (chamPS).md
+      - Parent Support/chamPS identity.md
+      - Parent Support/chamPS history.md
+      - Parent Support/Dads For Life.md
+      - Community.md
+      - Education/.keep
+      - Education/Naval Base Secondary School.md

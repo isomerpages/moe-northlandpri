@@ -1,0 +1,24 @@
+collections:
+  uniquely-northland:
+    output: true
+    order:
+      - Eco–literacy Programme.md
+      - Experiential Learning/.keep
+      - Experiential Learning/BlendIT!.md
+      - Experiential Learning/Level Camps.md
+      - Leadership @ NPS.md
+      - Learning Dispositions.md
+      - Learning Fiesta.md
+      - Mother Tongue Cultural Experiences.md
+      - My Store, My Stage (LLP).md
+      - Sports and Outdoor Experiences in NPS.md
+      - Thinking Programme (ALP)/.keep
+      - Thinking Programme (ALP)/Chess.md
+      - Thinking Programme (ALP)/Code for Fun.md
+      - Thinking Programme (ALP)/Makerspace.md
+      - Thinking Programme (ALP)/Project Work.md
+      - Thinking Programme (ALP)/Thinking Skills.md
+      - Values In Action/.keep
+      - Values In Action/Changemakers.md
+      - Values In Action/SAY.md
+      - Values In Action/Passion.md

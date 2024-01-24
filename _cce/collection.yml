@@ -1,0 +1,20 @@
+collections:
+  cce:
+    output: true
+    order:
+      - Character & Citizenship Education.md
+      - Care for Self and NPS Cares/.keep
+      - Care for Self and NPS Cares/Care for Self and NPS Cares.md
+      - Care for Self and NPS Cares/Joy Jots.md
+      - Curriculum.md
+      - Cyberwellness.md
+      - Educational Career Guidance.md
+      - Environment Education.md
+      - National Education.md
+      - Positive Discipline.md
+      - Special Education Needs.md
+      - Student Leadership/.keep
+      - Student Leadership/Student Leadership.md
+      - Student Leadership/BEACONS.md
+      - Values Education.md
+      - Values In Action.md
