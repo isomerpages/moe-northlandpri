@@ -2,10 +2,11 @@
 title: Mathematics
 permalink: /departments/mathematics/
 description: ""
+variant: markdown
 ---
 ![](/images/maths_1.jpg)
 
-![](/images/maths_2.jpg)
+![](/images/2.jpg)
 
 ![](/images/maths_3.jpg)
 
