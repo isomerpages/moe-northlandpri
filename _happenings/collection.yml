@@ -2,6 +2,5 @@ collections:
   happenings:
     output: true
     order:
-      - P6 Oral Workshop.md
       - Special Events.md
       - Newsletter.md
