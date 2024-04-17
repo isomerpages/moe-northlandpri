@@ -20,7 +20,7 @@ variant: tiptap
 <p>Laboratory Tech</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noraine</p>
+<p>Mdm Lissy</p>
 </td>
 </tr>
 <tr>
@@ -33,26 +33,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Desktop Engineer (DE)</p>
+<p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Mdm Jagadesan Saraswathy</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Desktop Engineer (DE)</p>
+<p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr&nbsp;Ong Chuan&nbsp;Hyu</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
