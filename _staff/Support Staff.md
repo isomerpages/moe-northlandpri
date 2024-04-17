@@ -17,10 +17,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Laboratory Tech</p>
+<p>Laboratory Technician</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lissy</p>
+<p>Mdm Lissy Kozhikottu</p>
 </td>
 </tr>
 <tr>
