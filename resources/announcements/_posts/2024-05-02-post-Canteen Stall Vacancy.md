@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p><strong>There is a vacancy for stallholder in Northland Primary School selling Non-halal Vegetarian OR Thai OR Japanese OR Korean food</strong>
 </p>
-<p><strong>&nbsp;</strong><a href="https://drive.google.com/file/d/12cQHNHFbnyN94mhyDNyK11mAQo5YAoYZ/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Form as attached</a><strong> and available at the General office during schooling days &amp; office hours.</strong>
+<p><strong>&nbsp;</strong><a href="https://drive.google.com/file/d/12cQHNHFbnyN94mhyDNyK11mAQo5YAoYZ/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Form as attached</a><strong> and available at the General office during school and office hours.</strong>
 </p>
 <p><strong>&nbsp;For any enquiries, you may contact us at 6759 8884. &nbsp;</strong>
 </p>
