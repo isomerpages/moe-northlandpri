@@ -25,7 +25,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jay Mahardale</p>
+<p><a href="jay_mahardale@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jay Mahardale</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal</p>
@@ -37,7 +38,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Richard Chong Choong Hian</p>
+<p><a href="chong_choong_hian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Richard Chong Choong Hian</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
