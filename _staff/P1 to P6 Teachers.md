@@ -7,7 +7,12 @@ variant: tiptap
 <h1>Primary 1 2024</h1>
 <p>Year Head: <a href="mailto:ganesan_arumugan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ganesan s/o Arumugan</a>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -217,7 +222,12 @@ variant: tiptap
 <h1>Primary 2 2024</h1>
 <p>Year Head: <a href="mailto:cheong_siew_lan_pauline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pauline Cheong</a>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -475,7 +485,12 @@ variant: tiptap
 <h1>Primary 3 2024</h1>
 <p>Year Head: <a href="mailto:asmawati_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Asmawati Ganesan</a>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -529,10 +544,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Shu Rong</p>
+<p>Mrs Ellis Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_shu_rong@schools.gov.sg" rel="noopener noreferrer" target="_blank">goh_shu_rong@schools.gov.sg</a>
+<p><a href="mailto:tan_qiu_qing_ellis@schools.gov.sg" rel="noopener noreferrer" target="_blank">goh_shu_rong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -649,6 +664,18 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Sun Siew Jhen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="sun_siew_jhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sun_siew_jhen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Aishah Bte Abdul Jalil</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -661,7 +688,12 @@ variant: tiptap
 <h1>Primary 4 2024</h1>
 <p>Year Head: <a href="mailto:shahrul_fadly_abd_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Shahrul Fadly Bin Abd Rahman</a>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -859,7 +891,12 @@ variant: tiptap
 <h1>Primary 5 2024</h1>
 <p>Year Head: <a href="mailto:teo_choy_yim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Teo Choy Yim</a>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1021,7 +1058,12 @@ variant: tiptap
 <h1>Primary 6 2024</h1>
 <p>Year Head:<a href="mailto:siti_ardah_iskandar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Siti Ardah Hazry</a>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
