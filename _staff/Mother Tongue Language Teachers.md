@@ -22,9 +22,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zheng_junren@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zheng Junren </a>郑竣仁&nbsp;&nbsp;
-<br><em>Senior Teacher</em>
-</p>
+<p><a href="mailto:zheng_junren@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zheng Junren </a>郑竣仁</p>
 </td>
 </tr>
 <tr>
@@ -132,9 +130,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_rosmala_rahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Rosmala Rahmat </a>
+<p><a href="mailto:siti_rosmala_rahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Rosmala Rahmat</a>
 </p>
-<p><em>Malay Mother Tongue Co-ordinator</em>
+<p><em>Malay Mother Tongue Coordinator</em>
 </p>
 </td>
 </tr>
@@ -178,7 +176,6 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:anandhi_nagaraja@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Anandhi d/o Nagaraja</a>
-<br><em>Subject Head, Malay &amp; Tamil Languages</em>
 </p>
 </td>
 </tr>
