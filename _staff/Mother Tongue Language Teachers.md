@@ -4,7 +4,7 @@ permalink: /mother-tongue-language-teachers/
 variant: tiptap
 description: ""
 ---
-<h2>Chinese Lanugage Teachers</h2>
+<h2>Chinese Language Teachers</h2>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -22,9 +22,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zheng_junren@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zheng Junren </a>郑竣仁&nbsp;&nbsp;
-<br><em>Senior Teacher</em>
-</p>
+<p><a href="mailto:zheng_junren@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zheng Junren </a>郑竣仁</p>
 </td>
 </tr>
 <tr>
@@ -114,8 +112,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:veronica_chen_yijin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Veronica Chen Yijin</a>
-</p>
+<p><a href="mailto:veronica_chen_yijin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Veronica Chen Yijin</a> 陈奕瑾</p>
 </td>
 </tr>
 </tbody>
@@ -135,7 +132,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_rosmala_rahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Rosmala Rahmat</a>
 </p>
-<p><em>Malay Mother Tongue Co-ordinator</em>
+<p><em>Malay Mother Tongue Coordinator</em>
 </p>
 </td>
 </tr>
@@ -179,7 +176,6 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:anandhi_nagaraja@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Anandhi d/o Nagaraja</a>
-<br><em>Subject Head, Malay &amp; Tamil Languages</em>
 </p>
 </td>
 </tr>
