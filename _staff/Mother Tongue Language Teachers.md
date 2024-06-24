@@ -4,7 +4,7 @@ permalink: /mother-tongue-language-teachers/
 variant: tiptap
 description: ""
 ---
-<h2>Chinese Lanugage Teachers</h2>
+<h2>Chinese Language Teachers</h2>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
