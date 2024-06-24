@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h2>SUPPORT STAFF</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -37,14 +41,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Jagadesan Saraswathy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr&nbsp;Ong Chuan&nbsp;Hyu</p>
 </td>
 </tr>
 </tbody>
