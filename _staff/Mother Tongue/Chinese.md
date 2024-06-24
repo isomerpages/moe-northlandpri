@@ -3,28 +3,329 @@ title: Chinese
 permalink: /staff/Mother-Tongue/chinese/
 description: ""
 third_nav_title: Mother Tongue
+variant: tiptap
 ---
-## CHINESE
-
-| Teacher  | Email  |
-|:-:|---|
-| Miss Goh Wang Eng 吴婉瑛   <br>_Head of Department, Mother Tongue_ _Languages_  | [goh\_wang\_eng@schools.gov.sg](mailto:goh_wang_eng@schools.gov.sg)  |
-| Ms Ong Teck Lian 王德亮  <br>_Senior Teacher_  | [ong\_teck\_lian@schools.gov.sg](mailto:ong_teck_lian@schools.gov.sg)  |
-| Mr Zheng Junren 郑竣仁    <br>_Senior Teacher_  | [zheng\_junren@schools.gov.sg](mailto:zheng_junren@schools.gov.sg)  |
-| Mrs  Lee-Liu Lai Feng 廖丽芬  | [liu\_lai\_feng@schools.gov.sg](mailto:liu_lai_feng@schools.gov.sg)  |
-| Mr Joshua Tan Chin Huat 陈进发  | [tan\_chin\_huat@schools.gov.sg](mailto:tan_chin_huat@schools.gov.sg)  |
-| Mrs Joyce Low 张佩仪  | [cheung\_pei\_yi@schools.gov.sg](mailto:cheung_pei_yi@schools.gov.sg)  |
-| Mdm Guo Guiqing 郭桂卿  | [guo\_guiqing@schools.gov.sg](mailto:guo_guiqing@schools.gov.sg)  |
-| Mdm Tay Siew Buay 戴秀梅  | [tay\_siew\_buay@schools.gov.sg](mailto:tay_siew_buay@schools.gov.sg)  |
-| Mrs Lim-Tan Su Xuan 陈姝璇  | [tan\_su\_xuan@schools.gov.sg](mailto:tan_su_xuan@schools.gov.sg)  |
-| Mdm Yap Siok Mei 叶淑梅  | [yap\_siok\_mei@schools.gov.sg](mailto:yap_siok_mei@schools.gov.sg)  |
-| Mdm Yang Yang 杨洋  | [yang\_yang@schools.gov.sg](mailto:yang_yang@schools.gov.sg)  |
-| Mdm Chen Jun 陈君  | [chen\_jun@schools.gov.sg](mailto:chen_jun@schools.gov.sg)  |
-| Mrs Yong-Lin Ziting  林梓婷  | [lin\_ziting@schools.gov.sg](mailto:lin_ziting@schools.gov.sg)  |
-| Miss Vivian Phang Si Ling 方思灵  | [phang\_si\_ling\_vivian@schools.gov.sg](mailto:phang_si_ling_vivian@schools.gov.sg)  |
-| Miss He Huiling Joyce 何慧玲  | [he\_huiling\_joyce@schools.gov.sg](mailto:he_huiling_joyce@schools.gov.sg)  |
-| Miss Joyce Tan  陈以乐  | [joyce\_tan\_ee\_luck@schools.gov.sg](mailto:joyce_tan_ee_luck@schools.gov.sg)  |
-| Mdm Su Xiaojing 苏小静  | [su\_xiaojing@schools.gov.sg](mailto:su_xiaojing@schools.gov.sg)  |
-| Miss Cai Weiling 蔡伟玲  | [cai\_weiling@schools.gov.sg](mailto:cai_weiling@schools.gov.sg)  |
-| Miss Chua Pei Ying 蔡佩瑩  | [chua\_pei\_ying@schools.gov.sg](mailto:chua_pei_ying@schools.gov.sg)  |
-|   |   |
+<h2>CHINESE</h2>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Teacher</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_wang_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_wang_eng@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_wang_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Goh Wang Eng</a>
+</p>
+<p>吴婉瑛</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Zheng Junren</p>
+<p>郑竣仁&nbsp;&nbsp;
+<br><em>Senior Teacher</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zheng_junren@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_junren@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zheng_junren@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zheng Junren</a>
+</p>
+<p>郑竣仁&nbsp;&nbsp;
+<br><em>Senior Teacher</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ong Teck Lian</p>
+<p>王德亮
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_teck_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_teck_lian@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_teck_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Ong Teck Lian</a>
+</p>
+<p>王德亮</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs&nbsp; Lee-Liu Lai Feng</p>
+<p>廖丽芬</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liu_lai_feng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lee-Liu Lai Feng</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liu_lai_feng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lee-Liu Lai Feng</a>
+</p>
+<p>廖丽芬</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Joshua Tan Chin Huat</p>
+<p>陈进发</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_chin_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chin_huat@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_chin_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Chin Huat</a>
+</p>
+<p>陈进发</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Joyce Low</p>
+<p>张佩仪</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheung_pei_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheung_pei_yi@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheung_pei_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joyce Low</a>
+</p>
+<p>张佩仪</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Guo Guiqing</p>
+<p>郭桂卿</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:guo_guiqing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">guo_guiqing@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:guo_guiqing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Guo Guiqing</a>
+</p>
+<p>郭桂卿</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tay Siew Buay</p>
+<p>戴秀梅</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_siew_buay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_siew_buay@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_siew_buay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Tay Siew Buay</a>
+</p>
+<p>戴秀梅</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Lim-Tan Su Xuan</p>
+<p>陈姝璇</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_su_xuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_su_xuan@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_su_xuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lim-Tan Su Xuan</a>
+</p>
+<p>陈姝璇</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yap Siok Mei</p>
+<p>叶淑梅</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yap_siok_mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_siok_mei@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yap_siok_mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Yap Siok Mei</a>
+</p>
+<p>叶淑梅</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yang Yang</p>
+<p>杨洋</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yang_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yang_yang@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yang_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Yang Yang</a>
+</p>
+<p>杨洋</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chen Jun</p>
+<p>陈君</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_jun@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chen Jun</a>
+</p>
+<p>陈君</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Yong-Lin Ziting&nbsp;</p>
+<p>林梓婷</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lin_ziting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_ziting@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lin_ziting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Yong-Lin Ziting</a>
+</p>
+<p>林梓婷</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Phang Si Ling Vivian</p>
+<p>方思灵</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:phang_si_ling_vivian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phang_si_ling_vivian@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:phang_si_ling_vivian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Phang Si Ling Vivian</a>
+</p>
+<p>方思灵</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss He Huiling Joyce</p>
+<p>何慧玲</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:he_huiling_joyce@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">he_huiling_joyce@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:he_huiling_joyce@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss He Huiling Joyce</a>
+</p>
+<p>何慧玲</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Joyce Tan Ee Luck</p>
+<p>陈以乐</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:joyce_tan_ee_luck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joyce_tan_ee_luck@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:joyce_tan_ee_luck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Joyce Tan Ee Luck</a>
+</p>
+<p>陈以乐</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Su Xiaojing</p>
+<p>苏小静</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:su_xiaojing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">su_xiaojing@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:su_xiaojing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Su Xiaojing</a>
+</p>
+<p>苏小静</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Cai Weiling</p>
+<p>蔡伟玲</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cai_weiling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cai_weiling@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cai_weiling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cai Weiling</a>
+</p>
+<p>蔡伟玲</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Chua Pei Ying</p>
+<p>蔡佩瑩</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_pei_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_pei_ying@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_pei_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Chua Pei Ying</a>
+</p>
+<p>蔡佩瑩</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Veronica Chen Yijin</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
