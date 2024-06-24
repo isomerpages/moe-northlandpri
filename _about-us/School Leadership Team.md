@@ -13,37 +13,37 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Name</p>
+<p>Designation</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Designation</p>
+<p>Name</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><a href="jay_mahardale@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jay Mahardale</a>
-</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Principal</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><a href="chong_choong_hian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Richard Chong Choong Hian</a>
+<p><a href="mailto:jay_mahardale@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jay Mahardale</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="lee_quee_choo_gina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Gina Cho</a>
-</p>
+<p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:chong_choong_hian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Richard Chong Choong Hian</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_quee_choo_gina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Gina Cho</a>
+</p>
 </td>
 </tr>
 </tbody>
