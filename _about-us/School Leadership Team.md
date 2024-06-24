@@ -230,7 +230,7 @@ variant: tiptap
 <p>Level Head - Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nor_afiza_abdul_hamid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Afiza Binte Abdul Hamid</a>
+<p><a href="mailto:nor_afiza_abdul_hamid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Afiza Abdul Hamid</a>
 </p>
 </td>
 </tr>
