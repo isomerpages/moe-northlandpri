@@ -5,7 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h2>ALLIED EDUCATORS</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -17,18 +22,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Email</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Counselling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Caryn Zou</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:caryn_zou_jiawei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">caryn_zou_jiawei@schools.gov.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
