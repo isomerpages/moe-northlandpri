@@ -2,10 +2,10 @@ collections:
   staff:
     output: true
     order:
-      - Mother Tongue Language Teachers.md
       - P1 to P6 Teachers.md
-      - Mother Tongue/Mother Tongue Teachers.md
+      - Mother Tongue Language Teachers.md
       - Mother Tongue/.keep
+      - Mother Tongue/Mother Tongue Teachers.md
       - Allied Educators.md
       - Executive Admin Support.md
       - Support Staff.md
