@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Mother Tongue
 variant: tiptap
 ---
-<h2>CHINESE Teachers</h2>
+<h2>Chinese Lanugage Teachers</h2>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -121,10 +121,52 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<h2>TAMIL</h2>
+<h2>Malay Language Teachers</h2>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teacher</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_rosmala_rahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Rosmala Rahmat</a>
+</p>
+<p><em>Malay Mother Tongue Co-ordinator</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yuanna_salamat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Yuanna Salamat</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_hajar_bujang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Hajar Bujang</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fauzani_azima_mawi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fauzani Azima Mawi</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fadilah_abdul_rahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fadilah Abdul Rahim</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Tamil Language Teachers</h2>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
