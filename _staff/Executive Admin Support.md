@@ -5,7 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h2>EXECUTIVE ADMIN SUPPORT</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

@@ -3,10 +3,7 @@ collections:
     output: true
     order:
       - P1 to P6 Teachers.md
-      - Mother Tongue/.keep
-      - Mother Tongue/Chinese.md
-      - Mother Tongue/Malay.md
-      - Mother Tongue/Tamil.md
+      - Mother Tongue Language Teachers.md
       - Allied Educators.md
       - Executive Admin Support.md
       - Support Staff.md
