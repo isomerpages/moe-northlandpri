@@ -68,7 +68,7 @@ variant: tiptap
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kumara_rajan_kanagasabai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kumara Rajan Kanagasabai</a>
+<p><a href="mailto:kumara_rajan_kanagasabai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kumara Rajan s/o Kanagasabai</a>
 </p>
 </td>
 </tr>
@@ -113,7 +113,7 @@ variant: tiptap
 <p>HOD - Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:menhanah_masudi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Menhanah Bte Masudi</a>
+<p><a href="mailto:menhanah_masudi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Menhanah Masudi</a>
 </p>
 </td>
 </tr>
@@ -185,7 +185,7 @@ variant: tiptap
 <p>Year Head - Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shahrul_fadly_abd_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Shahrul Fadly Bin Abd Rahman</a>
+<p><a href="mailto:shahrul_fadly_abd_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Shahrul Fadly Abd Rahman</a>
 </p>
 </td>
 </tr>
