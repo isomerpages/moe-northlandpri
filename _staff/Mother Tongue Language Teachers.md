@@ -114,7 +114,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:veronica_chen_yijin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Veronica Chen Yijin</a>
+<p><a href="mailto:veronica_chen_yijin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Veronica Chen Yijin 陈奕瑾</a>
 </p>
 </td>
 </tr>
