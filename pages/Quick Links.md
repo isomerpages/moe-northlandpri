@@ -56,7 +56,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/presentation/d/1Nv5yIt6NNf7Sx8Mr_0t4t-LPL-SoiNH3Tg0OffYjQh4/edit?usp=sharing" rel="noopener noreferrer" target="_blank">School Related Services</a>
+<p><a href="https://drive.google.com/file/d/1Fuhb3-FVDoEzc-TNd3Zw7ZzmwOej3gCK/view?usp=sharing" rel="noopener noreferrer" target="_blank">School Related Services</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
