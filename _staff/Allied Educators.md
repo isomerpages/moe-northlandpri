@@ -5,9 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h2>ALLIED EDUCATORS</h2>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -19,19 +18,13 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>AED</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Email</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Senior SEN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Hafizah Hamir</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_hafizah_hamir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hafizah_hamir@schools.gov.sg</a>
+<p><a href="mailto:nur_hafizah_hamir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Hafizah Hamir</a>
 </p>
 </td>
 </tr>
@@ -40,10 +33,16 @@ variant: tiptap
 <p>SEN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr A Divian</p>
+<p><a href="mailto:a_divian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr A Divian</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:a_divian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">a_divian@schools.gov.sg</a>
+<p><a href="mailto:ong_ban_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ong Ban Teng</a>
 </p>
 </td>
 </tr>
@@ -52,10 +51,7 @@ variant: tiptap
 <p>T &amp; L</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Ang Yeh Ray</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ang_yeh_ray@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_yeh_ray@schools.gov.sg</a>
+<p><a href="mailto:ang_yeh_ray@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Ang Yeh Ray</a>
 </p>
 </td>
 </tr>
