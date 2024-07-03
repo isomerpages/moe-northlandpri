@@ -4,7 +4,12 @@ permalink: /quick-links/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -51,7 +56,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/11Hj3rNsU2cow6pPIFP90j9aGbB2A5GvM/view?usp=sharing" rel="noopener noreferrer" target="_blank">School Related Services</a>
+<p><a href="https://docs.google.com/presentation/d/1Nv5yIt6NNf7Sx8Mr_0t4t-LPL-SoiNH3Tg0OffYjQh4/edit?usp=sharing" rel="noopener noreferrer" target="_blank">School Related Services</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
