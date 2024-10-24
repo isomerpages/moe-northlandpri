@@ -4,8 +4,10 @@ permalink: /cca/ccas/
 description: ""
 variant: tiptap
 ---
-<p><a href="https://youtu.be/KEybdflAj8A" rel="noopener nofollow" target="_blank">CCA Video</a>
-</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/KEybdflAj8A?si=w4H7Zp8ecDoIMBW5"></iframe>
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
