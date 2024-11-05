@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <p>Dear Parents,</p>
-<p>Please refer to this <a href="https://drive.google.com/file/d/1eMQz7KOgUFsmw8JlCLmnaLMaNPtU6jYO/view?usp=sharing" rel="noopener nofollow" target="_blank">deck of slides</a> for
+<p>Please refer to this <a href="https://drive.google.com/file/d/1eMQz7KOgUFsmw8JlCLmnaLMaNPtU6jYO/view?usp=drive_link" rel="noopener nofollow" target="_blank">deck of slides</a> for
 the information.</p>
 <p></p>
 <p>Regards,</p>
