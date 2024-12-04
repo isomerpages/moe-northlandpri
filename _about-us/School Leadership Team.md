@@ -33,7 +33,7 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_choong_hian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Richard Chong Choong Hian</a>
+<p><a href="mailto:chong_choong_hian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chong Choong Hian</a>
 </p>
 </td>
 </tr>
