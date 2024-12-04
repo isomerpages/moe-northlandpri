@@ -240,11 +240,11 @@ variant: tiptap
 <p>Learning Support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sarina_rahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sarina Rahmat</a>
-</p>
 <p><a href="mailto:angrini_sawal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Angrini Sawal</a>
 </p>
 <p><a href="mailto:ho-chan_hui_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ho-Chan Hui Lin</a>
+</p>
+<p><a href="mailto:sarina_rahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sarina Rahmat</a>
 </p>
 </td>
 </tr>
@@ -340,9 +340,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chitra_devi_v_ramalingam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Chitra Thirumaran</a>
 </p>
-<p><a href="mailto:teo_wan_churn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tham Wan Churn</a>
-</p>
 <p><a href="mailto:nurfaizah_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurfaizah Ismail</a>
+</p>
+<p><a href="mailto:teo_wan_churn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tham Wan Churn</a>
 </p>
 </td>
 </tr>
