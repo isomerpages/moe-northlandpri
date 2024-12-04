@@ -123,7 +123,7 @@ at <a href="https://www.moe.gov.sg/calendar" rel="noopener noreferrer nofollow" 
 </td>
 <td rowspan="1" colspan="1">
 <p>* 6 July
-<br><em>(The following Mon 7 July will be a school holiday)</em>
+<br><em>(The following Monday, 7 July, will be a school holiday)</em>
 </p>
 </td>
 </tr>
