@@ -83,15 +83,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD - Mother Tongue Languages</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:goh_wang_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Goh Wang Eng</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD - Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,19 +119,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD - Physical Education &amp; CCA</p>
+<p>HOD - PAM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ganesan_arumugan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ganesan s/o Arumugan</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD - Aesthetics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_bee_ping_germaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Lee Bee Ping Germaine</a>
 </p>
 </td>
 </tr>
@@ -158,7 +140,7 @@ variant: tiptap
 <p>Year Head - Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ganesan_arumugan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ganesan s/o Arumugan</a>
+<p><a href="mailto:cheong_siew_lan_pauline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pauline Cheong</a>
 </p>
 </td>
 </tr>
@@ -167,7 +149,7 @@ variant: tiptap
 <p>Year Head - Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_siew_lan_pauline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pauline Cheong</a>
+<p><a href="mailto:ganesan_arumugan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ganesan s/o Arumugan</a>
 </p>
 </td>
 </tr>
@@ -176,7 +158,7 @@ variant: tiptap
 <p>Year Head - Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:asmawati_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Asmawati Ganesan</a>
+<p><a href="mailto:siti_ardah_iskandar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Siti Ardah Hazry</a>
 </p>
 </td>
 </tr>
@@ -185,7 +167,7 @@ variant: tiptap
 <p>Year Head - Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shahrul_fadly_abd_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Shahrul Fadly Abd Rahman</a>
+<p><a href="mailto:asmawati_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Asmawati Ganesan</a>
 </p>
 </td>
 </tr>
@@ -194,7 +176,7 @@ variant: tiptap
 <p>Year Head - Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_choy_yim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Teo Choy Yim</a>
+<p><a href="mailto:shahrul_fadly_abd_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Shahrul Fadly Abd Rahman</a>
 </p>
 </td>
 </tr>
@@ -203,7 +185,7 @@ variant: tiptap
 <p>Year Head - Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_ardah_iskandar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Siti Ardah Hazry</a>
+<p><a href="mailto:teo_choy_yim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Teo Choy Yim</a>
 </p>
 </td>
 </tr>
@@ -222,6 +204,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_qiu_qing_ellis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ellis Chua</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head - Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="low_shi_hui_fiona@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Fiona Lin</a>
 </p>
 </td>
 </tr>
@@ -272,6 +263,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Subject Head - EdTech</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="yuanna_salamat@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Yuanna Salamat</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -304,6 +304,15 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Name</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:asmawati_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Asmawati Ganesan</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
