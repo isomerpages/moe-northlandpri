@@ -4,7 +4,7 @@ permalink: /staff/eas/
 description: ""
 variant: tiptap
 ---
-<h2>EXECUTIVE ADMIN SUPPORT</h2>
+<h2>EXECUTIVE ADMIN SUPPORT </h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
