@@ -2,7 +2,7 @@ collections:
   staff:
     output: true
     order:
-      - P1 to P6 Teachers.md
+      - P1 to P6 Form Teachers.md
       - Mother Tongue Language Teachers.md
       - Allied Educators.md
       - Executive Admin Support.md
