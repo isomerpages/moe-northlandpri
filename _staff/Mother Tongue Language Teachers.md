@@ -17,11 +17,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_wang_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Goh Wang Eng </a>吴婉瑛</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:zheng_junren@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zheng Junren </a>郑竣仁</p>
 </td>
 </tr>
@@ -108,11 +103,6 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_pei_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Chua Pei Ying </a>蔡佩瑩</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:veronica_chen_yijin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Veronica Chen Yijin</a> 陈奕瑾</p>
 </td>
 </tr>
 </tbody>
