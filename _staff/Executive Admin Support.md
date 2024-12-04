@@ -30,7 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Admin Manager</p>
+<p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_lay_geok_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Tan Lay Geok</a>
@@ -39,27 +39,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Admin Executive</p>
+<p>Administration Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:seri_hidayu_shaleh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Seri Hidayu Shaleh</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Admin Executive</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:rohaidzan_mohamed_pilus@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rohaidzan Mohamed Pilus</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Admin Executive</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_noor_nordin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Noor Nordin</a>
 </p>
 </td>
@@ -69,25 +55,11 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_lian_hoe@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Wong Lian Hoe</a>
+<p><a href="mailto:leita_rosanna_redwan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Leita Rosanna Redwan</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:siti_zuraida_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Zuraida Ali</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:leita_rosanna_redwan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Leita Rosanna Redwan</a>
+<p><a href="mailto:wong_lian_hoe@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Wong Lian Hoe</a>
 </p>
 </td>
 </tr>
