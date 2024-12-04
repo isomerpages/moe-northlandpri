@@ -77,7 +77,7 @@ variant: tiptap
 <p>HOD - English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:farah_hasinah_abdul_wahab@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Farah Hasinah</a>
+<p><a href="mailto:farah_hasinah_abdul_wahab@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Farah Hasinah Binte Abdul Wahab</a>
 </p>
 </td>
 </tr>
