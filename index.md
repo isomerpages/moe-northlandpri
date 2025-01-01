@@ -15,7 +15,7 @@ sections:
           description: ""
           url: ""
         - title: Announcements
-          description: Key Highlight description
+          description: ""
           url: ""
       background: /images/statichq.jpg
 ---
