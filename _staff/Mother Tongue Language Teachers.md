@@ -82,11 +82,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:he_huiling_joyce@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss He Huiling Joyce </a>何慧玲</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:joyce_tan_ee_luck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Joyce Tan Ee Luck </a>陈以乐</p>
 </td>
 </tr>
