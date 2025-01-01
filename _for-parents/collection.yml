@@ -1,6 +1,0 @@
-collections:
-  for-parents:
-    output: true
-    order:
-      - For Parents.md
-      - Do You Know?.md
