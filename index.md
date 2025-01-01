@@ -16,6 +16,6 @@ sections:
           url: ""
         - title: Announcements
           description: ""
-          url: ""
+          url: Resources
       background: /images/statichq.jpg
 ---
