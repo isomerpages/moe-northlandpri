@@ -13,6 +13,9 @@ sections:
           url: https://calendar.google.com/calendar/embed?src=parent.calendar%40nps.edu.sg&ctz=Asia%2FSingapore
         - title: School Highlights
           description: ""
-          url: ""
+          url: /moe-northlandpri/folders/school-highlights
+        - title: Announcements
+          description: ""
+          url: /moe-northlandpri/resourceRoom/resources/resourceCategory/announcements
       background: /images/statichq.jpg
 ---
