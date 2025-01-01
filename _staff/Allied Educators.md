@@ -46,6 +46,14 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rachel Chan</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
