@@ -1,5 +1,4 @@
 collections:
   student-development-team:
     output: true
-    order:
-      - Student Development Team.md
+    order: []
