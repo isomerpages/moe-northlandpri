@@ -11,9 +11,6 @@ sections:
         - title: Calendar
           description: ""
           url: https://calendar.google.com/calendar/embed?src=parent.calendar%40nps.edu.sg&ctz=Asia%2FSingapore
-        - title: School Highlights
-          description: ""
-          url: /school-highlights/artsbassadors/
       background: /images/statichq.jpg
   - resources:
       title: Announcements
