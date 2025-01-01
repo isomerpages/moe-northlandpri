@@ -2,202 +2,339 @@
 title: School Terms and Holidays
 permalink: /about-us/permalink/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### School Terms 2024
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-16o3{border-color:#323232;font-size:26px;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;
-  vertical-align:top;will-change:transform}
-.tg .tg-b6d3{border-color:#323232;font-size:18px;text-align:left;vertical-align:top}
-.tg .tg-1pim{background-color:#ffffc7;border-color:#323232;font-size:16px;text-align:left;vertical-align:top}
-.tg .tg-4ii1{border-color:#323232;font-size:26px;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table style="undefined;table-layout: fixed; width: 466px" class="tg">
+<p>The school terms and holidays for 2025 are also listed on the MOE's website
+at <a href="https://www.moe.gov.sg/calendar" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/calendar</a>.</p>
+<h3>School Terms 2025</h3>
+<table style="minWidth: 50px">
 <colgroup>
-<col style="width: 183.333333px">
-<col style="width: 282.333333px">
+<col>
+<col>
 </colgroup>
-<thead>
-  <tr>
-    <th colspan="2" class="tg-16o3">Semester 1</th>
-  </tr>
-</thead>
 <tbody>
-  <tr>
-    <td class="tg-b6d3">Term 1</td>
-    <td class="tg-b6d3">2 January* to 8 March</td>
-  </tr>
-  <tr>
-    <td class="tg-b6d3">Term 2</td>
-    <td class="tg-b6d3">18 March to 24 May</td>
-  </tr>
-  <tr>
-    <td colspan="2" class="tg-1pim">* Primary 1 will start school on 2 January.<br>Primary 2 to Primary 6 will start on 3 January.</td>
-  </tr>
-  <tr>
-    <td colspan="2" class="tg-4ii1"><span style="font-weight:bold">Semester 2</span></td>
-  </tr>
-  <tr>
-    <td class="tg-b6d3">Term 3</td>
-    <td class="tg-b6d3">24 June to 30 August</td>
-  </tr>
-  <tr>
-    <td class="tg-b6d3">Term 4</td>
-    <td class="tg-b6d3">9 September to 15 November</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Semester 1</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 January* to 14 March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24 March to 30 May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>* Primary 1 will start school on 2 January.
+<br>Primary 2 to Primary 6 will start on 3 January.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Semester 2</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30 June to 5 September</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 September to 21 November</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### School Holidays 2024
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-qp22{border-color:#323232;font-size:18px;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;
-  vertical-align:top;will-change:transform}
-.tg .tg-b6d3{border-color:#323232;font-size:18px;text-align:left;vertical-align:top}
-</style>
-<table style="undefined;table-layout: fixed; width: 567px" class="tg">
+<h3>School Holidays 2025</h3>
+<table style="minWidth: 50px">
 <colgroup>
-<col style="width: 271.333333px">
-<col style="width: 295.333333px">
+<col>
+<col>
 </colgroup>
-<thead>
-  <tr>
-    <th class="tg-qp22">Between Terms 1 and 2</th>
-    <th class="tg-qp22">9 March to 17 March</th>
-  </tr>
-</thead>
 <tbody>
-  <tr>
-    <td class="tg-b6d3">Between Semester 1 and 2</td>
-    <td class="tg-b6d3">25 May to 23 June</td>
-  </tr>
-  <tr>
-    <td class="tg-b6d3">Between Terms 3 and 4</td>
-    <td class="tg-b6d3">31 August to 8 September</td>
-  </tr>
-  <tr>
-    <td class="tg-b6d3">At End of School Year</td>
-    <td class="tg-b6d3">16 November to 31 December</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Between Terms 1 &amp; 2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 March to 23 March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Between Semesters 1 &amp; 2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 May to 29 June</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Between Terms 3 &amp; 4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 September to14 September</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>At End of School Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22 November to 31 December</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### Public Holidays 2024
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:5px 3px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:5px 3px;word-break:normal;}
-.tg .tg-oats{background-color:#ffffc7;border-color:#323232;font-size:18px;text-align:left;vertical-align:top}
-.tg .tg-qp22{border-color:#323232;font-size:18px;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;
-  vertical-align:top;will-change:transform}
-.tg .tg-b6d3{border-color:#323232;font-size:18px;text-align:left;vertical-align:top}
-.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
-</style>
-<table style="undefined;table-layout: fixed; width: 538px" class="tg">
+<h3>Scheduled School Holidays 2025</h3>
+<table style="minWidth: 50px">
 <colgroup>
-<col style="width: 99.333333px">
-<col style="width: 182.333333px">
-<col style="width: 256.33333300000004px">
+<col>
+<col>
 </colgroup>
-<thead>
-  <tr>
-    <th rowspan="2" class="tg-qp22">Term 1</th>
-    <th class="tg-qp22">New Year's Day</th>
-    <th class="tg-qp22">1 January</th>
-  </tr>
-  <tr>
-    <th class="tg-qp22">Chinese New Year</th>
-    <th class="tg-qp22">10 February<br>11 February*</th>
-  </tr>
-</thead>
 <tbody>
-  <tr>
-    <td rowspan="4" class="tg-oats">Term 2</td>
-    <td class="tg-oats">Good Friday</td>
-    <td class="tg-oats">29 March</td>
-  </tr>
-  <tr>
-    <td class="tg-oats">Hari Raya Puasa</td>
-    <td class="tg-oats">10 April</td>
-  </tr>
-  <tr>
-    <td class="tg-oats">Labour Day</td>
-    <td class="tg-oats">1 May</td>
-  </tr>
-  <tr>
-    <td class="tg-oats">Vesak Day</td>
-    <td class="tg-oats">22 May</td>
-  </tr>
-  <tr>
-    <td rowspan="2" class="tg-b6d3">Term 3</td>
-    <td class="tg-b6d3">Hari Raya Haji</td>
-    <td class="tg-b6d3">17 June</td>
-  </tr>
-  <tr>
-    <td class="tg-b6d3">National Day</td>
-    <td class="tg-b6d3">9 August</td>
-  </tr>
-  <tr>
-    <td rowspan="2" class="tg-oats">Term 4</td>
-    <td class="tg-oats">Deepavali</td>
-    <td class="tg-oats">31 October</td>
-  </tr>
-  <tr>
-    <td class="tg-oats">Christmas Day</td>
-    <td class="tg-oats">25 December</td>
-  </tr>
-  <tr>
-    <td colspan="3" class="tg-73oq">* 12 February will be public holiday and 13 February will be a school holiday and a designated off-in-lieu. Schools will be closed, including the General Office and Student Care Centres.</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Youth Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>* 6 July
+<br><em>(The following Monday, 7 July, will be a school holiday)</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers' Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 September</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Children's Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 October</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### Scheduled School Holiday 2024
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:5px 3px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:5px 3px;word-break:normal;}
-.tg .tg-4hib{border-color:#000000;font-size:18px;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;
-  vertical-align:top;will-change:transform}
-.tg .tg-qttf{background-color:#ffffc7;border-color:#000000;font-size:18px;text-align:left;vertical-align:top}
-.tg .tg-fo4n{background-color:#ffffff;border-color:#000000;font-size:18px;text-align:left;vertical-align:top}
-.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
-</style>
-<table style="undefined;table-layout: fixed; width: 469px" class="tg">
+<h3>Public Holidays 2025</h3>
+<table style="minWidth: 75px">
 <colgroup>
-<col style="width: 165.333333px">
-<col style="width: 303.333333px">
+<col>
+<col>
+<col>
 </colgroup>
-<thead>
-  <tr>
-    <th class="tg-4hib">Youth Day</th>
-    <th class="tg-4hib">30 June*</th>
-  </tr>
-</thead>
 <tbody>
-  <tr>
-    <td class="tg-qttf">Teacher's Day</td>
-    <td class="tg-qttf">30 August</td>
-  </tr>
-  <tr>
-    <td class="tg-fo4n">Children's Day</td>
-    <td class="tg-fo4n">4 October</td>
-  </tr>
-  <tr>
-    <td colspan="2" class="tg-73oq">* 1 July will be a school holiday</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Term</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Holiday</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>New Year's Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 January</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Chinese New Year</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>29 January</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 January</p>
+</td>
+</tr>
 </tbody>
 </table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Term</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Holiday</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hari Raya Puasa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Good Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18 April</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Labour Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vesak Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 May</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Term</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Holiday</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hari Raya Haji</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7 June*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 August ^</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>* <em>9 June will be a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office, Student Care Centres.</em>
+</p>
+<p></p>
+<p><em>^11 August will be a school holiday and a designated day off-in-lieu (DOIL). Schools will be closed, including the General Office, Student Care Centres.</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Term</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Holiday</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deepavali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 October</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Christmas Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25 December</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

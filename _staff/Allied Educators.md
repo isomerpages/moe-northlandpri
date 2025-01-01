@@ -48,11 +48,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>T &amp; L</p>
+<p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_yeh_ray@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Ang Yeh Ray</a>
-</p>
+<p>Ms Rachel Chan</p>
 </td>
 </tr>
 </tbody>
