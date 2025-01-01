@@ -18,10 +18,4 @@ sections:
   - resources:
       title: Announcements
       button: Click HERE to read more
-  - infopic:
-      title: Uniquely Northland
-      button: Find out More
-      url: /school-highlights/school-newsletters
-      image: /images/Photos Used/Learning Fiesta/p5&6 escape room 2.jpg
-      alt: Image alt text
 ---
