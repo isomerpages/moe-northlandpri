@@ -14,5 +14,8 @@ sections:
         - title: School Highlights
           description: ""
           url: ""
+        - title: Announcements
+          description: Key Highlight description
+          url: ""
       background: /images/statichq.jpg
 ---
