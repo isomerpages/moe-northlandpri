@@ -50,8 +50,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho-chan_hui_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ho-Chan Hui Lin</a>
 </p>
-<p><a href="mailto:yap_siok_mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Yap Siok Mei</a>
-</p>
+<p>Miss Deborah Tsung</p>
 </td>
 </tr>
 <tr>
@@ -94,7 +93,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:normaliza_jaafar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Normaliza Jaafar</a>
 </p>
-<p>Miss Deborah Tsung</p>
+<p><a href="mailto:yap_siok_mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Yap Siok Mei</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -316,7 +316,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:low_shi_hui_fiona@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Fiona Lin</a>
 </p>
-<p><a href="mailto:tan_chin_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Chin Huat</a>
+<p><a href="mailto:tan_su_xuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lim-Tan Su Xuan</a>
 </p>
 </td>
 </tr>
@@ -327,7 +327,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurfaizah_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nurfaizah Ismail</a>
 </p>
-<p><a href="mailto:tan_su_xuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lim-Tan Su Xuan</a>
+<p><a href="mailto:tan_chin_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Chin Huat</a>
 </p>
 <p><a href="mailto:khoo_xian_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Priscilla Tay</a>
 </p>
@@ -428,8 +428,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sun_siew_jhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sun Siew Jhen</a>
 </p>
-<p><a href="mailto:aishah_abdul_jalil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Aishah Abdul Jalil</a>
-</p>
+<p>Ms Chan Mui Ngee</p>
 </td>
 </tr>
 <tr>
