@@ -11,8 +11,8 @@ sections:
         - title: Calendar
           description: ""
           url: https://calendar.google.com/calendar/embed?src=parent.calendar%40nps.edu.sg&ctz=Asia%2FSingapore
+        - title: Announcements
+          description: Click here for announcements
+          url: ""
       background: /images/statichq.jpg
-  - resources:
-      title: Announcements
-      button: Click HERE to read more
 ---
