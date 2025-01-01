@@ -16,6 +16,6 @@ sections:
           url: /moe-northlandpri/folders/school-highlights
         - title: Announcements
           description: ""
-          url: Resources
+          url: /moe-northlandpri/resourceRoom/resources/resourceCategory/announcements
       background: /images/statichq.jpg
 ---
