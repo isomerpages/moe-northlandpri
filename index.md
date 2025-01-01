@@ -13,15 +13,16 @@ sections:
           url: https://calendar.google.com/calendar/embed?src=parent.calendar%40nps.edu.sg&ctz=Asia%2FSingapore
         - title: School Highlights
           description: ""
-          url: /school-highlights/artsbassadors/
+          url: ""
       background: /images/statichq.jpg
-  - resources:
+  - announcements:
       title: Announcements
-      button: Click HERE to read more
-  - infopic:
-      title: Uniquely Northland
-      button: Find out More
-      url: /school-highlights/school-newsletters
-      image: /images/Photos Used/Learning Fiesta/p5&6 escape room 2.jpg
-      alt: Image alt text
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: New Announcement
+          date: 02 January 2025
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
