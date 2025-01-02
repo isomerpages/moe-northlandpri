@@ -16,6 +16,6 @@ sections:
           url: school-highlights
         - title: Announcements
           description: ""
-          url: resourceRoom/resources/resourceCategory/announcements
+          url: Resources
       background: /images/statichq.jpg
 ---
