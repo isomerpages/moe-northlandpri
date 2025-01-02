@@ -98,7 +98,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Book lists for 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://sites.google.com/moe.edu.sg/ict-resources-nps/home/ict-tools" rel="noopener noreferrer" target="_blank"><u>ICT Repository @ NPS</u></a>
