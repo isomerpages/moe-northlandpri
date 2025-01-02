@@ -30,8 +30,8 @@ sections:
           description: Card description
           linktext: Learn more
           url: /reading-tips-for-chinese-mother-tongue-language/
-        - title: Card
-          description: Card description
+        - title: School Newsletters
+          description: ""
           linktext: Learn more
-          url: ""
+          url: /school-highlights/schoolnewsletters/
 ---
