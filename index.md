@@ -25,7 +25,7 @@ sections:
         - title: P6 Oral Workshop
           description: ""
           linktext: Learn more
-          url: /reading-tips-for-chinese-mother-tongue-language/
+          url: /happenings/p6oralworkshop/
         - title: Reading Tips for Chinese Mother Tongue Language
           description: Card description
           linktext: Learn more
