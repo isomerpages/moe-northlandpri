@@ -80,6 +80,4 @@ for improvement and to develop the confidence to push boundaries. Excellence
 is a journey, and we are here to support them at every step.</p>
 <p>Thank you for being an integral part of our Northland School family. We
 look forward to an exciting and successful year ahead.</p>
-<p></p>
-<p></p>
 <p>Regards,</p>
