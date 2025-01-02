@@ -22,10 +22,10 @@ sections:
       title: School Highlights
       id: textcards
       cards:
-        - title: Card
+        - title: P6 Oral Workshop
           description: ""
           linktext: Learn more
-          url: ""
+          url: /reading-tips-for-chinese-mother-tongue-language/
         - title: Card
           description: Card description
           linktext: Learn more
