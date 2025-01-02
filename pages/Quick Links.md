@@ -98,7 +98,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://drive.google.com/drive/folders/1z_zSTAm8W5eP-9ZAggkep8nGokKylLvo?usp=sharing" rel="noopener nofollow" target="_blank">Book Lists 2025</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://sites.google.com/moe.edu.sg/ict-resources-nps/home/ict-tools" rel="noopener noreferrer" target="_blank"><u>ICT Repository @ NPS</u></a>
