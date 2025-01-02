@@ -22,6 +22,10 @@ sections:
       title: School Highlights
       id: textcards
       cards:
+        - title: School Newsletters
+          description: ""
+          linktext: Learn more
+          url: /school-highlights/schoolnewsletters/
         - title: P6 Oral Workshop
           description: ""
           linktext: Learn more
@@ -30,8 +34,4 @@ sections:
           description: Card description
           linktext: Learn more
           url: /reading-tips-for-chinese-mother-tongue-language/
-        - title: School Newsletters
-          description: ""
-          linktext: Learn more
-          url: /school-highlights/schoolnewsletters/
 ---
