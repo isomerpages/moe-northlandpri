@@ -26,10 +26,10 @@ sections:
           description: ""
           linktext: Learn more
           url: /reading-tips-for-chinese-mother-tongue-language/
-        - title: Card
+        - title: Reading Tips for Chinese Mother Tongue Language
           description: Card description
           linktext: Learn more
-          url: ""
+          url: /reading-tips-for-chinese-mother-tongue-language/
         - title: Card
           description: Card description
           linktext: Learn more
