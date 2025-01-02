@@ -82,6 +82,4 @@ is a journey, and we are here to support them at every step.</p>
 look forward to an exciting and successful year ahead.</p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
 <p>Regards,</p>
