@@ -2,72 +2,118 @@
 title: Phase 2B
 permalink: /partners/parent-support-champs/phase-2b/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### Registration process
-
-Click [HERE](https://docs.google.com/presentation/d/1of3CrNvAxH54cfKy0wvPn3ruzsXmKUn_/edit?usp=drive_link&amp;ouid=116210711647935446268&amp;rtpof=true&amp;sd=true) to know more about the process.
-
-[APPLY](https://form.gov.sg/655eb22194071300128dfd86) to be a Phase 2B parent volunteer.
-
-**Do note that applications will open on 2 January  and close on 31 March yearly.**
-
-**Please email [chamPS@nps.edu.sg](chamPS@nps.edu.sg) if you have any queries.**
-
-### Details on Phase 2B registration
-
-Please refer to the table below for more information.
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-uwcm{background-color:#0655A6;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-ajvh{background-color:#F9F8F8;text-align:left;vertical-align:middle}
-.tg .tg-dizv{background-color:#FFFCE1;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-uwcm"><span style="font-weight:bold;color:#FFF;background-color:#0655A6">Year Child Is Born</span></th>
-    <th class="tg-uwcm"><span style="font-weight:bold;color:#FFF;background-color:#0655A6">Phase 2B Registration</span></th>
-    <th class="tg-uwcm"><span style="font-weight:bold;color:#FFF;background-color:#0655A6">Service Period For Parents(PV)</span></th>
-    <th class="tg-uwcm"><span style="font-weight:bold;color:#FFF;background-color:#0655A6">Primary 1 Registration</span></th>
-    <th class="tg-uwcm"><span style="font-weight:bold;color:#FFF;background-color:#0655A6">Year Child is in Primary 1</span></th>
-  </tr>
-</thead>
+<h3>Registration process</h3>
+<p>Click <a href="https://docs.google.com/presentation/d/136YSBZZA553QhP0pnwtT6MCH2SvDh-Xd/edit#slide=id.p1" rel="noopener noreferrer nofollow" target="_blank">HERE</a> to
+know more about the process.</p>
+<p><a href="https://form.gov.sg/67627f1955715092a91a45fd" rel="noopener noreferrer nofollow" target="_blank">APPLY</a> to
+be a Phase 2B parent volunteer.</p>
+<p><strong>Please email <a href="chamPS@nps.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chamPS@nps.edu.sg</a> if you have any queries.</strong>
+</p>
+<h3>Details on Phase 2B registration</h3>
+<p>Please refer to the table below for more information.</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-ajvh"><span style="color:#000;background-color:#F9F8F8">2017</span></td>
-    <td class="tg-ajvh"><span style="color:#000;background-color:#F9F8F8">2022 (Closed) </span></td>
-    <td class="tg-ajvh"><span style="color:#000;background-color:#F9F8F8">June 2022 - June 2023 </span></td>
-    <td class="tg-ajvh"><span style="color:#000;background-color:#F9F8F8">July 2023 </span></td>
-    <td class="tg-ajvh"><span style="color:#000;background-color:#F9F8F8">2024</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dizv"><span style="color:#000;background-color:#FFFCE1">2018</span></td>
-    <td class="tg-dizv"><span style="color:#000;background-color:#FFFCE1">2023 (Closed) </span></td>
-    <td class="tg-dizv"><span style="color:#000;background-color:#FFFCE1">June 2023 - June 2024 </span></td>
-    <td class="tg-dizv"><span style="color:#000;background-color:#FFFCE1">*July 2024</span></td>
-    <td class="tg-dizv"><span style="color:#000;background-color:#FFFCE1"> 2025</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ajvh"><span style="color:#000;background-color:#F9F8F8">2019</span></td>
-    <td class="tg-ajvh"><span style="color:#000;background-color:#F9F8F8">*3 January 2024 - </span><br><span style="color:#000;background-color:#F9F8F8">31 March 2024</span></td>
-    <td class="tg-ajvh"><span style="color:#000;background-color:#F9F8F8">*June 2024 - June 2025  </span></td>
-    <td class="tg-ajvh"><span style="color:#000;background-color:#F9F8F8">*July 2025</span></td>
-    <td class="tg-ajvh"><span style="color:#000;background-color:#F9F8F8"> 2026</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dizv"><span style="color:#000;background-color:#FFFCE1">2020 </span></td>
-    <td class="tg-dizv"><span style="color:#000;background-color:#FFFCE1">*3 January 2025 - </span><br><span style="color:#000;background-color:#FFFCE1">31 March 2025 </span></td>
-    <td class="tg-dizv"><span style="color:#000;background-color:#FFFCE1">*June 2025 - June 2026</span></td>
-    <td class="tg-dizv"><span style="color:#000;background-color:#FFFCE1">*July 2026 </span></td>
-    <td class="tg-dizv"><span style="color:#000;background-color:#FFFCE1"> 2027</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Year Child Is Born</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Phase 2B Registration</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Service Period For Parents(PV)</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Primary 1 Registration</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Year Child is in Primary 1</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022 (Closed)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>June 2022 - June 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>July 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023 (Closed)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>June 2023 - June 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*July 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*3 January 2024 -
+<br>31 March 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*June 2024 - June 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*July 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*3 January 2025 -
+<br>31 March 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*June 2025 - June 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2027</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-*Estimation based on current practice. Subject to changes.
+<p>*Estimation based on current practice. Subject to changes.</p>
