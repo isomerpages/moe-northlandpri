@@ -11,9 +11,6 @@ sections:
         - title: Calendar
           description: ""
           url: https://calendar.google.com/calendar/embed?src=parent.calendar%40nps.edu.sg&ctz=Asia%2FSingapore
-        - title: School Highlights
-          description: ""
-          url: school-highlights
       background: /images/statichq.jpg
   - resources:
       title: Announcements
@@ -26,12 +23,12 @@ sections:
           description: ""
           linktext: Learn more
           url: /school-highlights/schoolnewsletters/
-        - title: P6 Oral Workshop
+        - title: 35th Anniversary
           description: ""
           linktext: Learn more
-          url: /happenings/p6oralworkshop/
-        - title: Reading Tips for Chinese Mother Tongue Language
-          description: Card description
+          url: /school-highlights/35thanniversary/
+        - title: Learning Fiesta
+          description: ""
           linktext: Learn more
-          url: /reading-tips-for-chinese-mother-tongue-language/
+          url: /school-highlights/learning-fiesta/
 ---
