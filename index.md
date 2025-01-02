@@ -18,4 +18,20 @@ sections:
   - resources:
       title: Announcements
       id: resources
+  - textcards:
+      title: School Highlights
+      id: textcards
+      cards:
+        - title: Card
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
