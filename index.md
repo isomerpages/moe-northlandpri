@@ -18,4 +18,7 @@ sections:
           description: ""
           url: Resources
       background: /images/statichq.jpg
+  - resources:
+      title: Resources
+      id: resources
 ---
