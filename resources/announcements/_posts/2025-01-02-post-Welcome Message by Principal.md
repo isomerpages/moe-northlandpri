@@ -7,8 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Welcome to Northland School</strong>
-</p>
 <p>On behalf of our dedicated staff, I extend a warm welcome to all members
 of our school community as we embark on a new academic year filled with
 joy, growth, and new beginnings. Together, we look forward to another year
