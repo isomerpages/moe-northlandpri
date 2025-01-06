@@ -112,7 +112,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://form.gov.sg/60d29bb5ef7afb00120cbee1" rel="noopener nofollow" target="_blank">LOA Application</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer" target="_blank"><u>SCMobile</u></a>
