@@ -98,7 +98,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1z_zSTAm8W5eP-9ZAggkep8nGokKylLvo?usp=sharing" rel="noopener nofollow" target="_blank">Book Lists 2025</a>
+<p><a href="https://form.gov.sg/60d29bb5ef7afb00120cbee1" rel="noopener nofollow" target="_blank">LOA Application</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -112,8 +112,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/60d29bb5ef7afb00120cbee1" rel="noopener nofollow" target="_blank">LOA Application</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer" target="_blank"><u>SCMobile</u></a>
