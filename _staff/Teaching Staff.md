@@ -4,7 +4,7 @@ permalink: /staff/teaching-teachers/
 description: ""
 variant: tiptap
 ---
-<h1>2025 Primary 1 </h1>
+<h1>2025 Primary 1</h1>
 <p>Year Head: <a href="mailto:cheong_siew_lan_pauline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pauline Cheong</a>
 </p>
 <table style="minWidth: 50px">
@@ -130,7 +130,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h1>2025 Primary 2 </h1>
+<h1>2025 Primary 2</h1>
 <p>Year Head: <a href="mailto:ganesan_arumugan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ganesan s/o Arumugan</a>
 </p>
 <table style="minWidth: 50px">
@@ -250,7 +250,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h1>2025 Primary 3 </h1>
+<h1>2025 Primary 3</h1>
 <p>Year Head: <a href="mailto:siti_ardah_iskandar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Siti Ardah Hazry</a>
 </p>
 <table style="minWidth: 50px">
@@ -348,7 +348,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h1>2025 Primary 4 </h1>
+<h1>2025 Primary 4</h1>
 <p>Year Head: <a href="mailto:siti_ardah_iskandar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Siti Ardah Hazry</a>
 </p>
 <table style="minWidth: 50px">
@@ -448,7 +448,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h1>2025 Primary 5 </h1>
+<h1>2025 Primary 5</h1>
 <p>Year Head: <a href="mailto:shahrul_fadly_abd_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Shahrul Fadly Bin Abd Rahman</a>
 </p>
 <table style="minWidth: 50px">
@@ -533,7 +533,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h1>2025 Primary 6 </h1>
+<h1>2025 Primary 6</h1>
 <p>Year Head: <a href="mailto:teo_choy_yim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Teo Choy Yim</a>
 </p>
 <table style="minWidth: 50px">
@@ -618,4 +618,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>OTher</p>
