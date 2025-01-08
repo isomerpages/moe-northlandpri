@@ -120,7 +120,9 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_rosmala_rahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Rosmala Rahmat </a><em>Malay Mother Tongue Coordinator</em>
+<p><a href="mailto:siti_rosmala_rahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Siti Rosmala Rahmat</a>
+</p>
+<p><em>Malay Mother Tongue Coordinator</em>
 </p>
 </td>
 </tr>
