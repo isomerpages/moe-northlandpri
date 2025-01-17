@@ -137,7 +137,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head - Primary 1</p>
+<p>Assistant Year Head - Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheong_siew_lan_pauline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pauline Cheong</a>
@@ -146,7 +146,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head - Primary 2</p>
+<p>Assistant Year Head - Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ganesan_arumugan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ganesan s/o Arumugan</a>
@@ -164,19 +164,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head - Primary 5</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shahrul_fadly_abd_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Shahrul Fadly Abd Rahman</a>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head - Primary 5 &amp; 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_choy_yim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Teo Choy Yim</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head - Primary 6</p>
+<p>Assistant Year Head - Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_choy_yim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Teo Choy Yim</a>
+<p><a href="mailto:shahrul_fadly_abd_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Shahrul Fadly Abd Rahman</a>
 </p>
 </td>
 </tr>
