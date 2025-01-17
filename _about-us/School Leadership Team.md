@@ -319,15 +319,6 @@ variant: tiptap
 <p>Senior Teacher - English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chitra_devi_v_ramalingam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Chitra Thirumaran</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher - English</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:nurelyani_mustaffa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Nurelyani Akel</a>
 </p>
 </td>
@@ -374,15 +365,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:soh_wan_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Soh Wan Hong</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher - Learning Support</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_lee_joon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tan Lee Joon</a>
 </p>
 </td>
 </tr>
