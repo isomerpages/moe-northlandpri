@@ -70,23 +70,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_jai_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Ho Jai Seng</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operation Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:v_ravichandir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr V Ravichandir</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Pushparani</p>
+<p>Mr V Ravichandir</p>
 </td>
 </tr>
 </tbody>
