@@ -102,7 +102,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Deborah Tsung</p>
+<p><a href="mailto:deborah_tsung_chung_ying@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Deborah Tsung</a> 仲崇英老师</p>
 </td>
 </tr>
 </tbody>

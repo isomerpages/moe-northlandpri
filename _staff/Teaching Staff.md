@@ -52,7 +52,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho-chan_hui_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ho-Chan Hui Lin</a>
 </p>
-<p>Miss Deborah Tsung</p>
+<p><a href="mailto:deborah_tsung_chung_ying@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Deborah Tsung</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -121,7 +122,7 @@ variant: tiptap
 <p>P1 Transit</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lim_xin_hwei@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Goh Xin Hwei</a>
+<p><a href="mailto:lim_xin_hwei@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Goh Xin Hwei</a>
 </p>
 </td>
 </tr>
@@ -309,7 +310,8 @@ variant: tiptap
 </p>
 <p><a href="mailto:siti_ardah_iskandar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Siti Ardah Hazry</a>
 </p>
-<p>Ms Deepa</p>
+<p><a href="mailto:deepa_chandra_manogaran@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Deepa Chandra</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -397,7 +399,8 @@ variant: tiptap
 <p>4B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nazreen</p>
+<p><a href="mailto:nazreen_fathima_jagabar@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nazreen Fathima Jagabar</a>
+</p>
 <p><a href="mailto:tan_qiu_qing_ellis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ellis Chua</a>
 </p>
 </td>
@@ -444,7 +447,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sun_siew_jhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sun Siew Jhen</a>
 </p>
-<p>Ms Chan Mui Ngee</p>
+<p><a href="mailto:chan_mui_ngee@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chan Mui Ngee</a>
+</p>
 </td>
 </tr>
 <tr>
