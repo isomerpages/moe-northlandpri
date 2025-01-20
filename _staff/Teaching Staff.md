@@ -447,7 +447,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sun_siew_jhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sun Siew Jhen</a>
 </p>
-<p>Ms Chan Mui Ngee</p>
+<p><a href="mailto:chan_mui_ngee@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chan Mui Ngee</a>
+</p>
 </td>
 </tr>
 <tr>
