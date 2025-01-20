@@ -2,6 +2,7 @@ collections:
   school-highlights:
     output: true
     order:
+      - 《新华园地》 Northland Primary School Students' Chinese Essay Collection.md
       - Reading Tips for Chinese Mother Tongue Language.md
       - P6 Oral Workshop.md
       - School Newsletters.md
