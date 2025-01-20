@@ -101,7 +101,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD - 21st CC</p>
+<p>HOD - 21CC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheung_pei_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joyce Low</a>
@@ -155,7 +155,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head - Primary 3 &amp; 4</p>
+<p>Year Head Middle Primary 3 &amp; 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_ardah_iskandar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Siti Ardah Hazry</a>
@@ -164,15 +164,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Coordinator Year Head Middle Primary P4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:jayaram_saravanakumar_naidu@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Jayaram Saravanakumar Naidu</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head - Primary 5 &amp; 6</p>
+<p>Year Head Upper Primary 5 &amp; 6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_choy_yim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Teo Choy Yim</a>
@@ -181,7 +182,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head - Primary 5</p>
+<p>Assistant Year Head Upper Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shahrul_fadly_abd_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Shahrul Fadly Abd Rahman</a>
@@ -288,6 +289,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Adjunct Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_guan_khoon@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Alvin Ong</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h1>Teacher Leaders</h1>
@@ -316,7 +326,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher - English</p>
+<p>Senior Teacher - English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurelyani_mustaffa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Nurelyani Akel</a>
@@ -325,7 +335,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher - Chinese</p>
+<p>Senior Teacher - Chinese Lanugage</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zheng_junren@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zheng Junren</a>
