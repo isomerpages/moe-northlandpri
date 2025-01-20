@@ -137,7 +137,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head - Primary 1</p>
+<p>Assistant Year Head Lower Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheong_siew_lan_pauline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Pauline Cheong</a>
@@ -146,7 +146,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head - Primary 2</p>
+<p>Assistant Year Head Lower Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ganesan_arumugan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ganesan s/o Arumugan</a>
