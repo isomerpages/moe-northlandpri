@@ -134,7 +134,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/60d84995a9bcd8001181b630" rel="noopener noreferrer" target="_blank"><u>NPS Cares</u></a>
+<p><a href="– https://form.gov.sg/678755ce3e92a1d8e2d82fdb" rel="noopener noreferrer" target="_blank"><u>NPS Care Form</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -298,6 +298,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener noreferrer" target="_blank">HRP Portal</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://form.gov.sg/6786f882fafcb11a5e081100" rel="noopener nofollow" target="_blank">NPS Care Teacher Referral Form</a>
 </p>
 </td>
 </tr>
