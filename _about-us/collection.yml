@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - School Advisory Committee.md
       - Principal's Message.md
       - Vision, Mission, Core Values.md
       - Crest, Motto, Flag And Song.md
+      - School Advisory Committee.md
       - School Leadership Team.md
       - Operations & Security.md
       - School Terms and Holidays.md
