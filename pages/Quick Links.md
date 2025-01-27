@@ -134,7 +134,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="– https://form.gov.sg/678755ce3e92a1d8e2d82fdb" rel="noopener noreferrer" target="_blank"><u>NPS Care Form</u></a>
+<p><a href="https://form.gov.sg/678755ce3e92a1d8e2d82fdb" rel="noopener noreferrer" target="_blank"><u>NPS Care Form</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
