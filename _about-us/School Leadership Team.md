@@ -95,7 +95,7 @@ variant: tiptap
 <p>HOD - Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_pei_ying_Joycelyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joycelyn Goh</a>
+<p><a href="mailto:tan_pei_ying_joycelyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joycelyn Goh</a>
 </p>
 </td>
 </tr>
@@ -212,7 +212,7 @@ variant: tiptap
 <p>Level Head - Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="low_shi_hui_fiona@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Fiona Lin</a>
+<p><a href="mailto:low_shi_hui_fiona@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Fiona Lin</a>
 </p>
 </td>
 </tr>
@@ -249,7 +249,7 @@ variant: tiptap
 <p>Subject Head - EdTech</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="yuanna_salamat@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Yuanna Salamat</a>
+<p><a href="mailto:yuanna_salamat@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Yuanna Salamat</a>
 </p>
 </td>
 </tr>
