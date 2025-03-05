@@ -23,7 +23,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Group 1</p>
+<p>1A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:soh_wan_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Soh Wan Hong</a>
@@ -36,7 +36,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Group 2</p>
+<p>1B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_wan_churn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tham Wan Churn</a>
@@ -47,7 +47,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Group 3</p>
+<p>1C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho-chan_hui_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ho-Chan Hui Lin</a>
@@ -58,7 +58,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Group 4</p>
+<p>1D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:guo_guiqing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Guo Guiqing</a>
@@ -71,7 +71,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Group 5</p>
+<p>1E</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_yu_jin_diane@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Lee Yu Jin Diane</a>
@@ -82,7 +82,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Group 6</p>
+<p>1F</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cai_weiling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Cai Weiling</a>
@@ -95,7 +95,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Group 7</p>
+<p>1G</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:normaliza_jaafar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Normaliza Jaafar</a>
@@ -106,7 +106,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Group 8</p>
+<p>1H</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:joyce_tan_ee_luck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Joyce Tan Ee Luck</a>
