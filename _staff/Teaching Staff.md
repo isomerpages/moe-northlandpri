@@ -645,7 +645,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>Mr Michael Long</p>
+<p><a href="michael_long_tian_heng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Michael Long</a>
+</p>
+</li>
+<li>
+<p></p>
 </li>
 </ol>
 <p>OTher</p>
