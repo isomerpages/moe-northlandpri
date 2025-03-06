@@ -645,11 +645,16 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="michael_long_tian_heng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Michael Long</a>
+<p><a href="mailto:michael_long_tian_heng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Michael Long</a>
 </p>
 </li>
 <li>
-<p></p>
+<p><a href="mailto:Liu_Yuzhi@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Yuriiki Liu</a>
+</p>
+</li>
+<li>
+<p><a href="mailto:Pan_Xiuyan_Dini@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Pan Xiuyan Dini</a>
+</p>
 </li>
 </ol>
 <p>OTher</p>
