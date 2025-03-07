@@ -105,6 +105,11 @@ description: ""
 <p><a href="mailto:deborah_tsung_chung_ying@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Deborah Tsung</a> 仲崇英老师</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Pan_Xiuyan_Dini@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Pan Xiuyan Dini</a> 潘修彥老师</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Malay Language Teachers</h2>
