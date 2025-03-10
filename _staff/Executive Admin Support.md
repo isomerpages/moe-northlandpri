@@ -88,7 +88,7 @@ variant: tiptap
 </p>
 <p>Mdm Pushparani</p>
 <p>Mr V Ravichandir</p>
-<p>Mr Ng Fook Seng, David</p>
+<p>Mr Ng Fook Seng</p>
 </td>
 </tr>
 </tbody>
