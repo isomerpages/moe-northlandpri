@@ -30,6 +30,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Adjunct Operation Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -42,8 +50,6 @@ variant: tiptap
 <p>Administration Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seri_hidayu_shaleh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Seri Hidayu Shaleh</a>
-</p>
 <p><a href="mailto:rohaidzan_mohamed_pilus@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rohaidzan Mohamed Pilus</a>
 </p>
 <p><a href="mailto:muhammad_noor_nordin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Noor Nordin</a>
@@ -81,6 +87,7 @@ variant: tiptap
 </p>
 <p>Mdm Pushparani</p>
 <p>Mr V Ravichandir</p>
+<p>Mr Ng Fook Seng, David</p>
 </td>
 </tr>
 </tbody>
