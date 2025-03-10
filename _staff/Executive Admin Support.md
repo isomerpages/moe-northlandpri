@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operation Manager</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ramachandran_nair@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ramachandran Nair</a>
@@ -30,10 +30,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Adjunct Operation Manager</p>
+<p>Adjunct Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ong_guan_khoon@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Alvin Ong</a>
+</p>
 </td>
 </tr>
 <tr>
