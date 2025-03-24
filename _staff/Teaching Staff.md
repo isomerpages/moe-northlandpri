@@ -319,8 +319,6 @@ variant: tiptap
 <p>3D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chen_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chen Jun</a>
-</p>
 <p><a href="mailto:nor_afiza_abdul_hamid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nor Afiza Abdul Hamid</a>
 </p>
 <p><a href="mailto:ng_guan_hun_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Ng Guan Hun</a>
@@ -445,7 +443,7 @@ variant: tiptap
 <p>4F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sun_siew_jhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sun Siew Jhen</a>
+<p><a href="mailto:chen_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Chen Jun</a>
 </p>
 <p><a href="mailto:chan_mui_ngee@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chan Mui Ngee</a>
 </p>
@@ -646,10 +644,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="mailto:michael_long_tian_heng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Michael Long</a>
-</p>
-</li>
-<li>
-<p><a href="mailto:Liu_Yuzhi@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Yuriiki Liu</a>
 </p>
 </li>
 <li>
