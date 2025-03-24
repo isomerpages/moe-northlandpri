@@ -647,10 +647,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="mailto:Liu_Yuzhi@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Yuriiki Liu</a>
-</p>
-</li>
-<li>
 <p><a href="mailto:Pan_Xiuyan_Dini@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Pan Xiuyan Dini</a>
 </p>
 </li>
