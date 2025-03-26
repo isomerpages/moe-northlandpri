@@ -22,7 +22,7 @@ genres</p>
 </li>
 </ol>
 <h3>Teachers-In-Charge</h3>
-<p>Mdm Tan Xu Suan (OIC)
+<p>Mrs Lim-Tan Xu Suan (OIC)
 <br>Mdm Nor Afiza Bte Abdul Hamid
 <br>Mrs Tham Wan Churn</p>
 <h3>Venue</h3>
