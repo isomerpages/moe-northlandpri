@@ -23,12 +23,16 @@ and apply skills into different genre of music</p>
 </li>
 </ol>
 <h3>Teachers-In-Charge</h3>
-<p>Ms Joyce Tan Ee Luck (OIC)
-<br>Mrs Priscilla Tay
-<br>Ms Fiona Low
-<br>Mdm Pauline Cheong
-<br>Ms Cheng Zheng Yi</p>
-<h3>Venue</h3>
+<p>Ms Cheng Zheng Yi (OIC)</p>
+<p>Ms Joyce Tan Ee Luck</p>
+<p>Mrs Priscilla Tay</p>
+<p>Mdm Pauline Cheong
+<br>
+</p>
+<p>Junior Strings - Ms Fiona Lin and Mrs Cindy Seah
+<br>
+</p>
+<h2>Venue</h2>
 <p>Music Room 2</p>
 <p><em>Music is a piece of art that goes into the ear and straight into the heart. Sometimes, music is the only thing that takes your mind away.</em>
 </p>
