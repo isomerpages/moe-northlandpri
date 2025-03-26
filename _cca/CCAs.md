@@ -5,8 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h1>Achievements</h1>
-<p>Check out the <a href="https://docs.google.com/presentation/d/1NNy-wn8xl764O4YOSwjeCXgzk32C3xG6/edit?usp=sharing&amp;ouid=101318575314417971310&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">CCA achievements here!</a> Congratulations
-to all!</p>
+<p>Check out the CCA achievements here! Congratulations to all!</p>
+<div class="iframe-wrapper">
+<iframe height="749" width="1280" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS8Lt47AGwUu6rOtJ8jfmsEVchpe2yzDPg9CL_f3rHx13zfvyuvqTp70Vqq-H6s0g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <h1>CCA Overview and Selection 2024</h1>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/KEybdflAj8A?si=w4H7Zp8ecDoIMBW5"></iframe>
