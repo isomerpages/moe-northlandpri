@@ -48,8 +48,4 @@ and leadership opportunities</p>
 <p><em>“If it turns out that my best wasn’t good enough, at least I won’t look back and say I was afraid to try.” <u>Michael Jordan</u></em>
 </p>
 <hr>
-<h3>Achievements</h3>
-<p><strong>National School Games Basketball Competition 2022</strong>
-</p>
-<p><strong>North Zone</strong> 
-<br>Junior Division - Tier 2 Champion</p>
+<p></p>
