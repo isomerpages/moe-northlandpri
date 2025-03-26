@@ -55,9 +55,38 @@ behaving in other people’s individual personalities.</p>
 </li>
 </ul>
 <h3>Teachers-in-charge</h3>
-<p>Ms Yuanna Binte Salamat (OIC)
-<br>Mrs Chitra Devi d/o V Ramalingam</p>
-<h3>Venue</h3>
-<p>Library</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Chua Pei Ying (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yuanna Binte Salamat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nor Afiza binte Abdul Hamid</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Chitra Devi d/o V Ramalingam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Nurelyani Bte Mustaffa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2> Venue</h2>
+<p>Library Stage / Room / 1 A</p>
 <p><em>We live our lives around the stage, either back stage when we are supporting or on stage when we are performing. There are no small parts, only small actors given big roles to express in order to impress. Acting is behaving truthfully under imaginary circumstances.</em>
 </p>
