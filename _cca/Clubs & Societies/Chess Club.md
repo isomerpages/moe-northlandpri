@@ -23,14 +23,15 @@ by our chess teachers.</p>
 </li>
 </ol>
 <h3>Teachers-In-Charge</h3>
-<p>Mr Zheng Junren (OIC)
-<br>Mr Chang Cheng Hwee
-<br>Mrs Jilyn Tan
-<br>Mdm Chen Jun
-<br>Ms Lin Ziting
-<br>Ms Cai Weiling</p>
+<p>Mdm Chen Jun (OIC)</p>
+<p>Mrs Yong-Lin Ziting</p>
+<p>Mr Chang Cheng Hwee</p>
+<p>Mdm Angrini Bte Sawal</p>
+<p>Ms Cai Weiling</p>
+<p>Mr Zheng Junren</p>
+<p>Mrs Jilyn Tan</p>
 <h3>Venue</h3>
-<p>3A, 3B, 3C, 3D, 3E</p>
+<p>Classrooms 5D to 6D (Level 4)</p>
 <h3>Vision</h3>
 <p>Excellence our continual pursuits</p>
 <h3>Mission</h3>
