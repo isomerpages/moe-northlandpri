@@ -32,9 +32,9 @@ New Year Concert performance and SYF Arts Presentation</p>
 </li>
 </ol>
 <h3>Teachers-In-Charge</h3>
-<p>Mrs Lee Liu Lai Feng (OIC)
-<br>Mdm Yang Yang
-<br>Mdm Guo Guiqing</p>
+<p>Mrs Lee Liu Lai Feng (OIC)</p>
+<p>Mdm Yang Yang</p>
+<p>Mdm Guo Guiqing</p>
 <h3>Venue</h3>
 <p>Dance Studio (ISH)</p>
 <p><em>Dance enables you to find yourself and lose yourself. When you dance, your purpose is not to get to a certain place on the floor, it’s to enjoy each step along the way.</em>
