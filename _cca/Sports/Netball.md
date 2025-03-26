@@ -42,12 +42,4 @@ variant: tiptap
 <p><em>In diversity, we have one identity. No one is left behind as everyone moves ahead as one. As we play together, we bond. We train hard so that we can win easily.</em>
 </p>
 <hr>
-<h3>Achievements</h3>
-<p><strong>National School Games Netball Competition 2022</strong>
-</p>
-<p><strong>North Zone</strong> 
-<br>Senior Division – 3rd Position</p>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/netball.jpg">
-</div>
 <p></p>
