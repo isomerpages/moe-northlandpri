@@ -27,7 +27,4 @@ variant: tiptap
 </p>
 <p><em>Robotics – There are endless number of things to discover about Robotics. A lot of it is just too fantastic and futuristic for people to believe. <u>Daniel H Wilson</u></em>
 </p>
-<hr>
-<h3>Achievements</h3>
-<p><strong>Robotics / First Lego League 2022</strong> 
-<br>Robot Design Award – 2nd Position</p>
+<p></p>
