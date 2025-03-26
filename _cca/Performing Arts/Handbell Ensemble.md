@@ -47,6 +47,3 @@ Judging and Applause Musical</p>
 <p>Music Room 1</p>
 <p><em>Music express that which cannot be said and which it is impossible to understand. When words fail, music speaks.</em>
 </p>
-<hr>
-<p>
-<br>Certificate of Accomplishment</p>
