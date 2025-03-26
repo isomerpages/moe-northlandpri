@@ -28,9 +28,10 @@ involving the use of simple percussion.</p>
 </li>
 </ol>
 <h3>Teachers-In-Charge</h3>
-<p>Mdm Yap Siok Mei (OIC)
-<br>Mdm Tay Siew Buay
-<br>Mdm Su XiaoJing</p>
+<p>Mdm Yap Siok Mei (OIC)</p>
+<p>Mdm Tay Siew Buay
+<br>
+</p>
 <h3>Venue</h3>
 <p>Dance Studio</p>
 <h3>Vision</h3>
