@@ -41,8 +41,22 @@ Judging and Applause Musical</p>
 </li>
 </ul>
 <h3>Teachers-In-Charge</h3>
-<p>Mrs Chong Cheng Cheng (OIC)
-<br>Mrs Goh Xin Hwei</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Chong Cheng Cheng (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Goh Xin Hwei</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Venue</h3>
 <p>Music Room 1</p>
 <p><em>Music express that which cannot be said and which it is impossible to understand. When words fail, music speaks.</em>
