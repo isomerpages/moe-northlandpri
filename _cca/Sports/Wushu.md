@@ -23,9 +23,9 @@ and stamina training</p>
 </li>
 </ol>
 <h3>Teachers-In-Charge</h3>
-<p>Mrs Lim-Kho Kha Tiang (OIC)
-<br>Ms Ong Teck Lian
-<br>Mrs Ho-Chan Hui Lin</p>
+<p>Ms Ong Teck Lian (OIC)</p>
+<p>Mrs Hans Ow</p>
+<p>Mrs Lim-Koh Kha Tiang</p>
 <h3>Venue</h3>
 <p>Area behind library</p>
 <h3>Vision</h3>
