@@ -23,9 +23,10 @@ and National Basketball Championships</p>
 </li>
 </ol>
 <h3>Teachers-in-charge</h3>
-<p>Ms Vivian Phang (OIC)
-<br>Ms Zhong Shihui
-<br>Mr Daniel Tam</p>
+<p>Mrs Tan Shihui (OIC)</p>
+<p>Ms Vivian Phang</p>
+<p>Mdm Anandhi</p>
+<p>Mr Tan Chin Huat Joshua</p>
 <h3>Venue</h3>
 <p>Basketball Court</p>
 <h3>Vision</h3>
