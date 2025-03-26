@@ -28,11 +28,11 @@ and updating of the D’art gallery.</p>
 </li>
 </ol>
 <h3>Teachers-In-Charge</h3>
-<p>Mrs Soh Wan Hong (OIC)
-<br>Mrs Javis Phua-Lim
-<br>Miss Hiswary D/O Manimaran
-<br>Mdm Nur Hasimah Bte Abdul Wahab
-<br>Mdm Nurfaizah Binte Ismail</p>
+<p>Miss Soh Wan Hong (OIC)</p>
+<p>Mrs Javis Phua-Lim</p>
+<p>Miss Hiswary D/O Manimaran</p>
+<p>Mdm Nurfaizah Binte Ismail</p>
+<p>Mr Manivanan Muthu</p>
 <h3>Venue</h3>
 <p>Art Rooms 1 &amp; 2 (Level 3 and 4)</p>
 <p><em>We gain mastery when we are given the opportunity to inject creativity in our activities. In appreciation, exploration and experimentation of art, we share a common passion.</em>
