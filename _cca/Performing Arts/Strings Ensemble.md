@@ -23,12 +23,31 @@ and apply skills into different genre of music</p>
 </li>
 </ol>
 <h3>Teachers-In-Charge</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Cheng Zheng Yi (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Joyce Tan Ee Luck</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Priscilla Tay</p>
-<p>Mdm Pauline Cheong
-<br>
-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Pauline Cheong</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>Junior Strings - Ms Fiona Lin and Mrs Cindy Seah
 <br>
 </p>
