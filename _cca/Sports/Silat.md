@@ -23,8 +23,7 @@ and blocking.</p>
 </li>
 </ol>
 <h3>Teachers-In-Charge</h3>
-<p>Mdm Siti Hajar Bujang (OIC)
-<br>Mdm Malligha d/o Krishnasamy</p>
+<p>Mdm Fauzani Azima Bte Mawi (OIC)</p>
 <h3>Venue</h3>
 <p>Lobby 1</p>
 <p><em>Courage is not the absence of fear, but the triumph over it. Be balanced and show indomitable spirit!</em>
