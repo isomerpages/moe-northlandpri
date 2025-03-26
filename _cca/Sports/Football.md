@@ -34,13 +34,4 @@ team.</p>
 <p><em>One man can be talented but one man cannot be a team. If we don’t sacrifice for the team, the team will be sacrificed. When there is effort, attitude and desire….. nothing is impossible. <u>Lionel Messi</u></em>
 </p>
 <hr>
-<h3>Achievements</h3>
-<p><strong>National School Games Football Competition 2022</strong>
-</p>
-<p><strong>North Zone</strong> 
-<br>Senior Division – 3rd&nbsp;Position
-<br>Junior Division - Tier 1 Champion</p>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/football.jpg">
-</div>
 <p></p>
