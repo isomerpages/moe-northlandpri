@@ -59,6 +59,4 @@ talents.</p>
 <p><em>Our voices reflect our choices. In diversity, we have one harmony. We have a common interest in singing, we put our heart and soul in singing to lift up the heart and soul of those listening.</em>
 </p>
 <hr>
-<h3>Achievements</h3>
-<p><strong>Singapore Youth Festival 2018</strong>
-<br>Certificate of Commendation</p>
+<p>Certificate of Commendation</p>
