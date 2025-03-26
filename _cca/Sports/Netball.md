@@ -34,9 +34,10 @@ variant: tiptap
 </li>
 </ol>
 <h3>Teachers-in-charge</h3>
-<p>Mr Nigel Lim (OIC)
-<br>Mrs Melissa Tay
-<br>Mrs Ellis Chua</p>
+<p>Mr Nigel Lim Jun Liang (OIC)</p>
+<p>Mrs Melissa Tay</p>
+<p>Mrs Ellis Chua</p>
+<p>Mdm Nurul Shairini (2nd Sem)</p>
 <h3>Venue</h3>
 <p>Indoor Sports Hall (ISH)</p>
 <p><em>In diversity, we have one identity. No one is left behind as everyone moves ahead as one. As we play together, we bond. We train hard so that we can win easily.</em>
