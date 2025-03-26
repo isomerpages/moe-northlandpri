@@ -3,26 +3,28 @@ title: CUB Scouts
 permalink: /ccas/uniformed-groups/cub-scouts/
 description: ""
 third_nav_title: Uniformed Groups
+variant: tiptap
 ---
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Su2ilBaa9ZI?si=MpmLdaoSiQNxUMQq" height="315" width="560"></iframe>
-
-### Objectives &amp; Activities
-
-1.  To be able collaborate as a group to achieve a common goal.
-2.  Students are given opportunities each session to lead the badge presentation and lead Team activities for the cub scouts and organise outdoor activities eg learning journeys hiking and environmental projects
-
-### Teachers-in-charge
-
-Mrs Prema d/o Chandran (OIC) <br>
-Mdm Fauzani Azima Bte Mawi
-
-### Venue
-
-3F Classroom
-
-<center><i>The real way to gain happiness is to give it to others.A scout is never taken by surprise; he/she knows exactly what to do when anything unexpected happens <u>Lord Baden-Powell</u></i></center>
-
-***
-
-### Achievements
-Frank Cooper Award – Bronze (2019)
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Su2ilBaa9ZI?si=MpmLdaoSiQNxUMQq"></iframe>
+</div>
+<h3>Objectives &amp; Activities</h3>
+<ol data-tight="true" class="tight">
+<li>
+<p>To be able collaborate as a group to achieve a common goal.</p>
+</li>
+<li>
+<p>Students are given opportunities each session to lead the badge presentation
+and lead Team activities for the cub scouts and organise outdoor activities
+eg learning journeys hiking and environmental projects</p>
+</li>
+</ol>
+<h3>Teachers-in-charge</h3>
+<p>Mrs Prema d/o Chandran (OIC)
+<br>Mdm Fauzani Azima Bte Mawi</p>
+<h3>Venue</h3>
+<p>3F Classroom</p>
+<p><em>The real way to gain happiness is to give it to others.A scout is never taken by surprise; he/she knows exactly what to do when anything unexpected happens <u>Lord Baden-Powell</u></em>
+</p>
+<hr>
+<p>Frank Cooper Award – Bronze (2019)</p>
