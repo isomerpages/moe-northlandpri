@@ -22,9 +22,9 @@ genres</p>
 </li>
 </ol>
 <h3>Teachers-In-Charge</h3>
-<p>Mrs Lim-Tan Xu Suan (OIC)
-<br>Mdm Nor Afiza Bte Abdul Hamid
-<br>Mrs Tham Wan Churn</p>
+<p>Mrs Lim-Tan Xu Suan (OIC)</p>
+<p>Mdm Nazreen</p>
+<p>Mdm Shima</p>
 <h3>Venue</h3>
 <p>Dance Room (ISH)</p>
 <p><em>Dancers don’t need wings to fly. To watch us dance is to hear our hearts speak. Dance is the joy of the moment and the heart of life.</em>
