@@ -42,20 +42,9 @@ involving the use of simple percussion.</p>
 <p>Mdm Tay Siew Buay</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
-<p>
-<br>
-</p>
 <h3>Venue</h3>
 <p>Dance Studio</p>
 <h3>Vision</h3>
