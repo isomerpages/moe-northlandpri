@@ -86,7 +86,7 @@ behaving in other people’s individual personalities.</p>
 </tr>
 </tbody>
 </table>
-<h2> Venue</h2>
+<h2>Venue</h2>
 <p>Library Stage / Room / 1 A</p>
 <p><em>We live our lives around the stage, either back stage when we are supporting or on stage when we are performing. There are no small parts, only small actors given big roles to express in order to impress. Acting is behaving truthfully under imaginary circumstances.</em>
 </p>
