@@ -25,7 +25,7 @@ and National Basketball Championships</p>
 <h3>Teachers-in-charge</h3>
 <p>Ms Vivian Phang (OIC)
 <br>Ms Zhong Shihui
-<br>Mr Daniel Tam Mrs Rachel Boey</p>
+<br>Mr Daniel Tam</p>
 <h3>Venue</h3>
 <p>Basketball Court</p>
 <h3>Vision</h3>
