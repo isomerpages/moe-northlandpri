@@ -21,8 +21,10 @@ variant: tiptap
 </li>
 </ol>
 <h3>Teachers-In-Charge</h3>
-<p>Mrs Lam-Lim Shiuh Hui (OIC)
-<br>Ms Shiamala d/o Krishna Kumar
+<p>Mrs Lam-Lim Shiuh Hui (OIC)</p>
+<p>Ms Shiamala d/o Krishna Kumar</p>
+<p>Mr Jayaram Saravanakumar Naidu</p>
+<p>Mdm Sarina
 <br>
 </p>
 <p><em>Robotics – There are endless number of things to discover about Robotics. A lot of it is just too fantastic and futuristic for people to believe. <u>Daniel H Wilson</u></em>
