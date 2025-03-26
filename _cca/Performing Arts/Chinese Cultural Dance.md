@@ -40,6 +40,4 @@ New Year Concert performance and SYF Arts Presentation</p>
 <p><em>Dance enables you to find yourself and lose yourself. When you dance, your purpose is not to get to a certain place on the floor, it’s to enjoy each step along the way.</em>
 </p>
 <hr>
-<h3>Achievements</h3>
-<p><strong>Singapore Youth Festival 2018</strong> 
-<br>Certificate of Accomplishment</p>
+<p></p>
