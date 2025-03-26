@@ -39,5 +39,4 @@ for performances.</p>
 for performances.</p>
 </li>
 </ul>
-<p>
-<br>Certificate of Accomplishment</p>
+<p></p>
