@@ -44,7 +44,7 @@ two separate groups to practise on CCA sessions.</p>
 </li>
 <li>
 <p>To practise new songs in the ensemble</p>
+<p></p>
 </li>
 </ul>
-<p>
-<br>Certificate of Commendation</p>
+<p></p>
