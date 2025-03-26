@@ -23,8 +23,9 @@ songs</p>
 </li>
 </ol>
 <h3>Teachers-In-Charge</h3>
-<p>Mdm P Nirijia (OIC)
-<br>Mrs Katherine Chong</p>
+<p>Mdm P Nirijia (OIC)</p>
+<p>Mrs Ho-Chan Hui Lin</p>
+<p>Mrs Katherine Chong</p>
 <h3>Venue</h3>
 <p>Level 4 Lobby</p>
 <p><em>The Brownies’ spirit is caught, not taught. The Brownies’ family moves, works and bond together as one. The Brownies’ guiding light will shine and last for generations to come.</em>
