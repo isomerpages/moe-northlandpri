@@ -58,5 +58,3 @@ talents.</p>
 </ul>
 <p><em>Our voices reflect our choices. In diversity, we have one harmony. We have a common interest in singing, we put our heart and soul in singing to lift up the heart and soul of those listening.</em>
 </p>
-<hr>
-<p>Certificate of Commendation</p>
