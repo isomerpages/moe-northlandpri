@@ -28,8 +28,32 @@ involving the use of simple percussion.</p>
 </li>
 </ol>
 <h3>Teachers-In-Charge</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Yap Siok Mei (OIC)</p>
-<p>Mdm Tay Siew Buay
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tay Siew Buay</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>
 <br>
 </p>
 <h3>Venue</h3>
