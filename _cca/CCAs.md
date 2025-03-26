@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>CCA Achievements</h1>
-<p>Check out the 2024 CCA achievements here! Congratulations to all!</p>
+<p>Check out the 2024 CCA achievements, congratulations to all!</p>
 <div class="iframe-wrapper">
 <iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS8Lt47AGwUu6rOtJ8jfmsEVchpe2yzDPg9CL_f3rHx13zfvyuvqTp70Vqq-H6s0g/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
