@@ -29,5 +29,3 @@ genres</p>
 <p>Dance Room (ISH)</p>
 <p><em>Dancers don’t need wings to fly. To watch us dance is to hear our hearts speak. Dance is the joy of the moment and the heart of life.</em>
 </p>
-<hr>
-<p>Certificate of Commendation</p>
