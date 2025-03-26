@@ -30,8 +30,4 @@ songs</p>
 <p><em>The Brownies’ spirit is caught, not taught. The Brownies’ family moves, works and bond together as one. The Brownies’ guiding light will shine and last for generations to come.</em>
 </p>
 <hr>
-<h3>Achievements</h3>
-<p><strong>2022</strong>
-</p>
-<p>Puan Noor Aishah Award - Bronze
-<br>6 Chief Commissioner’s Awards</p>
+<p></p>
