@@ -26,9 +26,11 @@ team.</p>
 </li>
 </ol>
 <h3>Teachers-in-charge</h3>
-<p>Mr Jayaram Saravanakumar Naidu (OIC)
-<br>Mr Shahrul Fadly
-<br>Mr Mohamed Faroek B Hamsani</p>
+<p>Mr Daniel Tam (OIC)</p>
+<p>Mr Rajiv Jude Illesinghe</p>
+<p>Mr Daniel Fong</p>
+<p>Mr Shahrul Fadly</p>
+<p>Mr Mohamed Faroek B Hamsani</p>
 <h3>Venue</h3>
 <p>Field</p>
 <p><em>One man can be talented but one man cannot be a team. If we don’t sacrifice for the team, the team will be sacrificed. When there is effort, attitude and desire….. nothing is impossible. <u>Lionel Messi</u></em>
