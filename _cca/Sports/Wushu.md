@@ -23,9 +23,33 @@ and stamina training</p>
 </li>
 </ol>
 <h3>Teachers-In-Charge</h3>
-<p>Ms Ong Teck Lian (OIC)</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Ong Teck Lian (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mrs Hans Ow</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Lim-Koh Kha Tiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
 <h3>Venue</h3>
 <p>Area behind library</p>
 <h3>Vision</h3>
