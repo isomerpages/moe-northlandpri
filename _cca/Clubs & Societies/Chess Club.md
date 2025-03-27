@@ -23,13 +23,49 @@ by our chess teachers.</p>
 </li>
 </ol>
 <h3>Teachers-In-Charge</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Chen Jun (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mrs Yong-Lin Ziting</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Chang Cheng Hwee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Angrini Bte Sawal</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Cai Weiling</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Zheng Junren</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Jilyn Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3>Venue</h3>
 <p>Classrooms 5D to 6D (Level 4)</p>
 <h3>Vision</h3>
