@@ -23,10 +23,31 @@ and National Basketball Championships</p>
 </li>
 </ol>
 <h3>Teachers-in-charge</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Tan Shihui (OIC)</p>
-<p>Ms Vivian Phang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Vivian Phang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Anandhi</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Tan Chin Huat Joshua</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3>Venue</h3>
 <p>Basketball Court</p>
 <h3>Vision</h3>
