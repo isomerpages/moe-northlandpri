@@ -21,10 +21,33 @@ variant: tiptap
 </li>
 </ol>
 <h3>Teachers-In-Charge</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Lam-Lim Shiuh Hui (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Shiamala d/o Krishna Kumar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Jayaram Saravanakumar Naidu</p>
-<p>Mdm Sarina
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sarina</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Venue</h2>
+<p>Computer Labs/ Teaching Lab</p>
+<p>
 <br>
 </p>
 <p><em>Robotics – There are endless number of things to discover about Robotics. A lot of it is just too fantastic and futuristic for people to believe. <u>Daniel H Wilson</u></em>
