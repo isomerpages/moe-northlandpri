@@ -22,8 +22,23 @@ for performances.</p>
 </li>
 </ol>
 <h3>Teachers-In-Charge</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Rosmala (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Fadilah Abdul Rahim</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3>Venue</h3>
 <p>Hall Stage</p>
 <p><em>Dancing is like dreaming with your feet. Dance is an art, paint your dream and follow it. Dancing is not merely the moving of our body parts, it is the pathway of expressing your deepest inner thoughts.</em>
