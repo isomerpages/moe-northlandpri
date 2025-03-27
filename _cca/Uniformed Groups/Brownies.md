@@ -23,9 +23,31 @@ songs</p>
 </li>
 </ol>
 <h3>Teachers-In-Charge</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm P Nirijia (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mrs Ho-Chan Hui Lin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Katherine Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3>Venue</h3>
 <p>Level 4 Lobby</p>
 <p><em>The Brownies’ spirit is caught, not taught. The Brownies’ family moves, works and bond together as one. The Brownies’ guiding light will shine and last for generations to come.</em>
