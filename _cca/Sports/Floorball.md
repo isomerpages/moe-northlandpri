@@ -18,8 +18,25 @@ variant: tiptap
 </li>
 </ol>
 <h3>Teachers-in-charge</h3>
-<p>Mdm Nurul Shahraini (OIC)
-<br>Mr Mohamed Faroek B Hamsani</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurul Shahraini (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamed Faroek B Hamsani</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
 <h3>Venue</h3>
 <p>Multi-Purpose Hall Level 2</p>
 <p><em>It takes a player to score a goal, but it takes a team to win a game. Lasting memories are forged through training and remembered in the monumental moments of the journey.</em>
