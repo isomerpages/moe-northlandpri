@@ -48,8 +48,6 @@ and stamina training</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
 <h3>Venue</h3>
 <p>Area behind library</p>
 <h3>Vision</h3>
