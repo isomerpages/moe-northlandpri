@@ -34,10 +34,31 @@ variant: tiptap
 </li>
 </ol>
 <h3>Teachers-in-charge</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Nigel Lim Jun Liang (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mrs Melissa Tay</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Ellis Chua</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Nurul Shairini (2nd Sem)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3>Venue</h3>
 <p>Indoor Sports Hall (ISH)</p>
 <p><em>In diversity, we have one identity. No one is left behind as everyone moves ahead as one. As we play together, we bond. We train hard so that we can win easily.</em>
