@@ -20,9 +20,8 @@ eg learning journeys hiking and environmental projects</p>
 </li>
 </ol>
 <h3>Teachers-in-charge</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -34,16 +33,10 @@ eg learning journeys hiking and environmental projects</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Chan See Yeu</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Malligha d/o Krishnasamy (2nd Sem)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
