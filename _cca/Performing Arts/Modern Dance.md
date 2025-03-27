@@ -22,9 +22,33 @@ genres</p>
 </li>
 </ol>
 <h3>Teachers-In-Charge</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Lim-Tan Xu Suan (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Nazreen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Shima</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
 <h3>Venue</h3>
 <p>Dance Room (ISH)</p>
 <p><em>Dancers don’t need wings to fly. To watch us dance is to hear our hearts speak. Dance is the joy of the moment and the heart of life.</em>
