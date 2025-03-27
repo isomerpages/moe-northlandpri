@@ -28,11 +28,37 @@ and updating of the D’art gallery.</p>
 </li>
 </ol>
 <h3>Teachers-In-Charge</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Miss Soh Wan Hong (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mrs Javis Phua-Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Miss Hiswary D/O Manimaran</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Nurfaizah Binte Ismail</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Manivanan Muthu</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Venue</h3>
 <p>Art Rooms 1 &amp; 2 (Level 3 and 4)</p>
 <p><em>We gain mastery when we are given the opportunity to inject creativity in our activities. In appreciation, exploration and experimentation of art, we share a common passion.</em>
