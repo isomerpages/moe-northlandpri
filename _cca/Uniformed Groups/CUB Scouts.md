@@ -20,12 +20,28 @@ eg learning journeys hiking and environmental projects</p>
 </li>
 </ol>
 <h3>Teachers-in-charge</h3>
-<p>Mrs Prema d/o Chandran (OIC)</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Prema Suresh (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Chan See Yeu</p>
-<p>Mdm Malligha d/o Krishnasamy (2nd Sem)
-<br>
-</p>
-<p>Venue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Malligha d/o Krishnasamy (2nd Sem)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h2>Venue</h2>
 <p>3F Classroom</p>
 <p><em>The real way to gain happiness is to give it to others.A scout is never taken by surprise; he/she knows exactly what to do when anything unexpected happens <u>Lord Baden-Powell</u></em>
 </p>
