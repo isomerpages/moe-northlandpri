@@ -52,8 +52,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho-chan_hui_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ho-Chan Hui Lin</a>
 </p>
-<p><a href="mailto:deborah_tsung_chung_ying@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Deborah Tsung</a>
-</p>
 </td>
 </tr>
 <tr>
