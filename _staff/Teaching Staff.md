@@ -52,6 +52,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho-chan_hui_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ho-Chan Hui Lin</a>
 </p>
+<p><a href="mailto:Pan_Xiuyan_Dini@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Pan Xiuyan Dini</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -642,10 +644,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="mailto:michael_long_tian_heng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Michael Long</a>
-</p>
-</li>
-<li>
-<p><a href="mailto:Pan_Xiuyan_Dini@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Pan Xiuyan Dini</a>
 </p>
 </li>
 </ol>
