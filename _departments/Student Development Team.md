@@ -2,7 +2,12 @@
 title: Student Development Team
 permalink: /departments/student-development-team/
 description: ""
+variant: tiptap
 ---
-![](/images/sdt2%20%20.jpg)
-
-![](/images/sdt1%20%20.jpg)
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sdt2%20%20.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sdt1%20%20.jpg">
+</div>
+<p></p>
