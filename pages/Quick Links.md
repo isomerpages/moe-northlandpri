@@ -213,7 +213,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://n1729padmw00872.schools.moe.edu.sg/ras" rel="noopener noreferrer" target="_blank"><u>RAS Booking System</u></a>
+<p><a href="http://n1729padmw00954.schools.moe.edu.sg/ras" rel="noopener noreferrer" target="_blank"><u>RAS Booking System</u></a>
 </p>
 </td>
 </tr>
