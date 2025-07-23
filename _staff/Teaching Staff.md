@@ -645,6 +645,17 @@ variant: tiptap
 <li>
 <p><a href="mailto:michael_long_tian_heng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Michael Long</a>
 </p>
+</li>
+<li>
+<p><a href="dashni_ravindran_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Dashni Ravindran</a>
+</p>
+</li>
+<li>
+<p><a href="tan_yan_lin_angel@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Angel Tan</a>
+</p>
+</li>
+<li>
+<p>Miss Cheryl Lim Shiying</p>
 <p></p>
 </li>
 </ol>
