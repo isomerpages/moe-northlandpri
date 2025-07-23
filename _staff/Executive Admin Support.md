@@ -26,13 +26,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ramachandran_nair@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ramachandran Nair</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Adjunct Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:ong_guan_khoon@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Alvin Ong</a>
 </p>
 </td>
@@ -55,14 +48,7 @@ variant: tiptap
 </p>
 <p><a href="mailto:muhammad_noor_nordin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Noor Nordin</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Adjunct Administraton Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_choon_yin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Celia Wong</a>
+<p><a href="mailto:wong_choon_yin@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Celia Wong</a>
 </p>
 </td>
 </tr>
