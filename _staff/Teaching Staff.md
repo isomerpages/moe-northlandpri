@@ -647,11 +647,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="dashni_ravindran_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Dashni Ravindran</a>
+<p><a href="mailto:dashni_ravindran_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Dashni Ravindran</a>
 </p>
 </li>
 <li>
-<p><a href="tan_yan_lin_angel@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Angel Tan</a>
+<p><a href="mailto:tan_yan_lin_angel@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Angel Tan</a>
 </p>
 </li>
 <li>
