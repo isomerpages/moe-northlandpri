@@ -46,7 +46,7 @@ p.m. on 15 September 2025, to the School’s General Office</p>
 <p>Contact Number: 6759 8884</p>
 </li>
 <li>
-<p>Email: <a href="https://drive.google.com/file/d/1PPzH0joodzGiSCs_btoCy_kpTYAmoIzg/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">tan_lay_geok_b@moe.edu.sg</a>
+<p>Email: <a href="mailto:tan_lay_geok_b@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_lay_geok_b@moe.edu.sg</a>
 </p>
 </li>
 <li>
