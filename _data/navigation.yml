@@ -21,6 +21,8 @@ links:
         url: /departments/physical-education/
       - title: ICT
         url: /departments/infocomm-technology/
+      - title: New submenu
+        url: /permalink
   - title: CCA
     collection: cca
   - title: PARTNERS
