@@ -19,8 +19,10 @@ links:
         url: /departments/aesthetics/
       - title: Physical Education
         url: /departments/physical-education/
-      - title: ICT
+      - title: Infocomm Technology
         url: /departments/infocomm-technology/
+      - title: Student Development Team
+        url: /departments/student-development-team/
   - title: CCA
     collection: cca
   - title: PARTNERS
