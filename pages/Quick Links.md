@@ -84,7 +84,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/64fad1e6ac16050012155998" rel="noopener noreferrer" target="_blank">Waitlist Application</a>
+<p><a href="https://form.gov.sg/68ad5f0faf7582ab83036059" rel="noopener noreferrer" target="_blank">Waitlist Application</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
