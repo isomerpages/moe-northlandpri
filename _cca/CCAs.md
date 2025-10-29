@@ -4,7 +4,7 @@ permalink: /cca/ccas/
 description: ""
 variant: tiptap
 ---
-<h1>CCA </h1>
+<h1>CCA</h1>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -62,4 +62,5 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/cca-3%20.jpg">
 </div>
+<p></p>
 <p></p>
