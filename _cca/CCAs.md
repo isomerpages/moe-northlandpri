@@ -4,15 +4,7 @@ permalink: /cca/ccas/
 description: ""
 variant: tiptap
 ---
-<h1>CCA Achievements</h1>
-<p>Check out the 2024 CCA achievements, congratulations to all!</p>
-<div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS8Lt47AGwUu6rOtJ8jfmsEVchpe2yzDPg9CL_f3rHx13zfvyuvqTp70Vqq-H6s0g/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<h1>CCA Overview and Selection 2024</h1>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/KEybdflAj8A?si=w4H7Zp8ecDoIMBW5"></iframe>
-</div>
+<h1>CCA </h1>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -69,8 +61,5 @@ variant: tiptap
 </div>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/cca-3%20.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/cca-4%20.jpg">
 </div>
 <p></p>
