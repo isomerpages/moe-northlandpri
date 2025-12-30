@@ -149,7 +149,7 @@ variant: tiptap
 <p>Year Head P5-P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_liang_tien@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Ang Liang Tien Terrence</a>
+<p><a href="mailto:ang_liang_tien@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Ang Liang Tien Terrance</a>
 </p>
 </td>
 </tr>
