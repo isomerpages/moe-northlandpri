@@ -36,5 +36,5 @@ Our hope is that, with your partnership, your child will grow into an empowered 
 
 Thank you for walking this journey with us and for the trust you place in Northland. We look forward to working closely with you to make 2026 a meaningful and transformative year for your child, and to continue building new stories of success together.
 
-Regards,
-Jay
+Mr Jay Mahardale
+Principal
