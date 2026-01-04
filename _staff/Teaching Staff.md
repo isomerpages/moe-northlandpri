@@ -440,7 +440,7 @@ variant: tiptap
 </tbody>
 </table>
 <h1>2026 Primary 5</h1>
-<p>Year Head: <a href="mailto:ang_liang_tien@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Ang Liang Tien</a>
+<p>Year Head: <a href="mailto:ang_liang_tien@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Ang Liang Tien Terrance</a>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
