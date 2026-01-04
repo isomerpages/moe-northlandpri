@@ -17,8 +17,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_cher_hiang_christine@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lee Cher Hiang Christine</a>
-</p>
+<p><a href="mailto:lee_cher_hiang_christine@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lee Cher Hiang Christine </a>李书娴老师</p>
 </td>
 </tr>
 <tr>
