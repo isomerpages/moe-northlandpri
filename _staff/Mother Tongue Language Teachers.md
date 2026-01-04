@@ -17,6 +17,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:zheng_junren@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zheng Junren </a>郑竣仁老师</p>
 </td>
 </tr>
@@ -102,7 +107,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chua_siew_beng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Chua Siew Beng</a>
+</p>
 </td>
 </tr>
 </tbody>
