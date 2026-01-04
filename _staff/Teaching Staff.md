@@ -630,13 +630,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p></p>
-</li>
-<li>
-<p></p>
-</li>
-<li>
-<p></p>
+<p><a href="mailto:Pan_Xiuyan_Dini@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Pan Xiuyan Dini</a>
+</p>
 <p></p>
 </li>
 </ol>
