@@ -17,7 +17,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_cher_hiang_christine@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lee Cher Hiang Christine </a>
+<p><a href="mailto:lee_cher_hiang_christine@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lee Cher Hiang Christine</a>
 </p>
 </td>
 </tr>
@@ -173,12 +173,6 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:anandhi_nagaraja@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Anandhi d/o Nagaraja</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:malligha_krishnasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Malligha d/o Krishnasamy</a>
 </p>
 </td>
 </tr>
