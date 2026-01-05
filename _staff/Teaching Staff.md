@@ -298,7 +298,8 @@ variant: tiptap
 </p>
 <p><a href="mailto:heng_cindy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Cindy Heng</a>
 </p>
-<p>Mdm Keerthana Maheswaran</p>
+<p><a href="mailto:Keerthana_maheswaran@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Keerthana Maheswaran</a>
+</p>
 </td>
 </tr>
 <tr>
