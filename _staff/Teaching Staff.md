@@ -264,7 +264,7 @@ variant: tiptap
 </tbody>
 </table>
 <h1>2026 Primary 3</h1>
-<p>Year Head: <a href="mailto:lasime_kumari@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Lasime Kumari</a>
+<p>Year Head: <a href="mailto:lasime_kumari@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lasime Kumari</a>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -309,7 +309,7 @@ variant: tiptap
 <p>3C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_shiuh_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lam-Lim Shiuh Hui</a>
+<p><a href="mailto:lim_shiuh_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Shiuh Hui Jennifer</a>
 </p>
 <p><a href="mailto:fadilah_abdul_rahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fadilah Abdul Rahim</a>
 </p>
