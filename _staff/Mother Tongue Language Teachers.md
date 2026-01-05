@@ -182,7 +182,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener nofollow" target="_blank">Mdm Keerthana Maheswaran</a>
+<p><a href="mailto:Keerthana_maheswaran@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Keerthana Maheswaran</a>
 </p>
 </td>
 </tr>
