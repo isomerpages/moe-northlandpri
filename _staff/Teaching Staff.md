@@ -41,6 +41,8 @@ variant: tiptap
 </p>
 <p><a href="mailto:chua_pei_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Chua Pei Ying</a>
 </p>
+<p><a href="mailto:yu_xinyi_d@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Yu Xinyi</a>
+</p>
 </td>
 </tr>
 <tr>
