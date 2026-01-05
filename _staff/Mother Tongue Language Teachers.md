@@ -17,6 +17,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:lee_cher_hiang_christine@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lee Cher Hiang Christine </a>李书娴老师</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:zheng_junren@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zheng Junren </a>郑竣仁老师</p>
 </td>
 </tr>
@@ -72,11 +77,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lin_ziting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Yong-Lin Ziting </a>林梓婷老师</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:phang_si_ling_vivian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Phang Si Ling Vivian </a>方思灵老师</p>
 </td>
 </tr>
@@ -103,6 +103,11 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Pan_Xiuyan_Dini@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Pan Xiuyan Dini</a> 潘修彥老师</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_siew_beng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Chua Siew Beng </a>蔡秀敏老师</p>
 </td>
 </tr>
 </tbody>
@@ -171,13 +176,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:malligha_krishnasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Malligha d/o Krishnasamy</a>
+<p><a href="mailto:p_nirija@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm P Nirija</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:p_nirija@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm P Nirija</a>
+<p><a href="mailto:Keerthana_maheswaran@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Keerthana Maheswaran</a>
 </p>
 </td>
 </tr>

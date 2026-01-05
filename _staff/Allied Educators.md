@@ -51,7 +51,8 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rachel Chan</p>
+<p><a href="mailto:chan_wen_yeu_rachel_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Rachel Chan</a>
+</p>
 </td>
 </tr>
 </tbody>
