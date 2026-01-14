@@ -112,7 +112,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/175xr2XDMyEzKR0CmSEMslpU89DwBzt1F?usp=sharing" rel="noopener nofollow" target="_blank">Parent Gateway - Student Absence feature - User Guide and FAQs</a>
+<p><a href="https://drive.google.com/drive/folders/175xr2XDMyEzKR0CmSEMslpU89DwBzt1F?usp=sharing" rel="noopener nofollow" target="_blank">Parents Gateway - Student Absence feature User Guide and FAQs</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
