@@ -6,7 +6,7 @@ third_nav_title: Clubs & Societies
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MlbXnouU3rY?si=ow7ovsODeVwF9juq"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MlbXnouU3rY?si=ow7ovsODeVwF9juq"></iframe>
 </div>
 <h3>Objectives &amp; Activities</h3>
 <ol data-tight="true" class="tight">
@@ -32,7 +32,7 @@ by our chess teachers.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chen Jun (OIC)</p>
+<p>Mdm Angrini Bte Sawal(OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Yong-Lin Ziting</p>
@@ -43,7 +43,7 @@ by our chess teachers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Angrini Bte Sawal</p>
+<p>Mdm Chen Jun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Cai Weiling</p>
