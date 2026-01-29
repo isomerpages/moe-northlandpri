@@ -6,7 +6,7 @@ third_nav_title: Clubs & Societies
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/X-GF20hkGMM?si=jp_3gRjHNPG0V111"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/X-GF20hkGMM?si=jp_3gRjHNPG0V111"></iframe>
 </div>
 <h3>Objectives and Activities</h3>
 <ol data-tight="true" class="tight">
@@ -29,10 +29,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lam-Lim Shiuh Hui (OIC)</p>
+<p>Ms Jennifer Lim (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shiamala d/o Krishna Kumar</p>
+<p>Mr Muhammad Hairi Mohamad</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ variant: tiptap
 <p>Mr Jayaram Saravanakumar Naidu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sarina</p>
+<p>Miss Dashni Ravindran</p>
 </td>
 </tr>
 </tbody>
