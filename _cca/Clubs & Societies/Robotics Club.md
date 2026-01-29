@@ -47,9 +47,7 @@ variant: tiptap
 </table>
 <h2>Venue</h2>
 <p>Computer Labs/ Teaching Lab</p>
-<p>
-<br>
-</p>
+<p></p>
 <p><em>Robotics – There are endless number of things to discover about Robotics. A lot of it is just too fantastic and futuristic for people to believe. <u>Daniel H Wilson</u></em>
 </p>
 <p></p>
