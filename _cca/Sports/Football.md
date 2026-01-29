@@ -6,7 +6,7 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qoMPI_oISN4?si=PunkmcON0nqZIucA"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qoMPI_oISN4?si=PunkmcON0nqZIucA"></iframe>
 </div>
 <h3>Objectives &amp; Activities</h3>
 <ol data-tight="true" class="tight">
@@ -49,7 +49,7 @@ team.</p>
 <p>Mr Shahrul Fadly</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Faroek B Hamsani (2nd Sem)</p>
+<p>Mr Mohamed Faroek B Hamsani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

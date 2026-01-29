@@ -6,7 +6,7 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Xzagez1qhdQ?si=gAliHnn7GkXsgCwy"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Xzagez1qhdQ?si=gAliHnn7GkXsgCwy"></iframe>
 </div>
 <h3>Objectives &amp; Activities</h3>
 <ol data-tight="true" class="tight">
@@ -53,7 +53,7 @@ variant: tiptap
 <p>Mrs Ellis Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurul Shairini (2nd Sem)</p>
+<p>Mdm Nurul Shairini</p>
 </td>
 </tr>
 </tbody>

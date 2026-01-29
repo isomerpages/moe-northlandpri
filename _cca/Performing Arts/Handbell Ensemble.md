@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Vbng7PU8Bzs?si=rqtPgZ_0Tq_Lmq2j"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Vbng7PU8Bzs?si=rqtPgZ_0Tq_Lmq2j"></iframe>
 </div>
 <h3>Objectives &amp; Activities</h3>
 <ol data-tight="true" class="tight">
@@ -49,10 +49,10 @@ Judging and Applause Musical</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Chong Cheng Cheng (OIC)</p>
+<p>Mrs Goh Xin Hwei (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Goh Xin Hwei</p>
+<p>Mrs Chong Cheng Cheng</p>
 </td>
 </tr>
 </tbody>

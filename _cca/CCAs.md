@@ -5,6 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>CCA</h1>
+<p>Thursdays, 2.00 p.m. to 4 p.m., respective CCA venues</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
