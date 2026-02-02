@@ -23,7 +23,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Group 1</p>
+<p>1A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:foo_hui_shan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs See-Foo Hui Shan</a>
@@ -34,7 +34,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Group 2</p>
+<p>1B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="hoe_kexin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Poh Kexin</a>
@@ -47,7 +47,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Group 3</p>
+<p>1C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_hasimah_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nur Hasimah Abdul Rahman</a>
@@ -58,7 +58,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Group 4</p>
+<p>1D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jilyn_chew_hui_kiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Jilyn Tan</a>
@@ -69,7 +69,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Group 5</p>
+<p>1E</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_cheng_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Chong Cheng Cheng</a>
@@ -81,7 +81,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Group 6</p>
+<p>1F</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hiswary_manimaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Hiswary d/o Manimaran</a>
@@ -91,7 +91,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Group 7</p>
+<p>1G</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:menhanah_masudi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Menhanah Masudi</a>
@@ -102,7 +102,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Group 8</p>
+<p>1H</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:angrini_sawal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Angrini Sawal</a>
