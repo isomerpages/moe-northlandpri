@@ -139,7 +139,7 @@ variant: tiptap
 <p>P1 and P2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.30 am to 10.00 am</p>
+<p>9.15 am to 9.45 am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12.00 pm to 12.15 pm</p>
@@ -150,7 +150,7 @@ variant: tiptap
 <p>P3 and P4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.15 am to 10.45 am</p>
+<p>10.00 am to 10.30 am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12.15 pm to 12.30 pm</p>
