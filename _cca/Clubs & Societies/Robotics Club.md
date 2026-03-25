@@ -48,6 +48,13 @@ variant: tiptap
 <h2>Venue</h2>
 <p>Computer Labs/ Teaching Lab</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lego_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lego_2.jpg">
+</div>
 <p><em>Robotics – There are endless number of things to discover about Robotics. A lot of it is just too fantastic and futuristic for people to believe. <u>Daniel H Wilson</u></em>
 </p>
 <p></p>
