@@ -4,9 +4,6 @@ permalink: /about-us/principals-message/
 description: ""
 variant: markdown
 ---
-
-
-
 ![](/images/WhatsApp_Image_2026_03_31_at_12_56_26_PM.jpg)
 
 Dear Parents and Guardians,
