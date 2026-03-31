@@ -4,6 +4,8 @@ permalink: /about-us/principals-message/
 description: ""
 variant: markdown
 ---
+![](/images/WhatsApp_Image_2026_03_31_at_12_56_26_PM.jpg)
+
 Dear Parents and Guardians,
 
 Welcome to a brand new year at Northland Primary School. At Northland, we strongly believe in helping every child flourish by developing their positive self, nurturing positive relationships, and creating positive learning experiences that prepare them for life, not just for examinations. As Carol Dweck, who pioneered the idea of the growth mindset, reminds us, when children understand that their abilities can be developed through effort, good strategies and support, they become more resilient, more motivated and more willing to embrace challenges. This is the kind of mindset we hope to cultivate in every Northlander.
