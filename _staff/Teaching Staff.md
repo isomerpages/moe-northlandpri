@@ -337,6 +337,8 @@ variant: tiptap
 </p>
 <p><a href="mailto:lim_jun_liang_nigel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Jun Liang Nigel</a>
 </p>
+<p><a href="mailto:neitiyah_balkrishnan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Neitiyah Balkrishnan</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -556,9 +558,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurshida_abdul_hamit@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nurshida Abdul Hamit</a>
 </p>
-<p><a href="mailto:tan_pei_ying_Joycelyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joycelyn Goh</a>
-</p>
 <p><a href="asmawati_abdullah@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Asmawati Ganesan</a>
+</p>
+<p><a href="mailto:tan_pei_ying_Joycelyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joycelyn Goh</a>
 </p>
 </td>
 </tr>
@@ -571,7 +573,8 @@ variant: tiptap
 </p>
 <p><a href="mailto:mohamed_faroek_hamsani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohamed Faroek Hamsani</a>
 </p>
-<p>Mdm Kang</p>
+<p><a href="mailto:kung_sok_hiang_b@school.gov.sg" rel="noopener nofollow" target="_blank">Mdm Kung Sok Hiang</a>
+</p>
 </td>
 </tr>
 <tr>
