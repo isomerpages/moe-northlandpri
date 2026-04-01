@@ -257,7 +257,6 @@ variant: tiptap
 <p>Subject Head Discipline &amp; Student Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><a href="mailto:mohamed_faroek_hamsani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mohamed Faroek Hamsani</a>
 </p>
 </td>
