@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 ![](/images/WhatsApp_Image_2026_03_31_at_12_56_26_PM.jpg)
-(From left to right) Vice-Principal - Mr Chong Choon Hian, Principal - Mr Jay Mahardale, Vice-Principal - Mrs Gina Cho
+(From left to right) Vice-Principal - Mr Chong Choong Hian, Principal - Mr Jay Mahardale, Vice-Principal - Mrs Gina Cho
 
 Dear Parents and Guardians,
 
