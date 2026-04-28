@@ -326,6 +326,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/playquest2026" rel="noopener nofollow" target="_blank">PlayQuest 2026</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
