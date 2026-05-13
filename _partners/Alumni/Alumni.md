@@ -3,34 +3,30 @@ title: Alumni
 permalink: /partners/Alumni/alumni/
 description: ""
 third_nav_title: Alumni
+variant: tiptap
 ---
-The Alumni has been established to reinforce a sense of belonging among former students, providing them a platform to contribute to the school and serve as good role models to the students.
-
-  
-
-Northland Primary Alumni Association (NPAA) was formally formed in 2015.
-
-  
-
-**Objectives**
-
-*   To complement the school in providing quality and holistic education for all students
-*   To provide opportunities for members to develop and contribute back to the school
-*   To sustain and strengthen relationships within the alumni community
-*   To champion the school’s identity and traditions and foster a strong school spirit and engender school pride across the various batches of students
-
-  
-
-In alignment with the school’s mission of learners growing to serve, former students are strongly encouraged to return as alumni members to share their experiences and skills to further enrich the school.
-
-  
-
-**Key activities**
-
-*   Secondary School Roadshow
-*   P6 Graduation Night
-*   Youth Alumni Annual Camp
-
-  
-
-For enquiries, please email us at [ hello@npsalumni.sg]( hello@npsalumni.sg)
+<p>The Alumni has been established to reinforce a sense of belonging among
+former students, providing them a platform to contribute to the school
+and serve as good role models to the students.</p>
+<p>Northland Primary Alumni Association (NPAA) was formally formed in 2015.</p>
+<p><strong>Objectives</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To complement the school in providing quality and holistic education for
+all students</p>
+</li>
+<li>
+<p>To provide opportunities for members to develop and contribute back to
+the school</p>
+</li>
+<li>
+<p>To sustain and strengthen relationships within the alumni community</p>
+</li>
+<li>
+<p>To champion the school’s identity and traditions and foster a strong school
+spirit and engender school pride across the various batches of students</p>
+</li>
+</ul>
+<p><a href="https://npsalumni.sg/" rel="noopener nofollow" target="_blank">Visit us</a> to
+know more!</p>
