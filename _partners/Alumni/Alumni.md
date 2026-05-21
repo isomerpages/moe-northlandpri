@@ -7,8 +7,8 @@ variant: tiptap
 ---
 <p>The Alumni has been established to reinforce a sense of belonging among
 former students, providing them a platform to contribute to the school
-and serve as good role models to the students.</p>
-<p>Northland Primary Alumni Association (NPAA) was formally formed in 2015.</p>
+and serve as good role models to the students. <a href="https://npsalumni.sg/" rel="noopener nofollow" target="_blank">Click here</a> to visit the website.</p>
+<p>Northland Primary Alumni Association (NPAA) was formally formed in 2016.</p>
 <p><strong>Objectives</strong>
 </p>
 <ul data-tight="true" class="tight">
